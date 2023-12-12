@@ -1,4 +1,4 @@
-name: Flat
+name: Generate RSS
 on:
   push:
     branches:
@@ -9,9 +9,14 @@ on:
 jobs:
   scheduled:
     runs-on: ubuntu-latest
+
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the changed files back to the repository.
+      contents: write
+
     steps:
       - name: checkout repo content
-        uses: actions/checkout@v3 # checkout the repository content to github runner.
+        uses: actions/checkout@v4 # checkout the repository content to github runner.
       - name: setup python
         uses: actions/setup-python@v4
         with:
