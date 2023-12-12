@@ -1,6 +1,6 @@
 # An RSS feed for the Google Developer Blog because these things matter
 
-Courtesy of ChatGPT and GitHub CoPilot (and a tiny bit of Conor), here's a [basic RSS feed](https://conoro.github.io/google-dev-blog-rss/rss/bring_back_reader.xml) for the [Google Developer Blog](https://developer.chrome.com/blog).
+Courtesy of ChatGPT and GitHub Copilot (and a tiny bit of Conor), here's a [basic RSS feed](https://conoro.github.io/google-dev-blog-rss/rss/bring_back_reader.xml) for the [Google Developer Blog](https://developer.chrome.com/blog).
 
 It runs on GitHub Actions and is generated once an hour.
 
