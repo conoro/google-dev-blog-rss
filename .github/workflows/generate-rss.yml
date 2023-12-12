@@ -31,5 +31,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit -m "Latest Google Developer Blog RSS"
+          git commit -m "Latest Google Chrome Developer Blog RSS"
           git push
