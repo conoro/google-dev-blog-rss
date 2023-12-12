@@ -50,7 +50,7 @@ async def main():
         # Generate RSS feed
 
         fg = FeedGenerator()
-        fg.title('Google Developer Blog')
+        fg.title('Google Chrome Developer Blog')
         fg.link(href='https://developer.chrome.com/blog', rel='alternate')
         fg.description('Latest blog posts from the Google Developer Blog')
 
