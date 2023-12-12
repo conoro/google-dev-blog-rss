@@ -6,20 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Dec 2023 20:15:58 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Dec 2023 20:15:58 +0000</pubDate>
-    <item>
-      <title>Chrome 108 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-108-beta?hl=en</link>
-      <description>New CSS viewport units, Federated Credential Management API, Variable COLRv1 fonts, and more.</description>
-      <pubDate>Fri, 28 Oct 2022 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chrome Web Store Policy Updates</title>
-      <link>https://developer.chrome.com/blog/cws-policy-revamp?hl=en</link>
-      <description>Chrome is updating the Chrome Web Store's Developer Program Policies to clearly state our guiding principals, provide more context on enforcement, and make our policies easier to understand.</description>
-      <pubDate>Tue, 01 Nov 2022 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 Dec 2023 21:15:16 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Dec 2023 21:15:16 +0000</pubDate>
     <item>
       <title>Not all storage is created equal: introducing Storage Buckets</title>
       <link>https://developer.chrome.com/blog/storage-buckets?hl=en</link>
@@ -548,6 +536,12 @@ animations. Suppose you needed to</description>
       <pubDate>Wed, 17 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>What's New with Aurora?</title>
+      <link>https://developer.chrome.com/blog/aurora-update-2023?hl=en</link>
+      <description>Learn what the Chrome Aurora team has been up to lately and their roadmap for 2023.</description>
+      <pubDate>Fri, 19 May 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Introducing the popover API</title>
       <link>https://developer.chrome.com/blog/introducing-popover-api?hl=en</link>
       <description>Learn how to build tooltips, menus, and more with the new popover API.</description>
@@ -992,6 +986,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/webgpu-ecosystem?hl=en</link>
       <description>Learn about how the WebGPU ecosystem extends beyond the JavaScript, C++, and Rust realms.</description>
       <pubDate>Thu, 09 Nov 2023 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What’s new in the Angular NgOptimizedImage directive</title>
+      <link>https://developer.chrome.com/blog/angular_ngoptimizedimage?hl=en</link>
+      <description>Learn about the new features included in the Angular NgOptimizedImage directive that further improve image performance in Angular apps.</description>
+      <pubDate>Wed, 15 Nov 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Improving content filtering in Manifest V3</title>
