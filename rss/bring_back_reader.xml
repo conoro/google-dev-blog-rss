@@ -6,125 +6,125 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Dec 2023 15:15:36 +0000</lastBuildDate>
-    <pubDate>Fri, 22 Dec 2023 15:15:36 +0000</pubDate>
+    <lastBuildDate>Fri, 22 Dec 2023 16:16:45 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Dec 2023 16:16:45 +0000</pubDate>
     <item>
       <title>Not all storage is created equal: introducing Storage Buckets</title>
-      <link>https://developer.chrome.com/blog/storage-buckets?hl=en</link>
+      <link>https://developer.chrome.com/blog/storage-buckets?hl=en&amp;authuser=1</link>
       <description>We're experimenting with an API for making persistent storage eviction under heavy memory pressure more predictable, and we'd love your feedback.</description>
       <pubDate>Fri, 04 Nov 2022 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DevTools Tips: Faster DevTools navigation</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-2?hl=en</link>
+      <link>https://developer.chrome.com/blog/devtools-tips-2?hl=en&amp;authuser=1</link>
       <description>Learn how to speed up your workflow with faster DevTools navigation using shortcuts and settings.</description>
       <pubDate>Thu, 10 Nov 2022 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DevTools Tips: Identify CSS improvelements</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-1?hl=en</link>
+      <link>https://developer.chrome.com/blog/devtools-tips-1?hl=en&amp;authuser=1</link>
       <description>Use the CSS Overview panel to identify potential CSS improvements.</description>
       <pubDate>Wed, 23 Nov 2022 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Screen sharing improvements in Chrome 109</title>
-      <link>https://developer.chrome.com/blog/screen-sharing-improvements-in-chrome-109?hl=en</link>
+      <link>https://developer.chrome.com/blog/screen-sharing-improvements-in-chrome-109?hl=en&amp;authuser=1</link>
       <description>Details of two screen sharing improvements for the web—a mechanism for controlling tab focus when screen sharing, and a mechanism to control local audio playback.</description>
       <pubDate>Mon, 28 Nov 2022 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New in Chrome 108</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-108?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-chrome-108?hl=en&amp;authuser=1</link>
       <description>Chrome 108 is rolling out now. There are new Intl APIs to give you more control when formatting numbers. There’s an origin trial for the new Pop Up API, making it easy to surface critical content to the user. There are a handful of CSS improvements. And there’s plenty more.</description>
       <pubDate>Tue, 29 Nov 2022 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome Extensions: Extending API to support Instant Navigation</title>
-      <link>https://developer.chrome.com/blog/extension-instantnav?hl=en</link>
+      <link>https://developer.chrome.com/blog/extension-instantnav?hl=en&amp;authuser=1</link>
       <description>The Extensions API has been updated to support back/forward cache, preloading navigations.</description>
       <pubDate>Wed, 30 Nov 2022 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome 109 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-109-beta?hl=en</link>
+      <link>https://developer.chrome.com/blog/chrome-109-beta?hl=en&amp;authuser=1</link>
       <description>MathML, conditional focus for getDisplayMedia(), Origin Private File System on Android, and more.</description>
       <pubDate>Thu, 01 Dec 2022 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Secure Payment Confirmation on Chrome Android</title>
-      <link>https://developer.chrome.com/blog/spc-on-android?hl=en</link>
+      <link>https://developer.chrome.com/blog/spc-on-android?hl=en&amp;authuser=1</link>
       <description>Secure Payment Confirmation brings a phishing resistant payment confirmation with the power of passkeys to the web. It will be available in Chrome Android from Chrome 109.</description>
       <pubDate>Thu, 01 Dec 2022 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DevTools Tips: Device Mode</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-19?hl=en</link>
+      <link>https://developer.chrome.com/blog/devtools-tips-19?hl=en&amp;authuser=1</link>
       <description>Simulate mobule devices with Device Mode in DevTools.</description>
       <pubDate>Mon, 05 Dec 2022 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What developers need to know about Chrome's Memory and Energy Saver modes</title>
-      <link>https://developer.chrome.com/blog/memory-and-energy-saver-mode?hl=en</link>
+      <link>https://developer.chrome.com/blog/memory-and-energy-saver-mode?hl=en&amp;authuser=1</link>
       <description>Learn how to ensure your page can gracefully handle Chrome's new Memory and Energy saver modes.</description>
       <pubDate>Thu, 08 Dec 2022 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Maximize ad relevance</title>
-      <link>https://developer.chrome.com/blog/maximize-ad-relevance?hl=en</link>
+      <link>https://developer.chrome.com/blog/maximize-ad-relevance?hl=en&amp;authuser=1</link>
       <description>New documentation for the Privacy Sandbox on ad relevance without third-party cookies.</description>
       <pubDate>Tue, 13 Dec 2022 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome Web Store Policy Updates</title>
-      <link>https://developer.chrome.com/blog/cws-policy-revamp-jan23?hl=en</link>
+      <link>https://developer.chrome.com/blog/cws-policy-revamp-jan23?hl=en&amp;authuser=1</link>
       <description>Chrome is updating the Chrome Web Store's Developer Program Policies to clearly state our guiding principals, provide more context on enforcement, and make our policies easier to understand.</description>
       <pubDate>Thu, 15 Dec 2022 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome Dev Insider: The year that was</title>
-      <link>https://developer.chrome.com/blog/insider-dec-22?hl=en</link>
+      <link>https://developer.chrome.com/blog/insider-dec-22?hl=en&amp;authuser=1</link>
       <description>An update from Chrome’s Web Platform team where we take developers behind the scenes to share perspectives, conversations and updates.</description>
       <pubDate>Thu, 15 Dec 2022 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Help choose the syntax for CSS Nesting</title>
-      <link>https://developer.chrome.com/blog/help-css-nesting-again?hl=en</link>
+      <link>https://developer.chrome.com/blog/help-css-nesting-again?hl=en&amp;authuser=1</link>
       <description>The CSS Working Group is continuing a debate over the best way to define nesting in CSS. If you are someone who writes CSS, we’d like your help.</description>
       <pubDate>Fri, 16 Dec 2022 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Change in release schedule from Chrome 110</title>
-      <link>https://developer.chrome.com/blog/early-stable?hl=en</link>
+      <link>https://developer.chrome.com/blog/early-stable?hl=en&amp;authuser=1</link>
       <description>From Chrome 110 an early stable version will be released to a small percentage of users.</description>
       <pubDate>Wed, 21 Dec 2022 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DevTools Tips: Debugging Project Fugu APIs</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-17?hl=en</link>
+      <link>https://developer.chrome.com/blog/devtools-tips-17?hl=en&amp;authuser=1</link>
       <description>Use DevTools to debug Project Fugu APIs.</description>
       <pubDate>Tue, 03 Jan 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's New In DevTools (Chrome 109)</title>
-      <link>https://developer.chrome.com/blog/new-in-devtools-109?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-devtools-109?hl=en&amp;authuser=1</link>
       <description>Copy step as script in the Recorder, actual function names in performance’s recordings, and more.</description>
       <pubDate>Tue, 10 Jan 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New in Chrome 109</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-109?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-chrome-109?hl=en&amp;authuser=1</link>
       <description>Chrome 109 is rolling out now. The Origin Private File System API is now available for Android, there is a set of new properties in CSS, you can easily add math notations in your HTML with the support for MathML core, and there’s plenty more.</description>
       <pubDate>Tue, 10 Jan 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Change the destination output device in Web Audio</title>
-      <link>https://developer.chrome.com/blog/audiocontext-setsinkid?hl=en</link>
+      <link>https://developer.chrome.com/blog/audiocontext-setsinkid?hl=en&amp;authuser=1</link>
       <description>Learn how to programmatically change the audio output destination in Web Audio.</description>
       <pubDate>Wed, 11 Jan 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SQLite Wasm in the browser backed by the Origin Private File System</title>
-      <link>https://developer.chrome.com/blog/sqlite-wasm-in-the-browser-backed-by-the-origin-private-file-system?hl=en</link>
+      <link>https://developer.chrome.com/blog/sqlite-wasm-in-the-browser-backed-by-the-origin-private-file-system?hl=en&amp;authuser=1</link>
       <description>Use SQLite to handle all your storage needs performantly on the web. SQLite is a popular, open-source, lightweight, embedded relational
 database management system. Many developers use it to store data in a
 structured, easy-to-use manner. Because of</description>
@@ -132,272 +132,272 @@ structured, easy-to-use manner. Because of</description>
     </item>
     <item>
       <title>Cookie Expires and Max-Age attributes now have upper limit</title>
-      <link>https://developer.chrome.com/blog/cookie-max-age-expires?hl=en</link>
+      <link>https://developer.chrome.com/blog/cookie-max-age-expires?hl=en&amp;authuser=1</link>
       <description>As of Chrome release M104 (August 2022) cookies can no longer set an expiration date more than 400 days in the future.</description>
       <pubDate>Thu, 12 Jan 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Iframe credentialless: Easily embed iframes in COEP environments</title>
-      <link>https://developer.chrome.com/blog/iframe-credentialless?hl=en</link>
+      <link>https://developer.chrome.com/blog/iframe-credentialless?hl=en&amp;authuser=1</link>
       <description>Iframe credentialless is implemented in Chrome 110. It provides developers a way to load documents in third-party iframes using a new and ephemeral context. In return, they are no longer subject to the COEP embedding rules. Developers using COEP can now embed third party iframes that do not use COEP themselves.</description>
       <pubDate>Thu, 12 Jan 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome 110 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-110-beta?hl=en</link>
+      <link>https://developer.chrome.com/blog/chrome-110-beta?hl=en&amp;authuser=1</link>
       <description>CSS initial letters, web app launch handler, cross-origin iframe support for the FedCM API, and more.</description>
       <pubDate>Thu, 12 Jan 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Discovering the capable web</title>
-      <link>https://developer.chrome.com/blog/how-fugu-is-my-browser-and-how-fugu-is-the-web?hl=en</link>
+      <link>https://developer.chrome.com/blog/how-fugu-is-my-browser-and-how-fugu-is-the-web?hl=en&amp;authuser=1</link>
       <description>What advanced web capabilities does your browser support? And what are the web apps that make use of these capabilities? To answer these questions, check out a browser testing site and a browser extension. Project Fugu is a cross company effort to</description>
       <pubDate>Wed, 18 Jan 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Control your drop caps with CSS initial-letter</title>
-      <link>https://developer.chrome.com/blog/control-your-drop-caps-with-css-initial-letter?hl=en</link>
+      <link>https://developer.chrome.com/blog/control-your-drop-caps-with-css-initial-letter?hl=en&amp;authuser=1</link>
       <description>Say "Goodbye" to interesting workarounds to style your drop caps!</description>
       <pubDate>Thu, 19 Jan 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Scrollend, a new JavaScript event</title>
-      <link>https://developer.chrome.com/blog/scrollend-a-new-javascript-event?hl=en</link>
+      <link>https://developer.chrome.com/blog/scrollend-a-new-javascript-event?hl=en&amp;authuser=1</link>
       <description>Delete your timeout functions and shake off their bugs, here's the event you really need: scrollend.</description>
       <pubDate>Wed, 25 Jan 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Basic offline page for web apps on Chrome Android</title>
-      <link>https://developer.chrome.com/blog/default-offline?hl=en</link>
+      <link>https://developer.chrome.com/blog/default-offline?hl=en&amp;authuser=1</link>
       <description>From Chrome 109, the browser will automatically generate a default page to indicate that the app is currently offline when an installed web app on Android does not have its own offline experience.</description>
       <pubDate>Wed, 25 Jan 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Offscreen Documents in Manifest V3</title>
-      <link>https://developer.chrome.com/blog/Offscreen-Documents-in-Manifest-v3?hl=en</link>
+      <link>https://developer.chrome.com/blog/Offscreen-Documents-in-Manifest-v3?hl=en&amp;authuser=1</link>
       <description>Introducing the Offscreen Documents API for Chrome extension development.</description>
       <pubDate>Wed, 25 Jan 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Longer extension service worker lifetimes</title>
-      <link>https://developer.chrome.com/blog/longer-esw-lifetimes?hl=en</link>
+      <link>https://developer.chrome.com/blog/longer-esw-lifetimes?hl=en&amp;authuser=1</link>
       <description>Extension service workers can now stay alive as long as they're receiving events. This increases the reliability of extension services workers, but has a pitfall you should avoid.</description>
       <pubDate>Fri, 27 Jan 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DevTools Tips: Debugging PWA</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-18?hl=en</link>
+      <link>https://developer.chrome.com/blog/devtools-tips-18?hl=en&amp;authuser=1</link>
       <description>Debug Progressive Web Apps with DevTools.</description>
       <pubDate>Mon, 30 Jan 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Private Network Access update: Announce extension of the Deprecation Trial</title>
-      <link>https://developer.chrome.com/blog/private-network-access-update-2023-02-02?hl=en</link>
+      <link>https://developer.chrome.com/blog/private-network-access-update-2023-02-02?hl=en&amp;authuser=1</link>
       <description>Chrome is deprecating access to private network endpoints from non-secure public websites as part of the Private Network Access specification. A deprecation trial is available until Chrome 113.</description>
       <pubDate>Thu, 02 Feb 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The future of Picture-in-Picture</title>
-      <link>https://developer.chrome.com/blog/the-future-of-picture-in-picture?hl=en</link>
+      <link>https://developer.chrome.com/blog/the-future-of-picture-in-picture?hl=en&amp;authuser=1</link>
       <description>News of an origin trial from Chrome that enables arbitrary HTML content in an always-on-top window.</description>
       <pubDate>Thu, 02 Feb 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Meet the new CSS color spaces</title>
-      <link>https://developer.chrome.com/blog/meet-the-new-css-color-spaces?hl=en</link>
+      <link>https://developer.chrome.com/blog/meet-the-new-css-color-spaces?hl=en&amp;authuser=1</link>
       <description>CSS Color 4 brings wide gamut color tools and capabilities to the web: more colors, manipulation functions, and better gradients.</description>
       <pubDate>Thu, 02 Feb 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New requirements for the Web Share API in third-party iframes</title>
-      <link>https://developer.chrome.com/blog/web-share-api-in-third-party-iframes?hl=en</link>
+      <link>https://developer.chrome.com/blog/web-share-api-in-third-party-iframes?hl=en&amp;authuser=1</link>
       <description>For improved privacy and security, Web Share API calls in third-party iframes now need to be explicitly allowed. This article covers a potentially breaking change in the Web Share API. This change is already in
 Firefox, will land in Chrome from</description>
       <pubDate>Fri, 03 Feb 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Chromium Chronicle #32: Mind the patch gap</title>
-      <link>https://developer.chrome.com/blog/chromium-chronicle-32?hl=en</link>
+      <link>https://developer.chrome.com/blog/chromium-chronicle-32?hl=en&amp;authuser=1</link>
       <description>Learn how Chromium developers can reduce the chance of n-day exploitation.</description>
       <pubDate>Fri, 03 Feb 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's New In DevTools (Chrome 110)</title>
-      <link>https://developer.chrome.com/blog/new-in-devtools-110?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-devtools-110?hl=en&amp;authuser=1</link>
       <description>Clearing Performance panel on reload, view and highlight the code in the Recorder, and more.</description>
       <pubDate>Mon, 06 Feb 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New in Chrome 110</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-110?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-chrome-110?hl=en&amp;authuser=1</link>
       <description>Chrome 110 is rolling out now! Add custom style to your picture-in-picture elements with the new :picture-in-picture pseudo-class, set your web app launch behavior with launch_handler, use the credentialless attribute in iframes to embed third party content that doesn’t set a cross origin embedder policy and there’s plenty more.</description>
       <pubDate>Tue, 07 Feb 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Talking to the Stadia controller with WebHID</title>
-      <link>https://developer.chrome.com/blog/talking-to-the-stadia-controller-with-webhid?hl=en</link>
+      <link>https://developer.chrome.com/blog/talking-to-the-stadia-controller-with-webhid?hl=en&amp;authuser=1</link>
       <description>The flashed Stadia controller acts like a standard gamepad, which means not all its buttons are accessible using the Gamepad API. With WebHID, you can now access the missing buttons. Since Stadia shut down, many feared that the controller would end</description>
       <pubDate>Wed, 08 Feb 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome 111 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-111-beta?hl=en</link>
+      <link>https://developer.chrome.com/blog/chrome-111-beta?hl=en&amp;authuser=1</link>
       <description>New CSS color types and color spaces, CSS trigonometric functions, and the View Transitions API.</description>
       <pubDate>Thu, 09 Feb 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's new in Lighthouse 10</title>
-      <link>https://developer.chrome.com/blog/lighthouse-10-0?hl=en</link>
+      <link>https://developer.chrome.com/blog/lighthouse-10-0?hl=en&amp;authuser=1</link>
       <description>Lighthouse 10 is here with new scoring and audits.</description>
       <pubDate>Thu, 09 Feb 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Improved font fallbacks</title>
-      <link>https://developer.chrome.com/blog/font-fallbacks?hl=en</link>
+      <link>https://developer.chrome.com/blog/font-fallbacks?hl=en&amp;authuser=1</link>
       <description>The new `size-adjust` and font metric overrides allow developers to create font fallbacks that closely match web fonts. This reduces layout shifts.</description>
       <pubDate>Fri, 10 Feb 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's New in DevTools (Chrome 111)</title>
-      <link>https://developer.chrome.com/blog/new-in-devtools-111?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-devtools-111?hl=en&amp;authuser=1</link>
       <description>Debugging HD color, enhanced breakpoint UX, and more.</description>
       <pubDate>Thu, 16 Feb 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DevTools Tips: Discover CSS issues</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-20?hl=en</link>
+      <link>https://developer.chrome.com/blog/devtools-tips-20?hl=en&amp;authuser=1</link>
       <description>Use the Styles and Computed panes to discover CSS issues with DevTools.</description>
       <pubDate>Thu, 23 Feb 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Framework tools for font fallbacks</title>
-      <link>https://developer.chrome.com/blog/framework-tools-font-fallback?hl=en</link>
+      <link>https://developer.chrome.com/blog/framework-tools-font-fallback?hl=en&amp;authuser=1</link>
       <description>Learn how Next.js, Nuxt.js, and other libraries help to generate fallback font CSS without CLS.</description>
       <pubDate>Mon, 27 Feb 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Improving standards of behavior in standards discussions</title>
-      <link>https://developer.chrome.com/blog/standards-behavior?hl=en</link>
+      <link>https://developer.chrome.com/blog/standards-behavior?hl=en&amp;authuser=1</link>
       <description>How the Chrome team aims to encourage more professional, respectful and inclusive discussions.</description>
       <pubDate>Mon, 27 Feb 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Working with the industry to evolve CHIPS</title>
-      <link>https://developer.chrome.com/blog/working-with-the-industry-to-evolve-chips?hl=en</link>
+      <link>https://developer.chrome.com/blog/working-with-the-industry-to-evolve-chips?hl=en&amp;authuser=1</link>
       <description>Exploring two challenges that the Chrome team faced in implementing CHIPS and how community feedback played a key role in evolving the proposal design.</description>
       <pubDate>Tue, 28 Feb 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Tether elements to each other with CSS anchor positioning</title>
-      <link>https://developer.chrome.com/blog/tether-elements-to-each-other-with-css-anchor-positioning?hl=en</link>
+      <link>https://developer.chrome.com/blog/tether-elements-to-each-other-with-css-anchor-positioning?hl=en&amp;authuser=1</link>
       <description>A new API is coming to the web platform to help you position elements in an adaptive way with no tricks.</description>
       <pubDate>Wed, 01 Mar 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Privacy win! Users now share their screens more wisely</title>
-      <link>https://developer.chrome.com/blog/media-picker-reorder?hl=en</link>
+      <link>https://developer.chrome.com/blog/media-picker-reorder?hl=en&amp;authuser=1</link>
       <description>Using the nudge theory, we got users to stop shooting themselves in the foot during video conferencing calls.</description>
       <pubDate>Thu, 02 Mar 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A new home for the Project Fugu API Showcase</title>
-      <link>https://developer.chrome.com/blog/a-new-home-for-the-project-fugu-api-showcase?hl=en</link>
+      <link>https://developer.chrome.com/blog/a-new-home-for-the-project-fugu-api-showcase?hl=en&amp;authuser=1</link>
       <description>The Project Fugu API Showcase is a collection of apps that make use of APIs that are part of Project Fugu. The cross-company Capabilities Project (code name Project Fugu ) at Google has the objective of making it possible for web apps to do anything</description>
       <pubDate>Mon, 06 Mar 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New in Chrome 111</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-111?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-chrome-111?hl=en&amp;authuser=1</link>
       <description>Chrome 111 is rolling out now! Create polished transitions in your single page app with the View Transitions API, and bring colors to the next level with support for CSS color level 4. Discover new tools in the style panel to make the most of the new color functionality, and there’s plenty more.</description>
       <pubDate>Tue, 07 Mar 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome 112 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-112-beta?hl=en</link>
+      <link>https://developer.chrome.com/blog/chrome-112-beta?hl=en&amp;authuser=1</link>
       <description>CSS nesting, animation-composition, and a submitter parameter for the FormData constructor.</description>
       <pubDate>Thu, 09 Mar 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SPA view transitions land in Chrome 111</title>
-      <link>https://developer.chrome.com/blog/spa-view-transitions-land?hl=en</link>
+      <link>https://developer.chrome.com/blog/spa-view-transitions-land?hl=en&amp;authuser=1</link>
       <description>The View Transition API allows page transitions within single-page apps, and will later include multi-page apps.</description>
       <pubDate>Thu, 09 Mar 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's New in DevTools (Chrome 112)</title>
-      <link>https://developer.chrome.com/blog/new-in-devtools-112?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-devtools-112?hl=en&amp;authuser=1</link>
       <description>The Recorder introduces support for custom replay options that you can embed into DevTools with an extension. Try out the example extension. Select the new custom replay option to open the custom replay UI. To customize the Recorder to your needs and</description>
       <pubDate>Thu, 09 Mar 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Improving user privacy by requiring opt-in to send X-Requested-With header from WebView</title>
-      <link>https://developer.chrome.com/blog/android-webview-header-privacy?hl=en</link>
+      <link>https://developer.chrome.com/blog/android-webview-header-privacy?hl=en&amp;authuser=1</link>
       <description>We want to protect user privacy by limiting when the X-Requested-With header is sent.</description>
       <pubDate>Mon, 13 Mar 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Partnering with Fastly—Oblivious HTTP relay for FLEDGE's 𝑘-anonymity server</title>
-      <link>https://developer.chrome.com/blog/oblivious-http-for-k-anon-server-with-fastly?hl=en</link>
+      <link>https://developer.chrome.com/blog/oblivious-http-for-k-anon-server-with-fastly?hl=en&amp;authuser=1</link>
       <description>We are improving Chrome’s privacy measures by partnering with Fastly to implement the 𝑘-anonymity server for FLEDGE. With data being relayed through an OHTTP relay in this implementation, Google servers do not receive the IP addresses of end users. The 𝑘-anonymity server is an incremental step towards the full implementation of FLEDGE.</description>
       <pubDate>Wed, 15 Mar 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>From Web SQL to SQLite Wasm: the database migration guide</title>
-      <link>https://developer.chrome.com/blog/from-web-sql-to-sqlite-wasm?hl=en</link>
+      <link>https://developer.chrome.com/blog/from-web-sql-to-sqlite-wasm?hl=en&amp;authuser=1</link>
       <description>With SQLite Wasm backed by the origin private file system, there is a versatile replacement for the deprecated Web SQL database technology. This article is a guide to migrating your data from Web SQL to SQLite Wasm. The post Deprecating and removing</description>
       <pubDate>Fri, 24 Mar 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DevTools Tips: What are source maps?</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-23?hl=en</link>
+      <link>https://developer.chrome.com/blog/devtools-tips-23?hl=en&amp;authuser=1</link>
       <description>Learn how source maps can help you debug your original code instead of deployed.</description>
       <pubDate>Fri, 31 Mar 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New in Chrome 112</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-112?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-chrome-112?hl=en&amp;authuser=1</link>
       <description>Chrome 112 is rolling out now! Now CSS supports nesting rules, the algorithm to set the initial focus on dialog elements was updated, no-op fetch handlers on service workers are skipped from now on to make navigations faster and there’s plenty more.</description>
       <pubDate>Tue, 04 Apr 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Faster Chrome releases</title>
-      <link>https://developer.chrome.com/blog/faster-chrome-releases?hl=en</link>
+      <link>https://developer.chrome.com/blog/faster-chrome-releases?hl=en&amp;authuser=1</link>
       <description>From Chrome 114 there will less time between the branch for a release and release to stable.</description>
       <pubDate>Wed, 05 Apr 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome ships WebGPU</title>
-      <link>https://developer.chrome.com/blog/webgpu-release?hl=en</link>
+      <link>https://developer.chrome.com/blog/webgpu-release?hl=en&amp;authuser=1</link>
       <description>The Chrome team ships WebGPU, which allows high-performance 3D graphics and data-parallel computation on the web.</description>
       <pubDate>Thu, 06 Apr 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome 113 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-113-beta?hl=en</link>
+      <link>https://developer.chrome.com/blog/chrome-113-beta?hl=en&amp;authuser=1</link>
       <description>New CSS media features, the linear() easing function, and WebGPU.</description>
       <pubDate>Thu, 06 Apr 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How the new Breakpoints sidebar helps you debug faster</title>
-      <link>https://developer.chrome.com/blog/breakpoint-ux-redesign?hl=en</link>
+      <link>https://developer.chrome.com/blog/breakpoint-ux-redesign?hl=en&amp;authuser=1</link>
       <description>To make it easier to perform common actions such as deleting or disabling breakpoints, we've redesigned the breakpoints sidebar so that you can perform them with a single click.</description>
       <pubDate>Tue, 11 Apr 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's New in DevTools (Chrome 113)</title>
-      <link>https://developer.chrome.com/blog/new-in-devtools-113?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-devtools-113?hl=en&amp;authuser=1</link>
       <description>You can now override response headers in the Network panel. Previously, you needed access to the web server to experiment with HTTP response headers. With response header overrides, you can locally prototype fixes for various headers, including but</description>
       <pubDate>Tue, 11 Apr 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Solving the CSS layout and source order disconnect</title>
-      <link>https://developer.chrome.com/blog/reading-order?hl=en</link>
+      <link>https://developer.chrome.com/blog/reading-order?hl=en&amp;authuser=1</link>
       <description>Your feedback is wanted on a proposed solution for the problem of layout methods arranging items in an order that is disconnected from the source of the document.</description>
       <pubDate>Wed, 12 Apr 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Chromium Chronicle #33: Views AnimationBuilder</title>
-      <link>https://developer.chrome.com/blog/chromium-chronicle-33?hl=en</link>
+      <link>https://developer.chrome.com/blog/chromium-chronicle-33?hl=en&amp;authuser=1</link>
       <description>Using layer based animations in Views can improve performance and reduce
 jankiness, but they're rather difficult to set up. The AnimationBuilder classes can vastly reduce complexity and improve readability for layer
 animations. Suppose you needed to</description>
@@ -405,229 +405,229 @@ animations. Suppose you needed to</description>
     </item>
     <item>
       <title>A look back in time: the evolution of test automation</title>
-      <link>https://developer.chrome.com/blog/test-automation-evolution?hl=en</link>
+      <link>https://developer.chrome.com/blog/test-automation-evolution?hl=en&amp;authuser=1</link>
       <description>A journey into the evolution of test automation on the web.</description>
       <pubDate>Tue, 18 Apr 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Richer UI install available for desktop</title>
-      <link>https://developer.chrome.com/blog/richer-install-ui-desktop?hl=en</link>
+      <link>https://developer.chrome.com/blog/richer-install-ui-desktop?hl=en&amp;authuser=1</link>
       <description>Mobile devices and app stores have changed how users discover, evaluate, and install software. Web apps now offer a surface for developers to highlight their apps at install time.</description>
       <pubDate>Thu, 20 Apr 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's New in WebGPU (Chrome 113)</title>
-      <link>https://developer.chrome.com/blog/new-in-webgpu-113?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-113?hl=en&amp;authuser=1</link>
       <description>WebGPU ships in Chrome with WebCodecs integration in origin trial.</description>
       <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DevTools Tips: Source maps in DevTools</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-24?hl=en</link>
+      <link>https://developer.chrome.com/blog/devtools-tips-24?hl=en&amp;authuser=1</link>
       <description>Use source maps in DevTools to debug your original code instead of deployed.</description>
       <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CSS update Media Query</title>
-      <link>https://developer.chrome.com/blog/css-update-media-query?hl=en</link>
+      <link>https://developer.chrome.com/blog/css-update-media-query?hl=en&amp;authuser=1</link>
       <description>Adapt your UI to the screen's refresh rate capabilities.</description>
       <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Improved video calling with faster AV1 encoding</title>
-      <link>https://developer.chrome.com/blog/av1?hl=en</link>
+      <link>https://developer.chrome.com/blog/av1?hl=en&amp;authuser=1</link>
       <description>Chrome 113 includes improvements to the AV1 software encoder from the Chrome Open Media team.</description>
       <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Blur camera background</title>
-      <link>https://developer.chrome.com/blog/background-blur?hl=en</link>
+      <link>https://developer.chrome.com/blog/background-blur?hl=en&amp;authuser=1</link>
       <description>A new origin trial from Chrome that allows web developers to control camera background blur.</description>
       <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New in Chrome 113</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-113?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-chrome-113?hl=en&amp;authuser=1</link>
       <description>Chrome 113 is rolling out now! WebGPU is here, it allows high-performance 3D graphics and data-parallel computation on the web, devtools can now override network response headers, First Party Sets, part of the Privacy Sandbox, that allows organizations to declare related sites is starting to roll out, and there's plenty more.</description>
       <pubDate>Wed, 03 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome 114 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-114-beta?hl=en</link>
+      <link>https://developer.chrome.com/blog/chrome-114-beta?hl=en&amp;authuser=1</link>
       <description>CSS headline balancing, CHIPS, the scrollend event, and popover.</description>
       <pubDate>Wed, 03 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's New in DevTools (Chrome 114)</title>
-      <link>https://developer.chrome.com/blog/new-in-devtools-114?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-devtools-114?hl=en&amp;authuser=1</link>
       <description>DevTools enables Settings &amp;gt; Experiments &amp;gt; WebAssembly Debugging: Enable DWARF support by default. For more information, see Debugging WebAssembly with modern tools. This experiment lets you pause execution and debug C and C++ code in Wasm apps,</description>
       <pubDate>Fri, 05 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Get ready for Google I/O</title>
-      <link>https://developer.chrome.com/blog/get-ready-io23?hl=en</link>
+      <link>https://developer.chrome.com/blog/get-ready-io23?hl=en&amp;authuser=1</link>
       <description>Build your own agenda to prepare for Google I/O.</description>
       <pubDate>Mon, 08 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WebDriver BiDi: 2023 status update</title>
-      <link>https://developer.chrome.com/blog/webdriver-bidi-2023?hl=en</link>
+      <link>https://developer.chrome.com/blog/webdriver-bidi-2023?hl=en&amp;authuser=1</link>
       <description>This article gives an overview of what’s new in WebDriver BiDi in 2023.</description>
       <pubDate>Tue, 09 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>10 updates at Google I/O</title>
-      <link>https://developer.chrome.com/blog/chrome-at-io23?hl=en</link>
+      <link>https://developer.chrome.com/blog/chrome-at-io23?hl=en&amp;authuser=1</link>
       <description>Learn how we're making it easier for developers to deliver powerful experiences to their users through key updates and new launches that we shared at Google I/O 2023.</description>
       <pubDate>Wed, 10 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WebGPU: Unlocking modern GPU access in the browser</title>
-      <link>https://developer.chrome.com/blog/webgpu-io2023?hl=en</link>
+      <link>https://developer.chrome.com/blog/webgpu-io2023?hl=en&amp;authuser=1</link>
       <description>Learn how WebGPU unlocks the power of the GPU for faster machine learning performance and better graphics rendering.</description>
       <pubDate>Wed, 10 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Shared autofill across iframes: an initial proposal</title>
-      <link>https://developer.chrome.com/blog/shared-autofill?hl=en</link>
+      <link>https://developer.chrome.com/blog/shared-autofill?hl=en&amp;authuser=1</link>
       <description>Some forms have fields in iframes, which causes problems for browser autofill. With shared-autofill, the parent frame can designate the trustworthiness of cross-origin iframes, to support a better autofill experience for the user.</description>
       <pubDate>Wed, 10 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Find form issues with Chrome DevTools</title>
-      <link>https://developer.chrome.com/blog/devtools-autofill?hl=en</link>
+      <link>https://developer.chrome.com/blog/devtools-autofill?hl=en&amp;authuser=1</link>
       <description>The Chrome DevTools team is building additional new features to help find form issues and debug Autofill. These features are at an early stage of design and implementation, and we need your testing and feedback.</description>
       <pubDate>Wed, 10 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What’s new for web on Android 2023</title>
-      <link>https://developer.chrome.com/blog/whats-new-in-web-on-android-io2023?hl=en</link>
+      <link>https://developer.chrome.com/blog/whats-new-in-web-on-android-io2023?hl=en&amp;authuser=1</link>
       <description>Updates to tools that bring the web to Android. Privacy enhancements and better support for large screens in WebView, partial custom tabs in Custom Tabs, easier installation and integrated features for PWA, Play Store billing management for TWA and more.</description>
       <pubDate>Wed, 10 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's new in CSS and UI: I/O 2023 Edition</title>
-      <link>https://developer.chrome.com/blog/whats-new-css-ui-2023?hl=en</link>
+      <link>https://developer.chrome.com/blog/whats-new-css-ui-2023?hl=en&amp;authuser=1</link>
       <description>The top 20 CSS and UI features highlighted at Google I/O 2023 that you don't want to miss.</description>
       <pubDate>Thu, 11 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Web SQL deprecation timeline updated</title>
-      <link>https://developer.chrome.com/blog/web-sql-deprecation-timeline-updated?hl=en</link>
+      <link>https://developer.chrome.com/blog/web-sql-deprecation-timeline-updated?hl=en&amp;authuser=1</link>
       <description>The current target version to remove Web SQL is Chromium 119.</description>
       <pubDate>Mon, 15 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Storage Buckets origin trial available</title>
-      <link>https://developer.chrome.com/blog/storage-buckets-origin-trial?hl=en</link>
+      <link>https://developer.chrome.com/blog/storage-buckets-origin-trial?hl=en&amp;authuser=1</link>
       <description>The Storage Standard defines an API for persistent storage and quota estimates, and the platform storage architecture. We're experimenting with an API for making persistent storage eviction under heavy memory pressure more predictable. Try the Storage Buckets API in an origin trial that runs from Chrome 115 to Chrome 118.</description>
       <pubDate>Mon, 15 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How the 3D model editor Blockbench uses the EyeDropper API to let users choose colors from everywhere</title>
-      <link>https://developer.chrome.com/blog/how-blockbench-uses-the-eyedropper-api?hl=en</link>
+      <link>https://developer.chrome.com/blog/how-blockbench-uses-the-eyedropper-api?hl=en&amp;authuser=1</link>
       <description>The EyeDropper API provides a mechanism for creating an eyedropper tool that lets users sample colors from their screens, including outside of the browser window. Learn how the 3D model editor Blockbench uses this API in their codebase. (This article</description>
       <pubDate>Wed, 17 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's New with Aurora?</title>
-      <link>https://developer.chrome.com/blog/aurora-update-2023?hl=en</link>
+      <link>https://developer.chrome.com/blog/aurora-update-2023?hl=en&amp;authuser=1</link>
       <description>Learn what the Chrome Aurora team has been up to lately and their roadmap for 2023.</description>
       <pubDate>Fri, 19 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing the popover API</title>
-      <link>https://developer.chrome.com/blog/introducing-popover-api?hl=en</link>
+      <link>https://developer.chrome.com/blog/introducing-popover-api?hl=en&amp;authuser=1</link>
       <description>Learn how to build tooltips, menus, and more with the new popover API.</description>
       <pubDate>Tue, 23 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DevTools Tips: Workspace</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-22?hl=en</link>
+      <link>https://developer.chrome.com/blog/devtools-tips-22?hl=en&amp;authuser=1</link>
       <description>Use Workspace to save changes you make in DevTools to local source files.</description>
       <pubDate>Thu, 25 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome disables modifying document.domain</title>
-      <link>https://developer.chrome.com/blog/document-domain-setter-deprecation?hl=en</link>
+      <link>https://developer.chrome.com/blog/document-domain-setter-deprecation?hl=en&amp;authuser=1</link>
       <description>If your website relies on setting document.domain, your action is required.</description>
       <pubDate>Tue, 30 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Help test bounce tracking mitigations</title>
-      <link>https://developer.chrome.com/blog/bounce-tracking-mitigations-dev-trial?hl=en</link>
+      <link>https://developer.chrome.com/blog/bounce-tracking-mitigations-dev-trial?hl=en&amp;authuser=1</link>
       <description>We plan to launch mitigations to limit tracking from a particular technique called "bounce tracking" later this year. We would like to invite developers to test this new feature with feature flags and provide feedback.</description>
       <pubDate>Tue, 30 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Design a superior user experience with the new Side Panel API</title>
-      <link>https://developer.chrome.com/blog/extension-side-panel-launch?hl=en</link>
+      <link>https://developer.chrome.com/blog/extension-side-panel-launch?hl=en&amp;authuser=1</link>
       <description>Introducing the new Side Panel API for Chrome extensions.</description>
       <pubDate>Tue, 30 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Announcing the second Compute Pressure origin trial</title>
-      <link>https://developer.chrome.com/blog/compute-pressure-origin-trial-2?hl=en</link>
+      <link>https://developer.chrome.com/blog/compute-pressure-origin-trial-2?hl=en&amp;authuser=1</link>
       <description>A new origin trial from Chrome that allows web developers to monitor compute pressure.</description>
       <pubDate>Tue, 30 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's New in DevTools (Chrome 115)</title>
-      <link>https://developer.chrome.com/blog/new-in-devtools-115?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-devtools-115?hl=en&amp;authuser=1</link>
       <description>The Elements panel gets a new subgrid badge for subgrid. This feature is currently experimental in Chrome Canary. To inspect and debug a nested grid that is a subgrid, and therefore inheriting the number and size of tracks from its parent, click the</description>
       <pubDate>Tue, 30 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New in Chrome 114</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-114?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-chrome-114?hl=en&amp;authuser=1</link>
       <description>Chrome 114 is rolling out now! Chrome 114 is rolling out now! With text-wrap: balance to improve text layouts, Cookies Having Independent Partitioned State are here, the new Popover API makes popovers easier than ever, and there’s plenty more.</description>
       <pubDate>Tue, 30 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome 115 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-115-beta?hl=en</link>
+      <link>https://developer.chrome.com/blog/chrome-115-beta?hl=en&amp;authuser=1</link>
       <description>Multiple keywords for the CSS display property, WGSLLanguageFeatures for WebGPU, HTTPS upgrades, and more.</description>
       <pubDate>Wed, 31 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Migrate away from data URLs in SVG  element</title>
-      <link>https://developer.chrome.com/blog/migrate-way-from-data-urls-in-svg-use?hl=en</link>
+      <link>https://developer.chrome.com/blog/migrate-way-from-data-urls-in-svg-use?hl=en&amp;authuser=1</link>
       <description>Support for data: URLs in SVG element will be removed. We recommend migration to alternatives.</description>
       <pubDate>Wed, 31 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's New in WebGPU (Chrome 114)</title>
-      <link>https://developer.chrome.com/blog/new-in-webgpu-114?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-114?hl=en&amp;authuser=1</link>
       <description>JavaScript optimization and more.</description>
       <pubDate>Wed, 31 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Mutation events will be removed from Chrome</title>
-      <link>https://developer.chrome.com/blog/mutation-events-deprecation?hl=en</link>
+      <link>https://developer.chrome.com/blog/mutation-events-deprecation?hl=en&amp;authuser=1</link>
       <description>Announcing the deprecation and planned removal of mutation events, and sharing how you can migrate your code before the removal in July 2024.</description>
       <pubDate>Wed, 31 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome for Testing: reliable downloads for browser automation</title>
-      <link>https://developer.chrome.com/blog/chrome-for-testing?hl=en</link>
+      <link>https://developer.chrome.com/blog/chrome-for-testing?hl=en&amp;authuser=1</link>
       <description>Chrome for Testing is a new Chrome flavor that specifically targets web app testing and automation use cases.</description>
       <pubDate>Mon, 12 Jun 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's New in WebGPU (Chrome 115)</title>
-      <link>https://developer.chrome.com/blog/new-in-webgpu-115?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-115?hl=en&amp;authuser=1</link>
       <description>Supported WGSL language extensions, experimental support for Direct3D 11, and more.</description>
       <pubDate>Tue, 20 Jun 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's New in DevTools (Chrome 116)</title>
-      <link>https://developer.chrome.com/blog/new-in-devtools-116?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-devtools-116?hl=en&amp;authuser=1</link>
       <description>DevTools gets a number of improvements to help you identify and debug issues with missing stylesheets faster: The Network panel consistently populates the Initiator column with links to the exact line that references a stylesheet that failed to load.</description>
       <pubDate>Fri, 23 Jun 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Better full screen mode with the Keyboard Lock API</title>
-      <link>https://developer.chrome.com/blog/better-full-screen-mode?hl=en</link>
+      <link>https://developer.chrome.com/blog/better-full-screen-mode?hl=en&amp;authuser=1</link>
       <description>Use the Keyboard Lock API to capture the Escape key in full screen mode. If you've ever played a full screen web game that popped up an in-game dialog
 that you instinctively canceled with the Escape key, you probably found
 yourself kicked out of full</description>
@@ -635,463 +635,463 @@ yourself kicked out of full</description>
     </item>
     <item>
       <title>DevTools Tips: Local and session storage</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-21?hl=en</link>
+      <link>https://developer.chrome.com/blog/devtools-tips-21?hl=en&amp;authuser=1</link>
       <description>Use Application &gt; Local Storage and Session Storage to debug key-value pairs.</description>
       <pubDate>Thu, 29 Jun 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WebRTC: Legacy getStats() migration guide</title>
-      <link>https://developer.chrome.com/blog/getstats-migration?hl=en</link>
+      <link>https://developer.chrome.com/blog/getstats-migration?hl=en&amp;authuser=1</link>
       <description>Learn how to use Safari Web Inspector debugging for Chrome on iOS.</description>
       <pubDate>Fri, 30 Jun 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DevTools Tips: Record and replay user flows with the Recorder</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-4?hl=en</link>
+      <link>https://developer.chrome.com/blog/devtools-tips-4?hl=en&amp;authuser=1</link>
       <description>Learn how to record, replay, and debug user flows with the Recorder panel in DevTools.</description>
       <pubDate>Wed, 12 Jul 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A case study on scroll-driven animations performance</title>
-      <link>https://developer.chrome.com/blog/scroll-animation-performance-case-study?hl=en</link>
+      <link>https://developer.chrome.com/blog/scroll-animation-performance-case-study?hl=en&amp;authuser=1</link>
       <description>The new API is much smoother than the classic way of implementing scroll-driven animations.</description>
       <pubDate>Wed, 12 Jul 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's happening in Chrome Extensions?</title>
-      <link>https://developer.chrome.com/blog/extension-news-july-2023?hl=en</link>
+      <link>https://developer.chrome.com/blog/extension-news-july-2023?hl=en&amp;authuser=1</link>
       <description>An overview of the changes so far this year in Chrome Extensions, plus exciting upcoming extension features developers can look forward to.</description>
       <pubDate>Thu, 13 Jul 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New in Chrome 115</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-115?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-chrome-115?hl=en&amp;authuser=1</link>
       <description>Use ScrollTimeline and ViewTimeline to create scroll-driven animations that enhance user experience. Fenced frames work along other Privacy Sandbox APIs to embed relevant content while preventing unnecessary context sharing. With the Topics API the browser can share information with third parties about a user's interests while preserving privacy and there’s plenty more.</description>
       <pubDate>Thu, 13 Jul 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Debugging websites in Chrome on iOS 16.4+</title>
-      <link>https://developer.chrome.com/blog/debugging-chrome-on-ios?hl=en</link>
+      <link>https://developer.chrome.com/blog/debugging-chrome-on-ios?hl=en&amp;authuser=1</link>
       <description>Learn how to use Safari Web Inspector debugging for Chrome on iOS.</description>
       <pubDate>Tue, 18 Jul 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome 116 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-116-beta?hl=en</link>
+      <link>https://developer.chrome.com/blog/chrome-116-beta?hl=en&amp;authuser=1</link>
       <description>CSS motion path, Back/forward cache NotRestoredReason API, Document Picture-in-Picture, and more.</description>
       <pubDate>Wed, 19 Jul 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WebGPU: the cross-platform graphics API of tomorrow</title>
-      <link>https://developer.chrome.com/blog/webgpu-cross-platform?hl=en</link>
+      <link>https://developer.chrome.com/blog/webgpu-cross-platform?hl=en&amp;authuser=1</link>
       <description>Learn how to build an app with WebGPU for the web and specific platforms.</description>
       <pubDate>Thu, 20 Jul 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's new in Chrome 116 for Extensions</title>
-      <link>https://developer.chrome.com/blog/chrome-116-beta-whats-new-for-extensions?hl=en</link>
+      <link>https://developer.chrome.com/blog/chrome-116-beta-whats-new-for-extensions?hl=en&amp;authuser=1</link>
       <description>A summary of important changes in Chrome 116 for Chrome Extension developers.</description>
       <pubDate>Thu, 20 Jul 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DevTools Tips: Breakpoints and logpoints</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-25?hl=en</link>
+      <link>https://developer.chrome.com/blog/devtools-tips-25?hl=en&amp;authuser=1</link>
       <description>Use breakpoints and logpoints to debug with ease.</description>
       <pubDate>Thu, 27 Jul 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>One-time permissions in Chrome</title>
-      <link>https://developer.chrome.com/blog/one-time-permissions?hl=en</link>
+      <link>https://developer.chrome.com/blog/one-time-permissions?hl=en&amp;authuser=1</link>
       <description>"Allow this time" is a one-time option for permission grants in Chrome. It will initially be available on desktop only for geolocation, camera, and microphone.</description>
       <pubDate>Tue, 01 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's New in WebGPU (Chrome 116)</title>
-      <link>https://developer.chrome.com/blog/new-in-webgpu-116?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-116?hl=en&amp;authuser=1</link>
       <description>WebCodecs integration, video playback improvements, and more.</description>
       <pubDate>Tue, 08 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Secure popup interactions with restrict-properties</title>
-      <link>https://developer.chrome.com/blog/coop-restrict-properties?hl=en</link>
+      <link>https://developer.chrome.com/blog/coop-restrict-properties?hl=en&amp;authuser=1</link>
       <description>Get cross-origin isolation and cross-site leaks protection while interacting with popups.</description>
       <pubDate>Wed, 09 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New in Chrome 116</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-116?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-chrome-116?hl=en&amp;authuser=1</link>
       <description>Chrome 116 is rolling out now! Use the document picture in picture API to increase user productivity, it is now easier to debug missing stylesheets in DevTools, and there’s plenty more.</description>
       <pubDate>Tue, 15 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome 117 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-117-beta?hl=en</link>
+      <link>https://developer.chrome.com/blog/chrome-117-beta?hl=en&amp;authuser=1</link>
       <description>CSS grid subgrid, entry and exit animation support for CSS, array grouping, iterator helpers, and more.</description>
       <pubDate>Wed, 16 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Four new CSS features for smooth entry and exit animations</title>
-      <link>https://developer.chrome.com/blog/entry-exit-animations?hl=en</link>
+      <link>https://developer.chrome.com/blog/entry-exit-animations?hl=en&amp;authuser=1</link>
       <description>Learn about new capabilities that enable smooth transitioning of discrete animations and between the top layer</description>
       <pubDate>Wed, 16 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Bringing Safety check to the chrome://extensions page</title>
-      <link>https://developer.chrome.com/blog/extension-safety-hub?hl=en</link>
+      <link>https://developer.chrome.com/blog/extension-safety-hub?hl=en&amp;authuser=1</link>
       <description>Starting in Chrome 117, Chrome will proactively highlight to users when an extension they have installed is no longer in the Chrome Web Store.</description>
       <pubDate>Wed, 16 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's New in DevTools (Chrome 117)</title>
-      <link>https://developer.chrome.com/blog/new-in-devtools-117?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-devtools-117?hl=en&amp;authuser=1</link>
       <description>Override XHR/fetch requests and hide extension requests from the Network panel, see changes in fetch priority in the Performance panel, experience multiple UI improvements, check out new colors and experimental features, and more.</description>
       <pubDate>Tue, 22 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Debugging speculation rules</title>
-      <link>https://developer.chrome.com/blog/debugging-speculation-rules?hl=en</link>
+      <link>https://developer.chrome.com/blog/debugging-speculation-rules?hl=en&amp;authuser=1</link>
       <description>Learn all about the Chrome DevTools features to debug speculation rules used to prefetch and prerender future page navigations.</description>
       <pubDate>Tue, 22 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Craft your Chrome Devtools Protocol (CDP) commands efficiently with the new command editor</title>
-      <link>https://developer.chrome.com/blog/cdp-command-editor?hl=en</link>
+      <link>https://developer.chrome.com/blog/cdp-command-editor?hl=en&amp;authuser=1</link>
       <description>To make it easier to type Chrome Devtools Protocol (CDP) commands, DevTools introduced a new user-friendly editor so that you don't have to use JSON.</description>
       <pubDate>Thu, 24 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's new in Lighthouse 11</title>
-      <link>https://developer.chrome.com/blog/lighthouse-11-0?hl=en</link>
+      <link>https://developer.chrome.com/blog/lighthouse-11-0?hl=en&amp;authuser=1</link>
       <description>Lighthouse 11 is here with new accessibility changes and audit updates</description>
       <pubDate>Thu, 24 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing the scheduler.yield origin trial</title>
-      <link>https://developer.chrome.com/blog/introducing-scheduler-yield-origin-trial?hl=en</link>
+      <link>https://developer.chrome.com/blog/introducing-scheduler-yield-origin-trial?hl=en&amp;authuser=1</link>
       <description>`scheduler.yield` is a proposed new addition to the scheduler API currently in origin trial, and is a novel approach to breaking up tasks for more responsive user experiences. Understand the benefits of this proposed addition to the scheduling API, and sign up for the origin trial to help us gain insights and feedback.</description>
       <pubDate>Tue, 29 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Faster Chrome releases (round two!)</title>
-      <link>https://developer.chrome.com/blog/faster-chrome-releases-round2?hl=en</link>
+      <link>https://developer.chrome.com/blog/faster-chrome-releases-round2?hl=en&amp;authuser=1</link>
       <description>From Chrome 119 we will shorten the time between the branch for a release and release to stable.</description>
       <pubDate>Wed, 30 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Astro View Transitions</title>
-      <link>https://developer.chrome.com/blog/astro-view-transitions?hl=en</link>
+      <link>https://developer.chrome.com/blog/astro-view-transitions?hl=en&amp;authuser=1</link>
       <description>Highlight how the Astro community embraced View Transitions when Chrome was shaping up the API and the journey towards landing first-class support for it in Astro + persistent islands.</description>
       <pubDate>Wed, 30 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DevTools Tips: Snippets and live expressions</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-26?hl=en</link>
+      <link>https://developer.chrome.com/blog/devtools-tips-26?hl=en&amp;authuser=1</link>
       <description>Use Snippets to run code you frequently use and live expressions to watch values in real time.</description>
       <pubDate>Thu, 31 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Google Summer of Code and Chrome Extensions</title>
-      <link>https://developer.chrome.com/blog/google-summer-of-code-and-chrome-extensions?hl=en</link>
+      <link>https://developer.chrome.com/blog/google-summer-of-code-and-chrome-extensions?hl=en&amp;authuser=1</link>
       <description>Experience and advice on participating in Google Summer of Code.</description>
       <pubDate>Mon, 04 Sep 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's New in WebGPU (Chrome 117)</title>
-      <link>https://developer.chrome.com/blog/new-in-webgpu-117?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-117?hl=en&amp;authuser=1</link>
       <description>Unset vertex buffer and bind group, make lost devices appear to function, and more.</description>
       <pubDate>Tue, 05 Sep 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New in Chrome 117</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-117?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-chrome-117?hl=en&amp;authuser=1</link>
       <description>Chrome 117 is rolling out now! With three new CSS features that make it easy to add smooth entry and exit animations, array grouping to compute higher order datasets, devtools makes local overrides easier and there’s plenty more.</description>
       <pubDate>Tue, 12 Sep 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome 118 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-118-beta?hl=en</link>
+      <link>https://developer.chrome.com/blog/chrome-118-beta?hl=en&amp;authuser=1</link>
       <description>Scoped styles for CSS, additional media features, keyboard-focusable scroll containers, and more.</description>
       <pubDate>Wed, 13 Sep 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's New in DevTools (Chrome 118)</title>
-      <link>https://developer.chrome.com/blog/new-in-devtools-118?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-devtools-118?hl=en&amp;authuser=1</link>
       <description>New section for custom properties in Elements &gt; Styles, more local overrides improvements, enhanced search, streamlined workspace in Sources, and more.</description>
       <pubDate>Fri, 15 Sep 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>From WebGL to WebGPU</title>
-      <link>https://developer.chrome.com/blog/from-webgl-to-webgpu?hl=en</link>
+      <link>https://developer.chrome.com/blog/from-webgl-to-webgpu?hl=en&amp;authuser=1</link>
       <description>Learn some tips for WebGL developers who are migrating to WebGPU.</description>
       <pubDate>Tue, 19 Sep 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>We are Chrome for Developers</title>
-      <link>https://developer.chrome.com/blog/we-are-chrome-for-developers?hl=en</link>
+      <link>https://developer.chrome.com/blog/we-are-chrome-for-developers?hl=en&amp;authuser=1</link>
       <description>Celebrating Chrome's 15th anniversary and our role as a trusted, helpful partner to developers.</description>
       <pubDate>Wed, 20 Sep 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Seamless navigation made possible with view transitions</title>
-      <link>https://developer.chrome.com/blog/view-transitions-case-studies?hl=en</link>
+      <link>https://developer.chrome.com/blog/view-transitions-case-studies?hl=en&amp;authuser=1</link>
       <description>An in-depth walkthrough of how and why CyberAgent, RedBus, Nykaa, and PolicyBazaar implemented view transitions.</description>
       <pubDate>Thu, 28 Sep 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DevTools Tips: Debugging Chrome extensions</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-27?hl=en</link>
+      <link>https://developer.chrome.com/blog/devtools-tips-27?hl=en&amp;authuser=1</link>
       <description>Learn how to use DevTools to debug Chrome extensions.</description>
       <pubDate>Tue, 03 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's New in WebGPU (Chrome 118)</title>
-      <link>https://developer.chrome.com/blog/new-in-webgpu-118?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-118?hl=en&amp;authuser=1</link>
       <description>Extended source support for copyExternalImageToTexture, experimental support for read-write and read-only storage texture, and more.</description>
       <pubDate>Tue, 03 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome now supports passkeys on iCloud Keychain on macOS</title>
-      <link>https://developer.chrome.com/blog/passkeys-on-icloud-keychain?hl=en</link>
+      <link>https://developer.chrome.com/blog/passkeys-on-icloud-keychain?hl=en&amp;authuser=1</link>
       <description>Chrome on macOS starts supporting passkeys on iCloud Keychain. This lets users create passkeys on iCloud Keychain and synchronize them across Apple devices.</description>
       <pubDate>Tue, 03 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome 119 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-119-beta?hl=en</link>
+      <link>https://developer.chrome.com/blog/chrome-119-beta?hl=en&amp;authuser=1</link>
       <description>Chrome 119 beta brings you CSS relative color syntax, new pseudo-classes, and much more.</description>
       <pubDate>Fri, 06 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New origin trial for fullscreen popup windows</title>
-      <link>https://developer.chrome.com/blog/fullscreen-popups-origin-trial?hl=en</link>
+      <link>https://developer.chrome.com/blog/fullscreen-popups-origin-trial?hl=en&amp;authuser=1</link>
       <description>There's now a new origin trial available for opening popup windows in fullscreen mode with just one step.</description>
       <pubDate>Mon, 09 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>API Improvements for working with files in the browser</title>
-      <link>https://developer.chrome.com/blog/new-dev-trial-for-multiple-readers-and-writers?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-dev-trial-for-multiple-readers-and-writers?hl=en&amp;authuser=1</link>
       <description>New dev trial for multiple readers and writers for FileSystemSyncAccessHandle and exclusive writer for FileSystemWritableFileStream. The origin private file system (sometimes also referred to as the bucket file system) allows developers to access</description>
       <pubDate>Mon, 09 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's New in DevTools (Chrome 119)</title>
-      <link>https://developer.chrome.com/blog/new-in-devtools-119?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-devtools-119?hl=en&amp;authuser=1</link>
       <description>Improved @property section in Styles, updated devices list, enhanced pretty-printing in Sources and autocompletion in the Console.</description>
       <pubDate>Tue, 10 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New in Chrome 118</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-118?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-chrome-118?hl=en&amp;authuser=1</link>
       <description>Chrome 118 is rolling out now! Declare specific styles within a component with the @scope css rule. Use new media feature: prefers-reduced-transparency. DevTools has improvements in the Sources panel and there's plenty more.</description>
       <pubDate>Tue, 10 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CSS relative color syntax</title>
-      <link>https://developer.chrome.com/blog/css-relative-color-syntax?hl=en</link>
+      <link>https://developer.chrome.com/blog/css-relative-color-syntax?hl=en&amp;authuser=1</link>
       <description>Create new colors based on another color's channels and values.</description>
       <pubDate>Wed, 11 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Serial over Bluetooth on the web</title>
-      <link>https://developer.chrome.com/blog/serial-over-bluetooth?hl=en</link>
+      <link>https://developer.chrome.com/blog/serial-over-bluetooth?hl=en&amp;authuser=1</link>
       <description>The Web Serial API added support for Bluetooth RFCOMM services.</description>
       <pubDate>Fri, 13 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sanitizer API deprecation</title>
-      <link>https://developer.chrome.com/blog/sanitizer-api-deprecation?hl=en</link>
+      <link>https://developer.chrome.com/blog/sanitizer-api-deprecation?hl=en&amp;authuser=1</link>
       <description>The current Sanitizer API implementation is deprecated from Chrome 119 to catch up with future specification updates.</description>
       <pubDate>Sat, 14 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chromium issue tracker migration</title>
-      <link>https://developer.chrome.com/blog/chromium-issue-tracker-migration?hl=en</link>
+      <link>https://developer.chrome.com/blog/chromium-issue-tracker-migration?hl=en&amp;authuser=1</link>
       <description>Chromium issue tracking is migrating to a tool powered by the Google Issue tracker in January 2024.</description>
       <pubDate>Mon, 16 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's happening in Chrome Extensions?</title>
-      <link>https://developer.chrome.com/blog/extension-news-october-2023?hl=en</link>
+      <link>https://developer.chrome.com/blog/extension-news-october-2023?hl=en&amp;authuser=1</link>
       <description>An overview of the recent changes in Chrome Extensions, plus exciting upcoming extension features developers can look forward to.</description>
       <pubDate>Tue, 17 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CSS text-wrap: pretty</title>
-      <link>https://developer.chrome.com/blog/css-text-wrap-pretty?hl=en</link>
+      <link>https://developer.chrome.com/blog/css-text-wrap-pretty?hl=en&amp;authuser=1</link>
       <description>Opt-in optimized text wrapping, for beauty over speed.</description>
       <pubDate>Mon, 23 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Select element: now with horizontal rules</title>
-      <link>https://developer.chrome.com/blog/hr-in-select?hl=en</link>
+      <link>https://developer.chrome.com/blog/hr-in-select?hl=en&amp;authuser=1</link>
       <description>Learn how expanded select element capabilities enable visual horizontal breaks for better grouping.</description>
       <pubDate>Mon, 23 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's New in WebGPU (Chrome 119)</title>
-      <link>https://developer.chrome.com/blog/new-in-webgpu-119?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-119?hl=en&amp;authuser=1</link>
       <description>Filterable 32-bit float textures, unorm10-10-10-2 vertex format, rgb10a2uint texture format, and more.</description>
       <pubDate>Tue, 24 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CSS prefers-reduced-transparency</title>
-      <link>https://developer.chrome.com/blog/css-prefers-reduced-transparency?hl=en</link>
+      <link>https://developer.chrome.com/blog/css-prefers-reduced-transparency?hl=en&amp;authuser=1</link>
       <description>Optimize and adjust for users who prefer an opaque UI.</description>
       <pubDate>Wed, 25 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New in Chrome 119</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-119?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-chrome-119?hl=en&amp;authuser=1</link>
       <description>Chrome 119 is rolling out now! With an update to the expiration date upper limit for cookies already in storage. CSS has new pseudo classes, relative color syntax, Fenced Frames improvements like ad size macros, and there’s plenty more.</description>
       <pubDate>Tue, 31 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WebAssembly Garbage Collection (WasmGC) now enabled by default in Chrome</title>
-      <link>https://developer.chrome.com/blog/wasmgc?hl=en</link>
+      <link>https://developer.chrome.com/blog/wasmgc?hl=en&amp;authuser=1</link>
       <description>There are two types of programming languages: garbage-collected programming languages and programming languages that require manual memory management. This article explains how thanks to WebAssembly Garbage Collection, short WasmGC, garbage-collected languages can be ported to WebAssembly.</description>
       <pubDate>Tue, 31 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome 120 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-120-beta?hl=en</link>
+      <link>https://developer.chrome.com/blog/chrome-120-beta?hl=en&amp;authuser=1</link>
       <description>CSS masking, relaxed rules for CSS nesting, create accordion patterns with the element, the enterpictureinpicture action for the Media Session API.</description>
       <pubDate>Wed, 01 Nov 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's new in Chrome 120 for Extensions</title>
-      <link>https://developer.chrome.com/blog/chrome-120-beta-whats-new-for-extensions?hl=en</link>
+      <link>https://developer.chrome.com/blog/chrome-120-beta-whats-new-for-extensions?hl=en&amp;authuser=1</link>
       <description>A summary of important changes in Chrome 120 for Chrome Extension developers.</description>
       <pubDate>Thu, 02 Nov 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A change to the default durability mode in IndexedDB</title>
-      <link>https://developer.chrome.com/blog/indexeddb-durability-mode-now-defaults-to-relaxed?hl=en</link>
+      <link>https://developer.chrome.com/blog/indexeddb-durability-mode-now-defaults-to-relaxed?hl=en&amp;authuser=1</link>
       <description>The durability mode in IndexedDB is changing from strict to relaxed from Chrome 121.</description>
       <pubDate>Fri, 03 Nov 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's new in DevTools (Chrome 120)</title>
-      <link>https://developer.chrome.com/blog/new-in-devtools-120?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-devtools-120?hl=en&amp;authuser=1</link>
       <description>Third-party cookie phaseout issues reported in the Issues panel, Privacy Sandbox Analysis Tool for cookies, effective Content Security Policy in the Applications panel, improved animations debugging, enhanced ignore listing, and more.</description>
       <pubDate>Thu, 09 Nov 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Capturing the WebGPU ecosystem</title>
-      <link>https://developer.chrome.com/blog/webgpu-ecosystem?hl=en</link>
+      <link>https://developer.chrome.com/blog/webgpu-ecosystem?hl=en&amp;authuser=1</link>
       <description>Learn about how the WebGPU ecosystem extends beyond the JavaScript, C++, and Rust realms.</description>
       <pubDate>Thu, 09 Nov 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What’s new in the Angular NgOptimizedImage directive</title>
-      <link>https://developer.chrome.com/blog/angular_ngoptimizedimage?hl=en</link>
+      <link>https://developer.chrome.com/blog/angular_ngoptimizedimage?hl=en&amp;authuser=1</link>
       <description>Learn about the new features included in the Angular NgOptimizedImage directive that further improve image performance in Angular apps.</description>
       <pubDate>Wed, 15 Nov 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Improving content filtering in Manifest V3</title>
-      <link>https://developer.chrome.com/blog/improvements-to-content-filtering-in-manifest-v3?hl=en</link>
+      <link>https://developer.chrome.com/blog/improvements-to-content-filtering-in-manifest-v3?hl=en&amp;authuser=1</link>
       <description>Over the past year, we have been actively involved in discussions with the vendors behind several content blocking extensions around ways to improve the MV3 extensions platform. Based on these discussions, many of which took place in the</description>
       <pubDate>Wed, 15 Nov 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Automatic picture-in-picture for web apps</title>
-      <link>https://developer.chrome.com/blog/automatic-picture-in-picture?hl=en</link>
+      <link>https://developer.chrome.com/blog/automatic-picture-in-picture?hl=en&amp;authuser=1</link>
       <description>Chrome allows video conferencing web apps to automatically enter picture-in-picture.</description>
       <pubDate>Thu, 16 Nov 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Resuming the transition to Manifest V3</title>
-      <link>https://developer.chrome.com/blog/resuming-the-transition-to-mv3?hl=en</link>
+      <link>https://developer.chrome.com/blog/resuming-the-transition-to-mv3?hl=en&amp;authuser=1</link>
       <description>In December of last year, we paused the planned deprecation of Manifest V2 in order to address developer feedback and deliver better solutions to migration issues. As a result of this feedback, we’ve made a number of changes to Manifest V3 to close</description>
       <pubDate>Thu, 16 Nov 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Participate in the origin trial for non-cookie storage access through the Storage Access API</title>
-      <link>https://developer.chrome.com/blog/saa-non-cookie-storage?hl=en</link>
+      <link>https://developer.chrome.com/blog/saa-non-cookie-storage?hl=en&amp;authuser=1</link>
       <description>Chrome is proposing the ability for third parties to request storage or communication access (both cookie and non-cookie) through the Storage Access API.</description>
       <pubDate>Mon, 04 Dec 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing four new international features in CSS</title>
-      <link>https://developer.chrome.com/blog/css-i18n-features?hl=en</link>
+      <link>https://developer.chrome.com/blog/css-i18n-features?hl=en&amp;authuser=1</link>
       <description>Chrome is adding four new international CSS features.</description>
       <pubDate>Mon, 04 Dec 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New in Chrome 120</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-120?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-chrome-120?hl=en&amp;authuser=1</link>
       <description>Chrome 120 is rolling out now! With the CloseWatcher API to enable a consistent experience when handling close requests, an straightforward implementation of an accordion pattern using the details element, permission policy violation reports are now available and there's plenty more.</description>
       <pubDate>Tue, 05 Dec 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Private Network Access Permission prompt origin trial: A path to migrate websites with HTTPS</title>
-      <link>https://developer.chrome.com/blog/pna-permission-prompt-ot?hl=en</link>
+      <link>https://developer.chrome.com/blog/pna-permission-prompt-ot?hl=en&amp;authuser=1</link>
       <description>Google Chrome is deprecating access to private network endpoints from non-secure public websites as part of the Private Network Access (PNA) specification.</description>
       <pubDate>Tue, 05 Dec 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DevTools Tips: Debugging bfcache</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-29?hl=en</link>
+      <link>https://developer.chrome.com/blog/devtools-tips-29?hl=en&amp;authuser=1</link>
       <description>Learn how to debug bfcache and make your page load instantly.</description>
       <pubDate>Tue, 05 Dec 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DevTools Tips: What is DOM? HTML versus DOM</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-28?hl=en</link>
+      <link>https://developer.chrome.com/blog/devtools-tips-28?hl=en&amp;authuser=1</link>
       <description>Learn how to debug the DOM with DevTools.</description>
       <pubDate>Tue, 05 Dec 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Revisiting Chrome's installability criteria</title>
-      <link>https://developer.chrome.com/blog/update-install-criteria?hl=en</link>
+      <link>https://developer.chrome.com/blog/update-install-criteria?hl=en&amp;authuser=1</link>
       <description>In the coming months Chrome will be running experiments with the goal of simplifying the app install criteria, to improve developer and user experience. This post shares the changes you can expect, and the reasons we are running these experiments.</description>
       <pubDate>Tue, 05 Dec 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How Chrome DevTools helps to defend against self-XSS attacks</title>
-      <link>https://developer.chrome.com/blog/self-xss?hl=en</link>
+      <link>https://developer.chrome.com/blog/self-xss?hl=en&amp;authuser=1</link>
       <description>Learn how Chrome DevTools mitigates self-XSS attacks by blocking code pasting for inexperienced users of DevTools.</description>
       <pubDate>Tue, 05 Dec 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome 121 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-121-beta?hl=en</link>
+      <link>https://developer.chrome.com/blog/chrome-121-beta?hl=en&amp;authuser=1</link>
       <description>CSS Scrollbars, the Storage Buckets API, the Speculation Rules API, and more.</description>
       <pubDate>Thu, 07 Dec 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CSS Wrapped: 2023!</title>
-      <link>https://developer.chrome.com/blog/css-wrapped-2023?hl=en</link>
+      <link>https://developer.chrome.com/blog/css-wrapped-2023?hl=en&amp;authuser=1</link>
       <description>2023 was a huge year for CSS! Learn about what landed in Chrome and across the web platform this year.</description>
       <pubDate>Thu, 07 Dec 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Download old Headless Chrome as chrome-headless-shell</title>
-      <link>https://developer.chrome.com/blog/chrome-headless-shell?hl=en</link>
+      <link>https://developer.chrome.com/blog/chrome-headless-shell?hl=en&amp;authuser=1</link>
       <description>You can now download the old Headless Chrome as a standalone binary for every user-facing Chrome release.</description>
       <pubDate>Fri, 08 Dec 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's New in WebGPU (Chrome 120)</title>
-      <link>https://developer.chrome.com/blog/new-in-webgpu-120?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-120?hl=en&amp;authuser=1</link>
       <description>Support for 16-bit floating-point values in WGSL, limits increase, depth-stencil state changes, adapter information updates, and more.</description>
       <pubDate>Fri, 08 Dec 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's new in DevTools (Chrome 121)</title>
-      <link>https://developer.chrome.com/blog/new-in-devtools-121?hl=en</link>
+      <link>https://developer.chrome.com/blog/new-in-devtools-121?hl=en&amp;authuser=1</link>
       <description>@font-palette-values support in Elements, improved source map support, enhanced Performance &gt; Interactions track, and more.</description>
       <pubDate>Fri, 08 Dec 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome enables desktop mode by default on premium tablets</title>
-      <link>https://developer.chrome.com/blog/desktop-mode?hl=en</link>
+      <link>https://developer.chrome.com/blog/desktop-mode?hl=en&amp;authuser=1</link>
       <description>Chrome has adapted to the Android tablet ecosystem by enabling desktop mode by default on premium tablets.</description>
       <pubDate>Mon, 11 Dec 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Harness the power of WebDriver BiDi: Chrome and Firefox automation with Puppeteer</title>
-      <link>https://developer.chrome.com/blog/puppeteer-webdriver-bidi-2023?hl=en</link>
+      <link>https://developer.chrome.com/blog/puppeteer-webdriver-bidi-2023?hl=en&amp;authuser=1</link>
       <description>Puppeteer now talks to Firefox! 🎉 But wait, didn't it already? 🤔 Let's dive into WebDriver BiDi, the new protocol in Puppeteer and discover what this exciting development means for the Firefox automation workflow.</description>
       <pubDate>Mon, 18 Dec 2023 08:00:00 +0000</pubDate>
     </item>
