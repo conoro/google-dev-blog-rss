@@ -6,8 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Jan 2024 03:15:49 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Jan 2024 03:15:49 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Jan 2024 04:16:19 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jan 2024 04:16:19 +0000</pubDate>
     <item>
       <title>Not all storage is created equal: introducing Storage Buckets</title>
       <link>https://developer.chrome.com/blog/storage-buckets?hl=en</link>
