@@ -6,8 +6,14 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Jan 2024 10:15:58 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Jan 2024 10:15:58 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Jan 2024 11:15:08 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jan 2024 11:15:08 +0000</pubDate>
+    <item>
+      <title>Chrome Web Store Policy Updates</title>
+      <link>https://developer.chrome.com/blog/cws-policy-revamp?hl=en</link>
+      <description>Chrome is updating the Chrome Web Store's Developer Program Policies to clearly state our guiding principals, provide more context on enforcement, and make our policies easier to understand.</description>
+      <pubDate>Tue, 01 Nov 2022 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Not all storage is created equal: introducing Storage Buckets</title>
       <link>https://developer.chrome.com/blog/storage-buckets?hl=en</link>
@@ -1004,12 +1010,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/resuming-the-transition-to-mv3?hl=en</link>
       <description>In December of last year, we paused the planned deprecation of Manifest V2 in order to address developer feedback and deliver better solutions to migration issues. As a result of this feedback, we’ve made a number of changes to Manifest V3 to close</description>
       <pubDate>Thu, 16 Nov 2023 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Participate in the origin trial for non-cookie storage access through the Storage Access API</title>
-      <link>https://developer.chrome.com/blog/saa-non-cookie-storage?hl=en</link>
-      <description>Chrome is proposing the ability for third parties to request storage or communication access (both cookie and non-cookie) through the Storage Access API.</description>
-      <pubDate>Mon, 04 Dec 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing four new international features in CSS</title>
