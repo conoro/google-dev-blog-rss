@@ -6,20 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jan 2024 11:15:07 +0000</lastBuildDate>
-    <pubDate>Tue, 09 Jan 2024 11:15:07 +0000</pubDate>
-    <item>
-      <title>Not all storage is created equal: introducing Storage Buckets</title>
-      <link>https://developer.chrome.com/blog/storage-buckets?hl=en</link>
-      <description>We're experimenting with an API for making persistent storage eviction under heavy memory pressure more predictable, and we'd love your feedback.</description>
-      <pubDate>Fri, 04 Nov 2022 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DevTools Tips: Faster DevTools navigation</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-2?hl=en</link>
-      <description>Learn how to speed up your workflow with faster DevTools navigation using shortcuts and settings.</description>
-      <pubDate>Thu, 10 Nov 2022 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Jan 2024 12:17:31 +0000</lastBuildDate>
+    <pubDate>Tue, 09 Jan 2024 12:17:31 +0000</pubDate>
     <item>
       <title>DevTools Tips: Identify CSS improvelements</title>
       <link>https://developer.chrome.com/blog/devtools-tips-1?hl=en</link>
@@ -1094,6 +1082,18 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/devtools-tips-30?hl=en</link>
       <description>Learn how to debug fetch priority.</description>
       <pubDate>Thu, 04 Jan 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DevTools Tips: Authoring colors</title>
+      <link>https://developer.chrome.com/blog/devtools-tips-03?hl=en</link>
+      <description>Learn how to author colors in a few clicks.</description>
+      <pubDate>Mon, 08 Jan 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Persistent permissions for the File System Access API</title>
+      <link>https://developer.chrome.com/blog/persistent-permissions-for-the-file-system-access-api?hl=en</link>
+      <description>This post explains how persistent permissions for the File System Access API can be managed. It also provides a quick recap of the current state of the problem and the challenges that are being solved.</description>
+      <pubDate>Tue, 09 Jan 2024 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
