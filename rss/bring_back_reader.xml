@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Jan 2024 09:16:00 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Jan 2024 09:16:00 +0000</pubDate>
-    <item>
-      <title>DevTools Tips: Identify CSS improvelements</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-1?hl=en</link>
-      <description>Use the CSS Overview panel to identify potential CSS improvements.</description>
-      <pubDate>Wed, 23 Nov 2022 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Jan 2024 10:16:10 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Jan 2024 10:16:10 +0000</pubDate>
     <item>
       <title>Screen sharing improvements in Chrome 109</title>
       <link>https://developer.chrome.com/blog/screen-sharing-improvements-in-chrome-109?hl=en</link>
@@ -1094,6 +1088,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/persistent-permissions-for-the-file-system-access-api?hl=en</link>
       <description>This post explains how persistent permissions for the File System Access API can be managed. It also provides a quick recap of the current state of the problem and the challenges that are being solved.</description>
       <pubDate>Tue, 09 Jan 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CSS vertical writing mode for form control elements</title>
+      <link>https://developer.chrome.com/blog/vertical-form-controls?hl=en</link>
+      <description>Chrome adds another new international CSS feature.</description>
+      <pubDate>Mon, 15 Jan 2024 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
