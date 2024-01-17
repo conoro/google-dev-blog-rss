@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jan 2024 16:16:36 +0000</lastBuildDate>
-    <pubDate>Wed, 17 Jan 2024 16:16:36 +0000</pubDate>
-    <item>
-      <title>Chrome Extensions: Extending API to support Instant Navigation</title>
-      <link>https://developer.chrome.com/blog/extension-instantnav?hl=en</link>
-      <description>The Extensions API has been updated to support back/forward cache, preloading navigations.</description>
-      <pubDate>Wed, 30 Nov 2022 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Jan 2024 17:15:28 +0000</lastBuildDate>
+    <pubDate>Wed, 17 Jan 2024 17:15:28 +0000</pubDate>
     <item>
       <title>Chrome 109 beta</title>
       <link>https://developer.chrome.com/blog/chrome-109-beta?hl=en</link>
@@ -1093,6 +1087,12 @@ yourself kicked out of full</description>
       <title>Test Web Bluetooth with Puppeteer</title>
       <link>https://developer.chrome.com/blog/test-web-bluetooth-with-puppeteer?hl=en</link>
       <description>Use Puppeteer to test features that use the Web Bluetooth API in Chrome.</description>
+      <pubDate>Wed, 17 Jan 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Safely accessing the DOM with Angular SSR</title>
+      <link>https://developer.chrome.com/blog/angular-dom-safety-ssr?hl=en</link>
+      <description>Learn how to safely use the DOM together with SSR in Angular</description>
       <pubDate>Wed, 17 Jan 2024 08:00:00 +0000</pubDate>
     </item>
   </channel>
