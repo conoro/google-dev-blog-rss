@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Jan 2024 07:15:40 +0000</lastBuildDate>
-    <pubDate>Thu, 18 Jan 2024 07:15:40 +0000</pubDate>
-    <item>
-      <title>Chrome 109 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-109-beta?hl=en</link>
-      <description>MathML, conditional focus for getDisplayMedia(), Origin Private File System on Android, and more.</description>
-      <pubDate>Thu, 01 Dec 2022 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Jan 2024 08:16:29 +0000</lastBuildDate>
+    <pubDate>Thu, 18 Jan 2024 08:16:29 +0000</pubDate>
     <item>
       <title>Secure Payment Confirmation on Chrome Android</title>
       <link>https://developer.chrome.com/blog/spc-on-android?hl=en</link>
@@ -1094,6 +1088,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/angular-dom-safety-ssr?hl=en</link>
       <description>Learn how to safely use the DOM together with SSR in Angular</description>
       <pubDate>Wed, 17 Jan 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's New in WebGPU (Chrome 121)</title>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-121?hl=en</link>
+      <description>Support WebGPU on Android, use of DXC for shader compilation, timestamp queries in compute and render passes, default entry points to shader modules, support display-p3 as GPUExternalTexture color space, memory heaps info, and more.</description>
+      <pubDate>Thu, 18 Jan 2024 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
