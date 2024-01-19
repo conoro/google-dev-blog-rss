@@ -6,8 +6,14 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Jan 2024 22:15:34 +0000</lastBuildDate>
-    <pubDate>Fri, 19 Jan 2024 22:15:34 +0000</pubDate>
+    <lastBuildDate>Fri, 19 Jan 2024 23:17:52 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Jan 2024 23:17:52 +0000</pubDate>
+    <item>
+      <title>Chrome 109 beta</title>
+      <link>https://developer.chrome.com/blog/chrome-109-beta?hl=en</link>
+      <description>MathML, conditional focus for getDisplayMedia(), Origin Private File System on Android, and more.</description>
+      <pubDate>Thu, 01 Dec 2022 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Secure Payment Confirmation on Chrome Android</title>
       <link>https://developer.chrome.com/blog/spc-on-android?hl=en</link>
@@ -509,12 +515,6 @@ animations. Suppose you needed to</description>
       <title>Chrome disables modifying document.domain</title>
       <link>https://developer.chrome.com/blog/document-domain-setter-deprecation?hl=en</link>
       <description>If your website relies on setting document.domain, your action is required.</description>
-      <pubDate>Tue, 30 May 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Help test bounce tracking mitigations</title>
-      <link>https://developer.chrome.com/blog/bounce-tracking-mitigations-dev-trial?hl=en</link>
-      <description>We plan to launch mitigations to limit tracking from a particular technique called "bounce tracking" later this year. We would like to invite developers to test this new feature with feature flags and provide feedback.</description>
       <pubDate>Tue, 30 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
