@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jan 2024 15:16:03 +0000</lastBuildDate>
-    <pubDate>Tue, 23 Jan 2024 15:16:03 +0000</pubDate>
-    <item>
-      <title>Secure Payment Confirmation on Chrome Android</title>
-      <link>https://developer.chrome.com/blog/spc-on-android?hl=en</link>
-      <description>Secure Payment Confirmation brings a phishing resistant payment confirmation with the power of passkeys to the web. It will be available in Chrome Android from Chrome 109.</description>
-      <pubDate>Thu, 01 Dec 2022 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Jan 2024 16:16:35 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Jan 2024 16:16:35 +0000</pubDate>
     <item>
       <title>DevTools Tips: Device Mode</title>
       <link>https://developer.chrome.com/blog/devtools-tips-19?hl=en</link>
@@ -1094,6 +1088,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/new-in-webgpu-121?hl=en</link>
       <description>Support WebGPU on Android, use of DXC for shader compilation, timestamp queries in compute and render passes, default entry points to shader modules, support display-p3 as GPUExternalTexture color space, memory heaps info, and more.</description>
       <pubDate>Thu, 18 Jan 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's happening in Chrome Extensions?</title>
+      <link>https://developer.chrome.com/blog/extension-news-january-2024?hl=en</link>
+      <description>An overview of the recent changes in Chrome Extensions, plus exciting upcoming extension features developers can look forward to.</description>
+      <pubDate>Tue, 23 Jan 2024 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
