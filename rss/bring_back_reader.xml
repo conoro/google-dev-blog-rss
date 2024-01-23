@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jan 2024 18:16:32 +0000</lastBuildDate>
-    <pubDate>Tue, 23 Jan 2024 18:16:32 +0000</pubDate>
-    <item>
-      <title>DevTools Tips: Device Mode</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-19?hl=en</link>
-      <description>Simulate mobule devices with Device Mode in DevTools.</description>
-      <pubDate>Mon, 05 Dec 2022 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Jan 2024 19:14:57 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Jan 2024 19:14:57 +0000</pubDate>
     <item>
       <title>What developers need to know about Chrome's Memory and Energy Saver modes</title>
       <link>https://developer.chrome.com/blog/memory-and-energy-saver-mode?hl=en</link>
@@ -1093,6 +1087,12 @@ yourself kicked out of full</description>
       <title>What's happening in Chrome Extensions?</title>
       <link>https://developer.chrome.com/blog/extension-news-january-2024?hl=en</link>
       <description>An overview of the recent changes in Chrome Extensions, plus exciting upcoming extension features developers can look forward to.</description>
+      <pubDate>Tue, 23 Jan 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New in Chrome 121</title>
+      <link>https://developer.chrome.com/blog/new-in-chrome-121?hl=en</link>
+      <description>Chrome 121 is rolling out now! With CSS updates, improvements to the Speculation Rules API, an origin trial for Element Capture API and there's plenty more. Adriana Jara has all the details about what's new for developers in Chrome 121.</description>
       <pubDate>Tue, 23 Jan 2024 08:00:00 +0000</pubDate>
     </item>
   </channel>
