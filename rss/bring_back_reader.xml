@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Jan 2024 04:16:28 +0000</lastBuildDate>
-    <pubDate>Thu, 25 Jan 2024 04:16:28 +0000</pubDate>
-    <item>
-      <title>What developers need to know about Chrome's Memory and Energy Saver modes</title>
-      <link>https://developer.chrome.com/blog/memory-and-energy-saver-mode?hl=en</link>
-      <description>Learn how to ensure your page can gracefully handle Chrome's new Memory and Energy saver modes.</description>
-      <pubDate>Thu, 08 Dec 2022 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Jan 2024 05:15:36 +0000</lastBuildDate>
+    <pubDate>Thu, 25 Jan 2024 05:15:36 +0000</pubDate>
     <item>
       <title>Maximize ad relevance</title>
       <link>https://developer.chrome.com/blog/maximize-ad-relevance?hl=en</link>
@@ -1094,6 +1088,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/new-in-chrome-121?hl=en</link>
       <description>Chrome 121 is rolling out now! With CSS updates, improvements to the Speculation Rules API, an origin trial for Element Capture API and there's plenty more. Adriana Jara has all the details about what's new for developers in Chrome 121.</description>
       <pubDate>Tue, 23 Jan 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chrome 122 beta</title>
+      <link>https://developer.chrome.com/blog/chrome-122-beta?hl=en</link>
+      <description>Chrome 122 beta brings you Iterator helpers, set methods, the Storage Buckets API, read unsanitized HTML in the Async Clipboard API, and more.</description>
+      <pubDate>Wed, 24 Jan 2024 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
