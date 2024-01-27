@@ -6,8 +6,14 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Jan 2024 19:14:27 +0000</lastBuildDate>
-    <pubDate>Sat, 27 Jan 2024 19:14:27 +0000</pubDate>
+    <lastBuildDate>Sat, 27 Jan 2024 20:15:40 +0000</lastBuildDate>
+    <pubDate>Sat, 27 Jan 2024 20:15:40 +0000</pubDate>
+    <item>
+      <title>Maximize ad relevance</title>
+      <link>https://developer.chrome.com/blog/maximize-ad-relevance?hl=en</link>
+      <description>New documentation for the Privacy Sandbox on ad relevance without third-party cookies.</description>
+      <pubDate>Tue, 13 Dec 2022 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Chrome Web Store Policy Updates</title>
       <link>https://developer.chrome.com/blog/cws-policy-revamp-jan23?hl=en</link>
@@ -638,12 +644,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/one-time-permissions?hl=en</link>
       <description>"Allow this time" is a one-time option for permission grants in Chrome. It will initially be available on desktop only for geolocation, camera, and microphone.</description>
       <pubDate>Tue, 01 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What's New in WebGPU (Chrome 116)</title>
-      <link>https://developer.chrome.com/blog/new-in-webgpu-116?hl=en</link>
-      <description>WebCodecs integration, video playback improvements, and more.</description>
-      <pubDate>Tue, 08 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Secure popup interactions with restrict-properties</title>
