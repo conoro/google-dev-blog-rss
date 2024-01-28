@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Jan 2024 21:15:23 +0000</lastBuildDate>
-    <pubDate>Sun, 28 Jan 2024 21:15:23 +0000</pubDate>
-    <item>
-      <title>Maximize ad relevance</title>
-      <link>https://developer.chrome.com/blog/maximize-ad-relevance?hl=en</link>
-      <description>New documentation for the Privacy Sandbox on ad relevance without third-party cookies.</description>
-      <pubDate>Tue, 13 Dec 2022 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 28 Jan 2024 22:15:16 +0000</lastBuildDate>
+    <pubDate>Sun, 28 Jan 2024 22:15:16 +0000</pubDate>
     <item>
       <title>Chrome Web Store Policy Updates</title>
       <link>https://developer.chrome.com/blog/cws-policy-revamp-jan23?hl=en</link>
@@ -244,6 +238,12 @@ Firefox, will land in Chrome from</description>
       <link>https://developer.chrome.com/blog/a-new-home-for-the-project-fugu-api-showcase?hl=en</link>
       <description>The Project Fugu API Showcase is a collection of apps that make use of APIs that are part of Project Fugu. The cross-company Capabilities Project (code name Project Fugu ) at Google has the objective of making it possible for web apps to do anything</description>
       <pubDate>Mon, 06 Mar 2023 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New in Chrome 111</title>
+      <link>https://developer.chrome.com/blog/new-in-chrome-111?hl=en</link>
+      <description>Chrome 111 is rolling out now! Create polished transitions in your single page app with the View Transitions API, and bring colors to the next level with support for CSS color level 4. Discover new tools in the style panel to make the most of the new color functionality, and there’s plenty more.</description>
+      <pubDate>Tue, 07 Mar 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome 112 beta</title>
