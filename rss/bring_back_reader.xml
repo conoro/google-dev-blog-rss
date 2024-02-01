@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Feb 2024 10:15:51 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Feb 2024 10:15:51 +0000</pubDate>
-    <item>
-      <title>Help choose the syntax for CSS Nesting</title>
-      <link>https://developer.chrome.com/blog/help-css-nesting-again?hl=en</link>
-      <description>The CSS Working Group is continuing a debate over the best way to define nesting in CSS. If you are someone who writes CSS, we’d like your help.</description>
-      <pubDate>Fri, 16 Dec 2022 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Feb 2024 11:14:50 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Feb 2024 11:14:50 +0000</pubDate>
     <item>
       <title>Change in release schedule from Chrome 110</title>
       <link>https://developer.chrome.com/blog/early-stable?hl=en</link>
@@ -1088,6 +1082,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/privacy-sandbox-office-hours-12?hl=en</link>
       <description>Join the 12th edition of Privacy Sandbox office hours dedicated to Chrome-facilitated testing, where the Privacy Sandbox team will provide some Privacy Sandbox tester updates and answer your questions with product and technical leads.</description>
       <pubDate>Mon, 29 Jan 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DevTools Tips: Debugging speculative navigations for faster page loads</title>
+      <link>https://developer.chrome.com/blog/devtools-tips-31?hl=en</link>
+      <description>Make web browsing faster with speculative loads and learn how to debug them.</description>
+      <pubDate>Thu, 01 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's new in DevTools (Chrome 122)</title>
