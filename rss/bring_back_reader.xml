@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Feb 2024 19:15:20 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Feb 2024 19:15:20 +0000</pubDate>
-    <item>
-      <title>DevTools Tips: Debugging Project Fugu APIs</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-17?hl=en</link>
-      <description>Use DevTools to debug Project Fugu APIs.</description>
-      <pubDate>Tue, 03 Jan 2023 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 Feb 2024 20:15:22 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Feb 2024 20:15:22 +0000</pubDate>
     <item>
       <title>What's New In DevTools (Chrome 109)</title>
       <link>https://developer.chrome.com/blog/new-in-devtools-109?hl=en</link>
@@ -1082,6 +1076,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/devtools-tips-31?hl=en</link>
       <description>Make web browsing faster with speculative loads and learn how to debug them.</description>
       <pubDate>Thu, 01 Feb 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing a new way to build custom web editing experiences using the EditContext API</title>
+      <link>https://developer.chrome.com/blog/introducing-editcontext-api?hl=en</link>
+      <description>EditContext is a new API launching in Chrome and Edge that helps developers to build advanced text editing features in the browser. Learn more about it in this post!</description>
+      <pubDate>Fri, 02 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's new in DevTools (Chrome 122)</title>
