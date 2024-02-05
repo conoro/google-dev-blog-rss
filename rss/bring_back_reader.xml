@@ -6,8 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Feb 2024 22:15:44 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Feb 2024 22:15:44 +0000</pubDate>
+    <lastBuildDate>Mon, 05 Feb 2024 23:15:40 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Feb 2024 23:15:40 +0000</pubDate>
     <item>
       <title>New in Chrome 109</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-109?hl=en</link>
