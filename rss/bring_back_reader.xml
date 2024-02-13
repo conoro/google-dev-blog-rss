@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Feb 2024 22:15:51 +0000</lastBuildDate>
-    <pubDate>Tue, 13 Feb 2024 22:15:51 +0000</pubDate>
-    <item>
-      <title>New in Chrome 109</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-109?hl=en</link>
-      <description>Chrome 109 is rolling out now. The Origin Private File System API is now available for Android, there is a set of new properties in CSS, you can easily add math notations in your HTML with the support for MathML core, and there’s plenty more.</description>
-      <pubDate>Tue, 10 Jan 2023 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Feb 2024 23:15:24 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Feb 2024 23:15:24 +0000</pubDate>
     <item>
       <title>Change the destination output device in Web Audio</title>
       <link>https://developer.chrome.com/blog/audiocontext-setsinkid?hl=en</link>
@@ -184,6 +178,12 @@ Firefox, will land in Chrome from</description>
       <link>https://developer.chrome.com/blog/working-with-the-industry-to-evolve-chips?hl=en</link>
       <description>Exploring two challenges that the Chrome team faced in implementing CHIPS and how community feedback played a key role in evolving the proposal design.</description>
       <pubDate>Tue, 28 Feb 2023 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tether elements to each other with CSS anchor positioning</title>
+      <link>https://developer.chrome.com/blog/tether-elements-to-each-other-with-css-anchor-positioning?hl=en</link>
+      <description>A new API is coming to the web platform to help you position elements in an adaptive way with no tricks.</description>
+      <pubDate>Wed, 01 Mar 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Privacy win! Users now share their screens more wisely</title>
