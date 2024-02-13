@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Feb 2024 07:15:12 +0000</lastBuildDate>
-    <pubDate>Tue, 13 Feb 2024 07:15:12 +0000</pubDate>
-    <item>
-      <title>New in Chrome 109</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-109?hl=en</link>
-      <description>Chrome 109 is rolling out now. The Origin Private File System API is now available for Android, there is a set of new properties in CSS, you can easily add math notations in your HTML with the support for MathML core, and there’s plenty more.</description>
-      <pubDate>Tue, 10 Jan 2023 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Feb 2024 08:16:39 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Feb 2024 08:16:39 +0000</pubDate>
     <item>
       <title>Change the destination output device in Web Audio</title>
       <link>https://developer.chrome.com/blog/audiocontext-setsinkid?hl=en</link>
@@ -1094,6 +1088,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/chromium-issue-tracker-migration-complete?hl=en</link>
       <description>Chromium issue tracking is now migrated.</description>
       <pubDate>Mon, 05 Feb 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's New in WebGPU (Chrome 122)</title>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-122?hl=en</link>
+      <description>Compatibility mode in development, increase maxVertexAttributes limit, and Dawn updates.</description>
+      <pubDate>Tue, 13 Feb 2024 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
