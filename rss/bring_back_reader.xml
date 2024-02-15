@@ -6,8 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Feb 2024 14:15:04 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Feb 2024 14:15:04 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Feb 2024 15:15:36 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Feb 2024 15:15:36 +0000</pubDate>
     <item>
       <title>Change the destination output device in Web Audio</title>
       <link>https://developer.chrome.com/blog/audiocontext-setsinkid?hl=en</link>
