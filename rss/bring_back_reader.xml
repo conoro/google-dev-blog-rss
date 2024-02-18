@@ -6,16 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Feb 2024 11:14:09 +0000</lastBuildDate>
-    <pubDate>Sun, 18 Feb 2024 11:14:09 +0000</pubDate>
-    <item>
-      <title>SQLite Wasm in the browser backed by the Origin Private File System</title>
-      <link>https://developer.chrome.com/blog/sqlite-wasm-in-the-browser-backed-by-the-origin-private-file-system?hl=en</link>
-      <description>Use SQLite to handle all your storage needs performantly on the web. SQLite is a popular, open-source, lightweight, embedded relational
-database management system. Many developers use it to store data in a
-structured, easy-to-use manner. Because of</description>
-      <pubDate>Wed, 11 Jan 2023 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 18 Feb 2024 12:17:10 +0000</lastBuildDate>
+    <pubDate>Sun, 18 Feb 2024 12:17:10 +0000</pubDate>
     <item>
       <title>Cookie Expires and Max-Age attributes now have upper limit</title>
       <link>https://developer.chrome.com/blog/cookie-max-age-expires?hl=en</link>
@@ -148,6 +140,12 @@ Firefox, will land in Chrome from</description>
       <link>https://developer.chrome.com/blog/new-in-devtools-111?hl=en</link>
       <description>Debugging HD color, enhanced breakpoint UX, and more.</description>
       <pubDate>Thu, 16 Feb 2023 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing Chrome for Developers in China</title>
+      <link>https://developer.chrome.com/blog/chrome-for-developers-china?hl=en</link>
+      <description>We are publishing our sites on a .cn domain to make them easier to access in China.</description>
+      <pubDate>Sun, 19 Feb 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DevTools Tips: Discover CSS issues</title>
