@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Feb 2024 14:15:08 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Feb 2024 14:15:08 +0000</pubDate>
-    <item>
-      <title>Chrome 110 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-110-beta?hl=en</link>
-      <description>CSS initial letters, web app launch handler, cross-origin iframe support for the FedCM API, and more.</description>
-      <pubDate>Thu, 12 Jan 2023 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Feb 2024 15:15:26 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Feb 2024 15:15:26 +0000</pubDate>
     <item>
       <title>Discovering the capable web</title>
       <link>https://developer.chrome.com/blog/how-fugu-is-my-browser-and-how-fugu-is-the-web?hl=en</link>
@@ -1092,6 +1086,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/new-in-chrome-122?hl=en</link>
       <description>Chrome 122 is rolling out now! With the new Storage Buckets API, DevTools Performance panel updates, unsanitized option to read HTML with the Async Clipboard API and there's plenty more. Adriana Jara has all the details about what's new for developers in Chrome 122.</description>
       <pubDate>Tue, 20 Feb 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Support for align-content in block and table layouts</title>
+      <link>https://developer.chrome.com/blog/align-content?hl=en</link>
+      <description>From Chrome 123 use align-content to align items without creating a flex or grid container.</description>
+      <pubDate>Wed, 21 Feb 2024 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
