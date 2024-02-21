@@ -6,8 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Feb 2024 22:15:08 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Feb 2024 22:15:08 +0000</pubDate>
+    <lastBuildDate>Wed, 21 Feb 2024 23:15:37 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Feb 2024 23:15:37 +0000</pubDate>
     <item>
       <title>Control your drop caps with CSS initial-letter</title>
       <link>https://developer.chrome.com/blog/control-your-drop-caps-with-css-initial-letter?hl=en</link>
