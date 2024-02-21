@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Feb 2024 18:16:08 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Feb 2024 18:16:08 +0000</pubDate>
-    <item>
-      <title>Discovering the capable web</title>
-      <link>https://developer.chrome.com/blog/how-fugu-is-my-browser-and-how-fugu-is-the-web?hl=en</link>
-      <description>What advanced web capabilities does your browser support? And what are the web apps that make use of these capabilities? To answer these questions, check out a browser testing site and a browser extension. Project Fugu is a cross company effort to</description>
-      <pubDate>Wed, 18 Jan 2023 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Feb 2024 19:14:09 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Feb 2024 19:14:09 +0000</pubDate>
     <item>
       <title>Control your drop caps with CSS initial-letter</title>
       <link>https://developer.chrome.com/blog/control-your-drop-caps-with-css-initial-letter?hl=en</link>
@@ -1086,6 +1080,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/new-in-chrome-122?hl=en</link>
       <description>Chrome 122 is rolling out now! With the new Storage Buckets API, DevTools Performance panel updates, unsanitized option to read HTML with the Async Clipboard API and there's plenty more. Adriana Jara has all the details about what's new for developers in Chrome 122.</description>
       <pubDate>Tue, 20 Feb 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chrome 123 beta</title>
+      <link>https://developer.chrome.com/blog/chrome-123-beta?hl=en</link>
+      <description>The CSS light-dark() color function, align-content for blocks, the field-sizing property, and the pagereveal event.</description>
+      <pubDate>Wed, 21 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Support for align-content in block and table layouts</title>
