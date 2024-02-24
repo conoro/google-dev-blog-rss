@@ -6,8 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Feb 2024 04:16:05 +0000</lastBuildDate>
-    <pubDate>Sat, 24 Feb 2024 04:16:05 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Feb 2024 05:15:34 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Feb 2024 05:15:34 +0000</pubDate>
     <item>
       <title>Scrollend, a new JavaScript event</title>
       <link>https://developer.chrome.com/blog/scrollend-a-new-javascript-event?hl=en</link>
