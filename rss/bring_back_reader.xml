@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Feb 2024 18:16:19 +0000</lastBuildDate>
-    <pubDate>Wed, 28 Feb 2024 18:16:19 +0000</pubDate>
-    <item>
-      <title>Offscreen Documents in Manifest V3</title>
-      <link>https://developer.chrome.com/blog/Offscreen-Documents-in-Manifest-v3?hl=en</link>
-      <description>Introducing the Offscreen Documents API for Chrome extension development.</description>
-      <pubDate>Wed, 25 Jan 2023 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 28 Feb 2024 19:14:58 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Feb 2024 19:14:58 +0000</pubDate>
     <item>
       <title>Longer extension service worker lifetimes</title>
       <link>https://developer.chrome.com/blog/longer-esw-lifetimes?hl=en</link>
@@ -1086,6 +1080,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/next-third-parties?hl=en</link>
       <description>Learn how to use the @next/third-parties library to optimize loading of popular third-party resources</description>
       <pubDate>Mon, 26 Feb 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's new in DevTools (Chrome 123)</title>
+      <link>https://developer.chrome.com/blog/new-in-devtools-123?hl=en</link>
+      <description>An Easter egg, focused page emulation in Elements &gt; Styles, new Lighthouse audit, and more.</description>
+      <pubDate>Tue, 27 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome Extensions: eyeo's journey to testing service worker suspension</title>
