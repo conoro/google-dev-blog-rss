@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 Mar 2024 22:14:59 +0000</lastBuildDate>
-    <pubDate>Sun, 03 Mar 2024 22:14:59 +0000</pubDate>
-    <item>
-      <title>Longer extension service worker lifetimes</title>
-      <link>https://developer.chrome.com/blog/longer-esw-lifetimes?hl=en</link>
-      <description>Extension service workers can now stay alive as long as they're receiving events. This increases the reliability of extension services workers, but has a pitfall you should avoid.</description>
-      <pubDate>Fri, 27 Jan 2023 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 03 Mar 2024 23:15:27 +0000</lastBuildDate>
+    <pubDate>Sun, 03 Mar 2024 23:15:27 +0000</pubDate>
     <item>
       <title>DevTools Tips: Debugging PWA</title>
       <link>https://developer.chrome.com/blog/devtools-tips-18?hl=en</link>
@@ -134,6 +128,12 @@ Firefox, will land in Chrome from</description>
       <link>https://developer.chrome.com/blog/a-new-home-for-the-project-fugu-api-showcase?hl=en</link>
       <description>The Project Fugu API Showcase is a collection of apps that make use of APIs that are part of Project Fugu. The cross-company Capabilities Project (code name Project Fugu ) at Google has the objective of making it possible for web apps to do anything</description>
       <pubDate>Mon, 06 Mar 2023 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New in Chrome 111</title>
+      <link>https://developer.chrome.com/blog/new-in-chrome-111?hl=en</link>
+      <description>Chrome 111 is rolling out now! Create polished transitions in your single page app with the View Transitions API, and bring colors to the next level with support for CSS color level 4. Discover new tools in the style panel to make the most of the new color functionality, and there’s plenty more.</description>
+      <pubDate>Tue, 07 Mar 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome 112 beta</title>
