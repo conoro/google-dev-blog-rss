@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Mar 2024 20:16:00 +0000</lastBuildDate>
-    <pubDate>Thu, 14 Mar 2024 20:16:00 +0000</pubDate>
-    <item>
-      <title>Meet the new CSS color spaces</title>
-      <link>https://developer.chrome.com/blog/meet-the-new-css-color-spaces?hl=en</link>
-      <description>CSS Color 4 brings wide gamut color tools and capabilities to the web: more colors, manipulation functions, and better gradients.</description>
-      <pubDate>Thu, 02 Feb 2023 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 Mar 2024 21:17:02 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Mar 2024 21:17:02 +0000</pubDate>
     <item>
       <title>New requirements for the Web Share API in third-party iframes</title>
       <link>https://developer.chrome.com/blog/web-share-api-in-third-party-iframes?hl=en</link>
@@ -1091,6 +1085,12 @@ yourself kicked out of full</description>
       <title>Hide extension requests plus more Network panel improvements</title>
       <link>https://developer.chrome.com/blog/network-panel-improvements?hl=en</link>
       <description>Explore the latest improvements in Chrome DevTools Network panel, designed to simplify your web debugging experience.</description>
+      <pubDate>Thu, 14 Mar 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Performance tooling in 2024 and beyond</title>
+      <link>https://developer.chrome.com/blog/perf-tooling-2024?hl=en</link>
+      <description>Learn about the Chrome team's plans to improve the Performance panel of DevTools.</description>
       <pubDate>Thu, 14 Mar 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
