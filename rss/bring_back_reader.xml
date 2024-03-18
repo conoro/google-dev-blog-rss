@@ -6,8 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 Mar 2024 10:15:50 +0000</lastBuildDate>
-    <pubDate>Mon, 18 Mar 2024 10:15:50 +0000</pubDate>
+    <lastBuildDate>Mon, 18 Mar 2024 11:14:56 +0000</lastBuildDate>
+    <pubDate>Mon, 18 Mar 2024 11:14:56 +0000</pubDate>
     <item>
       <title>What's New In DevTools (Chrome 110)</title>
       <link>https://developer.chrome.com/blog/new-in-devtools-110?hl=en</link>
