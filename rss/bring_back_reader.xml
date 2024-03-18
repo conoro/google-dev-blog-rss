@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 Mar 2024 07:15:24 +0000</lastBuildDate>
-    <pubDate>Mon, 18 Mar 2024 07:15:24 +0000</pubDate>
-    <item>
-      <title>The Chromium Chronicle #32: Mind the patch gap</title>
-      <link>https://developer.chrome.com/blog/chromium-chronicle-32?hl=en</link>
-      <description>Learn how Chromium developers can reduce the chance of n-day exploitation.</description>
-      <pubDate>Fri, 03 Feb 2023 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 Mar 2024 08:16:10 +0000</lastBuildDate>
+    <pubDate>Mon, 18 Mar 2024 08:16:10 +0000</pubDate>
     <item>
       <title>What's New In DevTools (Chrome 110)</title>
       <link>https://developer.chrome.com/blog/new-in-devtools-110?hl=en</link>
@@ -1081,10 +1075,16 @@ yourself kicked out of full</description>
       <pubDate>Thu, 14 Mar 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Use the Service Worker Static Routing API to bypass the service worker for specific paths</title>
+      <link>https://developer.chrome.com/blog/service-worker-static-routing?hl=en</link>
+      <description>Find out how to use this new API, available from Chrome 123.</description>
+      <pubDate>Mon, 18 Mar 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Chrome Extensions: eyeo's journey to testing service worker suspension</title>
       <link>https://developer.chrome.com/blog/eyeos-journey-to-testing-mv3-service worker-suspension?hl=en</link>
       <description>In this post, the eyeo team shares their journey into the problem of testing extension service workers. In particular, how to to make sure that their Chrome Extensions works correctly when a service worker gets suspended.</description>
-      <pubDate>Mon, 18 Mar 2024 04:40:37 +0000</pubDate>
+      <pubDate>Mon, 18 Mar 2024 07:23:51 +0000</pubDate>
     </item>
     <item>
       <title>Private Network Access: Extended Protection for Web Workers and Navigation Fetches</title>
