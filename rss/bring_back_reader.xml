@@ -6,8 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Mar 2024 08:16:12 +0000</lastBuildDate>
-    <pubDate>Tue, 19 Mar 2024 08:16:12 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Mar 2024 09:15:22 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Mar 2024 09:15:22 +0000</pubDate>
     <item>
       <title>What's New In DevTools (Chrome 110)</title>
       <link>https://developer.chrome.com/blog/new-in-devtools-110?hl=en</link>
@@ -532,12 +532,6 @@ yourself kicked out of full</description>
       <title>What's New in DevTools (Chrome 117)</title>
       <link>https://developer.chrome.com/blog/new-in-devtools-117?hl=en</link>
       <description>Override XHR/fetch requests and hide extension requests from the Network panel, see changes in fetch priority in the Performance panel, experience multiple UI improvements, check out new colors and experimental features, and more.</description>
-      <pubDate>Tue, 22 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Debugging speculation rules</title>
-      <link>https://developer.chrome.com/blog/debugging-speculation-rules?hl=en</link>
-      <description>Learn all about the Chrome DevTools features to debug speculation rules used to prefetch and prerender future page navigations.</description>
       <pubDate>Tue, 22 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1084,6 +1078,12 @@ yourself kicked out of full</description>
       <title>Private Network Access: Extended protection for web workers and navigation fetches</title>
       <link>https://developer.chrome.com/blog/private-network-access-update-2024-03?hl=en</link>
       <description>Learn about Private Network Access's key security mechanisms for web workers, navigation fetches, and upcoming protections. This document also covers what website owners should do if they utilize private networks.</description>
+      <pubDate>Mon, 18 Mar 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Debugging speculation rules</title>
+      <link>https://developer.chrome.com/articles/debugging-speculation-rules?hl=en</link>
+      <description>Learn all about the Chrome DevTools features to debug speculation rules used to prefetch and prerender future page navigations.</description>
       <pubDate>Mon, 18 Mar 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
