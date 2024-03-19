@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Mar 2024 18:16:17 +0000</lastBuildDate>
-    <pubDate>Tue, 19 Mar 2024 18:16:17 +0000</pubDate>
-    <item>
-      <title>What's New In DevTools (Chrome 110)</title>
-      <link>https://developer.chrome.com/blog/new-in-devtools-110?hl=en</link>
-      <description>Clearing Performance panel on reload, view and highlight the code in the Recorder, and more.</description>
-      <pubDate>Mon, 06 Feb 2023 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Mar 2024 19:14:48 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Mar 2024 19:14:48 +0000</pubDate>
     <item>
       <title>New in Chrome 110</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-110?hl=en</link>
@@ -1091,6 +1085,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/eyeos-journey-to-testing-mv3-service worker-suspension?hl=en</link>
       <description>In this post, the eyeo team shares their journey into the problem of testing extension service workers. In particular, how to to make sure that their Chrome Extensions works correctly when a service worker gets suspended.</description>
       <pubDate>Mon, 18 Mar 2024 07:23:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>New in Chrome 123</title>
+      <link>https://developer.chrome.com/blog/new-in-chrome-123?hl=en</link>
+      <description>Chrome 123 is rolling out now! With the new light-dark functionI, Long Animation Frames API, Service Worker Static Routing API and there's plenty more. Adriana Jara has all the details about what's new for developers in Chrome 123.</description>
+      <pubDate>Tue, 19 Mar 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
