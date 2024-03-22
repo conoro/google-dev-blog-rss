@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Mar 2024 10:15:46 +0000</lastBuildDate>
-    <pubDate>Fri, 22 Mar 2024 10:15:46 +0000</pubDate>
-    <item>
-      <title>Talking to the Stadia controller with WebHID</title>
-      <link>https://developer.chrome.com/blog/talking-to-the-stadia-controller-with-webhid?hl=en</link>
-      <description>The flashed Stadia controller acts like a standard gamepad, which means not all its buttons are accessible using the Gamepad API. With WebHID, you can now access the missing buttons. Since Stadia shut down, many feared that the controller would end</description>
-      <pubDate>Wed, 08 Feb 2023 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 Mar 2024 11:14:53 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Mar 2024 11:14:53 +0000</pubDate>
     <item>
       <title>Chrome 111 beta</title>
       <link>https://developer.chrome.com/blog/chrome-111-beta?hl=en</link>
@@ -1091,6 +1085,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/keyboard-focusable-scrollers?hl=en</link>
       <description>A change is rolling out to make scrollers without tabindex value set and with no focusable children keyboard focusable.</description>
       <pubDate>Wed, 20 Mar 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WebAssembly JavaScript Promise Integration (JSPI) enters origin trial</title>
+      <link>https://developer.chrome.com/blog/webassembly-jspi-origin-trial?hl=en</link>
+      <description>JavaScript Promise Integration (JSPI) is an API that allows synchronous sequential code compiled to WebAssembly to access asynchronous Web APIs.</description>
+      <pubDate>Fri, 22 Mar 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
