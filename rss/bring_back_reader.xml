@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Mar 2024 03:15:48 +0000</lastBuildDate>
-    <pubDate>Fri, 22 Mar 2024 03:15:48 +0000</pubDate>
-    <item>
-      <title>New in Chrome 110</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-110?hl=en</link>
-      <description>Chrome 110 is rolling out now! Add custom style to your picture-in-picture elements with the new :picture-in-picture pseudo-class, set your web app launch behavior with launch_handler, use the credentialless attribute in iframes to embed third party content that doesn’t set a cross origin embedder policy and there’s plenty more.</description>
-      <pubDate>Tue, 07 Feb 2023 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 Mar 2024 04:16:05 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Mar 2024 04:16:05 +0000</pubDate>
     <item>
       <title>Talking to the Stadia controller with WebHID</title>
       <link>https://developer.chrome.com/blog/talking-to-the-stadia-controller-with-webhid?hl=en</link>
@@ -1027,6 +1021,12 @@ yourself kicked out of full</description>
       <pubDate>Tue, 27 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Chrome Extensions: eyeo's journey to testing service worker suspension</title>
+      <link>https://developer.chrome.com/blog/eyeos-journey-to-testing-mv3-service worker-suspension?hl=en</link>
+      <description>In this post, the eyeo team shares their journey into the problem of testing extension service workers. In particular, how to to make sure that their Chrome Extensions works correctly when a service worker gets suspended.</description>
+      <pubDate>Tue, 27 Feb 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Improvements to the Speculation Rules API</title>
       <link>https://developer.chrome.com/blog/speculation-rules-improvements?hl=en</link>
       <description>Details of the latest updates to the Speculation Rules API including document rules, eagerness setting, limits, and speculation rules support on platforms.</description>
@@ -1075,16 +1075,16 @@ yourself kicked out of full</description>
       <pubDate>Mon, 18 Mar 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Chrome Extensions: eyeo's journey to testing service worker suspension</title>
-      <link>https://developer.chrome.com/blog/eyeos-journey-to-testing-mv3-service worker-suspension?hl=en</link>
-      <description>In this post, the eyeo team shares their journey into the problem of testing extension service workers. In particular, how to to make sure that their Chrome Extensions works correctly when a service worker gets suspended.</description>
-      <pubDate>Mon, 18 Mar 2024 07:23:51 +0000</pubDate>
-    </item>
-    <item>
       <title>New in Chrome 123</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-123?hl=en</link>
       <description>Chrome 123 is rolling out now! With the new light-dark functionI, Long Animation Frames API, Service Worker Static Routing API and there's plenty more. Adriana Jara has all the details about what's new for developers in Chrome 123.</description>
       <pubDate>Tue, 19 Mar 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chrome 124 beta</title>
+      <link>https://developer.chrome.com/blog/chrome-124-beta?hl=en</link>
+      <description>The writingsuggestions HTML attribute, the WebSocketStream API, priority HTTP request header, and more.</description>
+      <pubDate>Wed, 20 Mar 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Keyboard focusable scrollers</title>
