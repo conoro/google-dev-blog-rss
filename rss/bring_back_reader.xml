@@ -6,8 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Mar 2024 02:16:57 +0000</lastBuildDate>
-    <pubDate>Fri, 22 Mar 2024 02:16:57 +0000</pubDate>
+    <lastBuildDate>Fri, 22 Mar 2024 03:15:48 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Mar 2024 03:15:48 +0000</pubDate>
     <item>
       <title>New in Chrome 110</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-110?hl=en</link>
@@ -1069,12 +1069,6 @@ yourself kicked out of full</description>
       <pubDate>Mon, 18 Mar 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Debugging speculation rules</title>
-      <link>https://developer.chrome.com/docs/debugging-speculation-rules?hl=en</link>
-      <description>Learn all about the Chrome DevTools features to debug speculation rules used to prefetch and prerender future page navigations.</description>
-      <pubDate>Mon, 18 Mar 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Private Network Access: Extended protection for web workers and navigation fetches</title>
       <link>https://developer.chrome.com/blog/private-network-access-update-2024-03?hl=en</link>
       <description>Learn about Private Network Access's key security mechanisms for web workers, navigation fetches, and upcoming protections. This document also covers what website owners should do if they utilize private networks.</description>
@@ -1091,6 +1085,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/new-in-chrome-123?hl=en</link>
       <description>Chrome 123 is rolling out now! With the new light-dark functionI, Long Animation Frames API, Service Worker Static Routing API and there's plenty more. Adriana Jara has all the details about what's new for developers in Chrome 123.</description>
       <pubDate>Tue, 19 Mar 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Keyboard focusable scrollers</title>
+      <link>https://developer.chrome.com/blog/keyboard-focusable-scrollers?hl=en</link>
+      <description>A change is rolling out to make scrollers without tabindex value set and with no focusable children keyboard focusable.</description>
+      <pubDate>Wed, 20 Mar 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
