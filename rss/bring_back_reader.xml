@@ -6,8 +6,26 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 Mar 2024 19:14:29 +0000</lastBuildDate>
-    <pubDate>Sat, 23 Mar 2024 19:14:29 +0000</pubDate>
+    <lastBuildDate>Sat, 23 Mar 2024 20:15:32 +0000</lastBuildDate>
+    <pubDate>Sat, 23 Mar 2024 20:15:32 +0000</pubDate>
+    <item>
+      <title>What's New In DevTools (Chrome 110)</title>
+      <link>https://developer.chrome.com/blog/new-in-devtools-110?hl=en</link>
+      <description>Clearing Performance panel on reload, view and highlight the code in the Recorder, and more.</description>
+      <pubDate>Mon, 06 Feb 2023 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New in Chrome 110</title>
+      <link>https://developer.chrome.com/blog/new-in-chrome-110?hl=en</link>
+      <description>Chrome 110 is rolling out now! Add custom style to your picture-in-picture elements with the new :picture-in-picture pseudo-class, set your web app launch behavior with launch_handler, use the credentialless attribute in iframes to embed third party content that doesn’t set a cross origin embedder policy and there’s plenty more.</description>
+      <pubDate>Tue, 07 Feb 2023 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Talking to the Stadia controller with WebHID</title>
+      <link>https://developer.chrome.com/blog/talking-to-the-stadia-controller-with-webhid?hl=en</link>
+      <description>The flashed Stadia controller acts like a standard gamepad, which means not all its buttons are accessible using the Gamepad API. With WebHID, you can now access the missing buttons. Since Stadia shut down, many feared that the controller would end</description>
+      <pubDate>Wed, 08 Feb 2023 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Chrome 111 beta</title>
       <link>https://developer.chrome.com/blog/chrome-111-beta?hl=en</link>
@@ -529,12 +547,6 @@ yourself kicked out of full</description>
       <pubDate>Thu, 24 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Introducing the scheduler.yield origin trial</title>
-      <link>https://developer.chrome.com/blog/introducing-scheduler-yield-origin-trial?hl=en</link>
-      <description>`scheduler.yield` is a proposed new addition to the scheduler API currently in origin trial, and is a novel approach to breaking up tasks for more responsive user experiences. Understand the benefits of this proposed addition to the scheduling API, and sign up for the origin trial to help us gain insights and feedback.</description>
-      <pubDate>Tue, 29 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Faster Chrome releases (round two!)</title>
       <link>https://developer.chrome.com/blog/faster-chrome-releases-round2?hl=en</link>
       <description>From Chrome 119 we will shorten the time between the branch for a release and release to stable.</description>
@@ -661,12 +673,6 @@ yourself kicked out of full</description>
       <pubDate>Fri, 13 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sanitizer API deprecation</title>
-      <link>https://developer.chrome.com/blog/sanitizer-api-deprecation?hl=en</link>
-      <description>The current Sanitizer API implementation is deprecated from Chrome 119 to catch up with future specification updates.</description>
-      <pubDate>Sat, 14 Oct 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Chromium issue tracker migration</title>
       <link>https://developer.chrome.com/blog/chromium-issue-tracker-migration?hl=en</link>
       <description>Chromium issue tracking is migrating to a tool powered by the Google Issue tracker in January 2024.</description>
@@ -773,12 +779,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/css-i18n-features?hl=en</link>
       <description>Chrome is adding four new international CSS features.</description>
       <pubDate>Mon, 04 Dec 2023 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New in Chrome 120</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-120?hl=en</link>
-      <description>Chrome 120 is rolling out now! With the CloseWatcher API to enable a consistent experience when handling close requests, an straightforward implementation of an accordion pattern using the details element, permission policy violation reports are now available and there's plenty more.</description>
-      <pubDate>Tue, 05 Dec 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Private Network Access Permission prompt origin trial: A path to migrate websites with HTTPS</title>
