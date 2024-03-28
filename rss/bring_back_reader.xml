@@ -6,8 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Mar 2024 03:15:35 +0000</lastBuildDate>
-    <pubDate>Thu, 28 Mar 2024 03:15:35 +0000</pubDate>
+    <lastBuildDate>Thu, 28 Mar 2024 04:16:08 +0000</lastBuildDate>
+    <pubDate>Thu, 28 Mar 2024 04:16:08 +0000</pubDate>
     <item>
       <title>What's new in Lighthouse 10</title>
       <link>https://developer.chrome.com/blog/lighthouse-10-0?hl=en</link>
