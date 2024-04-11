@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Apr 2024 16:16:09 +0000</lastBuildDate>
-    <pubDate>Thu, 11 Apr 2024 16:16:09 +0000</pubDate>
-    <item>
-      <title>Improving standards of behavior in standards discussions</title>
-      <link>https://developer.chrome.com/blog/standards-behavior?hl=en</link>
-      <description>How the Chrome team aims to encourage more professional, respectful and inclusive discussions.</description>
-      <pubDate>Mon, 27 Feb 2023 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Apr 2024 17:15:35 +0000</lastBuildDate>
+    <pubDate>Thu, 11 Apr 2024 17:15:35 +0000</pubDate>
     <item>
       <title>Working with the industry to evolve CHIPS</title>
       <link>https://developer.chrome.com/blog/working-with-the-industry-to-evolve-chips?hl=en</link>
@@ -1094,6 +1088,12 @@ their extensions to the previous published version in the Chrome Web Store. Our
 goal is to give developers increased peace-of-mind when publishing updates,
 especially with</description>
       <pubDate>Tue, 09 Apr 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fun &amp; Powerful: Intro to Chrome DevTools</title>
+      <link>https://developer.chrome.com/blog/devtools-tips-32?hl=en</link>
+      <description>Discover how DevTools can improve your web application development.</description>
+      <pubDate>Wed, 10 Apr 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
