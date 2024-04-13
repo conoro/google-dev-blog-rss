@@ -6,8 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Apr 2024 21:14:56 +0000</lastBuildDate>
-    <pubDate>Sat, 13 Apr 2024 21:14:56 +0000</pubDate>
+    <lastBuildDate>Sat, 13 Apr 2024 22:15:09 +0000</lastBuildDate>
+    <pubDate>Sat, 13 Apr 2024 22:15:09 +0000</pubDate>
     <item>
       <title>Working with the industry to evolve CHIPS</title>
       <link>https://developer.chrome.com/blog/working-with-the-industry-to-evolve-chips?hl=en</link>
