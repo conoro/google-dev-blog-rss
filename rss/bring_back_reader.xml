@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Apr 2024 17:15:22 +0000</lastBuildDate>
-    <pubDate>Wed, 17 Apr 2024 17:15:22 +0000</pubDate>
-    <item>
-      <title>New in Chrome 111</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-111?hl=en</link>
-      <description>Chrome 111 is rolling out now! Create polished transitions in your single page app with the View Transitions API, and bring colors to the next level with support for CSS color level 4. Discover new tools in the style panel to make the most of the new color functionality, and there’s plenty more.</description>
-      <pubDate>Tue, 07 Mar 2023 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Apr 2024 18:16:23 +0000</lastBuildDate>
+    <pubDate>Wed, 17 Apr 2024 18:16:23 +0000</pubDate>
     <item>
       <title>Chrome 112 beta</title>
       <link>https://developer.chrome.com/blog/chrome-112-beta?hl=en</link>
@@ -1074,7 +1068,7 @@ especially with</description>
     <item>
       <title>Origin trial for Foldable APIs</title>
       <link>https://developer.chrome.com/blog/foldable-apis-ot?hl=en</link>
-      <description>The Foldable APIs are two new APIs from Chrome that are designed to help developers target foldable devices.</description>
+      <description>The Foldable APIs are two APIs in Chrome that are designed to help developers target foldable devices.</description>
       <pubDate>Tue, 16 Apr 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1094,6 +1088,12 @@ especially with</description>
       <link>https://developer.chrome.com/blog/new-in-chrome-124?hl=en</link>
       <description>Chrome 124 is rolling out now! There are two new APIs that allow the declarative shadow DOM to be used from JavaScript. You can use streams in Web Sockets. View Transitions get a little better. And there's plenty more. Pete LePage has all the details about what's new for developers in Chrome 124.</description>
       <pubDate>Tue, 16 Apr 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chrome 125 beta</title>
+      <link>https://developer.chrome.com/blog/chrome-125-beta?hl=en</link>
+      <description>CSS Anchor Positioning, CSS stepped functions, the Compute Pressure API, and more.</description>
+      <pubDate>Wed, 17 Apr 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
