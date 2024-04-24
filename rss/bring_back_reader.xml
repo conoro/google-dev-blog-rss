@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Apr 2024 14:15:42 +0000</lastBuildDate>
-    <pubDate>Wed, 24 Apr 2024 14:15:42 +0000</pubDate>
-    <item>
-      <title>Chrome 112 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-112-beta?hl=en</link>
-      <description>CSS nesting, animation-composition, and a submitter parameter for the FormData constructor.</description>
-      <pubDate>Thu, 09 Mar 2023 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Apr 2024 15:16:01 +0000</lastBuildDate>
+    <pubDate>Wed, 24 Apr 2024 15:16:01 +0000</pubDate>
     <item>
       <title>SPA view transitions land in Chrome 111</title>
       <link>https://developer.chrome.com/blog/spa-view-transitions-land?hl=en</link>
@@ -1094,6 +1088,12 @@ especially with</description>
       <link>https://developer.chrome.com/blog/chrome-125-beta?hl=en</link>
       <description>CSS Anchor Positioning, CSS stepped functions, the Compute Pressure API, and more.</description>
       <pubDate>Wed, 17 Apr 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Private Network Access (PNA) for non-secure contexts deprecation trial is ending—implement the PNA permission prompt</title>
+      <link>https://developer.chrome.com/blog/pna-permission-prompt-ot-end?hl=en</link>
+      <description>To access private network devices from a website that cannot be converted to HTTPS, you must use permission prompts to relax mixed content checks.</description>
+      <pubDate>Wed, 24 Apr 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
