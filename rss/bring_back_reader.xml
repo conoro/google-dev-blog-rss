@@ -6,20 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Apr 2024 12:17:28 +0000</lastBuildDate>
-    <pubDate>Fri, 26 Apr 2024 12:17:28 +0000</pubDate>
-    <item>
-      <title>New in Chrome 111</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-111?hl=en</link>
-      <description>Chrome 111 is rolling out now! Create polished transitions in your single page app with the View Transitions API, and bring colors to the next level with support for CSS color level 4. Discover new tools in the style panel to make the most of the new color functionality, and there’s plenty more.</description>
-      <pubDate>Tue, 07 Mar 2023 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chrome 112 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-112-beta?hl=en</link>
-      <description>CSS nesting, animation-composition, and a submitter parameter for the FormData constructor.</description>
-      <pubDate>Thu, 09 Mar 2023 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Apr 2024 13:15:45 +0000</lastBuildDate>
+    <pubDate>Fri, 26 Apr 2024 13:15:45 +0000</pubDate>
     <item>
       <title>SPA view transitions land in Chrome 111</title>
       <link>https://developer.chrome.com/blog/spa-view-transitions-land?hl=en</link>
@@ -355,6 +343,12 @@ yourself kicked out of full</description>
       <pubDate>Wed, 12 Jul 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>A case study on scroll-driven animations performance</title>
+      <link>https://developer.chrome.com/blog/scroll-animation-performance-case-study?hl=en</link>
+      <description>The new API is much smoother than the classic way of implementing scroll-driven animations.</description>
+      <pubDate>Wed, 12 Jul 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>What's happening in Chrome Extensions?</title>
       <link>https://developer.chrome.com/blog/extension-news-july-2023?hl=en</link>
       <description>An overview of the changes so far this year in Chrome Extensions, plus exciting upcoming extension features developers can look forward to.</description>
@@ -389,6 +383,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/chrome-116-beta-whats-new-for-extensions?hl=en</link>
       <description>A summary of important changes in Chrome 116 for Chrome Extension developers.</description>
       <pubDate>Thu, 20 Jul 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DevTools Tips: Breakpoints and logpoints</title>
+      <link>https://developer.chrome.com/blog/devtools-tips-25?hl=en</link>
+      <description>Use breakpoints and logpoints to debug with ease.</description>
+      <pubDate>Thu, 27 Jul 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>One-time permissions in Chrome</title>
