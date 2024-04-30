@@ -6,8 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Apr 2024 18:17:07 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Apr 2024 18:17:07 +0000</pubDate>
+    <lastBuildDate>Tue, 30 Apr 2024 19:14:41 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Apr 2024 19:14:41 +0000</pubDate>
     <item>
       <title>SPA view transitions land in Chrome 111</title>
       <link>https://developer.chrome.com/blog/spa-view-transitions-land?hl=en</link>
@@ -371,12 +371,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/chrome-116-beta?hl=en</link>
       <description>CSS motion path, Back/forward cache NotRestoredReason API, Document Picture-in-Picture, and more.</description>
       <pubDate>Wed, 19 Jul 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WebGPU: the cross-platform graphics API of tomorrow</title>
-      <link>https://developer.chrome.com/blog/webgpu-cross-platform?hl=en</link>
-      <description>Learn how to build an app with WebGPU for the web and specific platforms.</description>
-      <pubDate>Thu, 20 Jul 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's new in Chrome 116 for Extensions</title>
@@ -1094,6 +1088,12 @@ especially with</description>
       <link>https://developer.chrome.com/blog/pna-permission-prompt-ot-end?hl=en</link>
       <description>To access private network devices from a website that cannot be converted to HTTPS, you must use permission prompts to relax mixed content checks.</description>
       <pubDate>Wed, 24 Apr 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>An alternative proposal for CSS masonry</title>
+      <link>https://developer.chrome.com/blog/masonry?hl=en</link>
+      <description>A proposal to define masonry and grid in different specifications.</description>
+      <pubDate>Tue, 30 Apr 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
