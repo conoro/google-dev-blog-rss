@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 May 2024 08:16:34 +0000</lastBuildDate>
-    <pubDate>Tue, 07 May 2024 08:16:34 +0000</pubDate>
-    <item>
-      <title>What's New in DevTools (Chrome 112)</title>
-      <link>https://developer.chrome.com/blog/new-in-devtools-112?hl=en</link>
-      <description>The Recorder introduces support for custom replay options that you can embed into DevTools with an extension. Try out the example extension. Select the new custom replay option to open the custom replay UI. To customize the Recorder to your needs and</description>
-      <pubDate>Thu, 09 Mar 2023 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 May 2024 09:16:06 +0000</lastBuildDate>
+    <pubDate>Tue, 07 May 2024 09:16:06 +0000</pubDate>
     <item>
       <title>Improving user privacy by requiring opt-in to send X-Requested-With header from WebView</title>
       <link>https://developer.chrome.com/blog/android-webview-header-privacy?hl=en</link>
@@ -1094,6 +1088,12 @@ especially with</description>
       <link>https://developer.chrome.com/blog/scroll-driven-animations-video-course?hl=en</link>
       <description>A 10-part video course to learn all about scroll-driven animations</description>
       <pubDate>Mon, 06 May 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's New in WebGPU (Chrome 125)</title>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-125?hl=en</link>
+      <description>Subgroups in development and render to slice of 3D texture.</description>
+      <pubDate>Tue, 07 May 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
