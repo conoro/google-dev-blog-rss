@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 May 2024 18:16:30 +0000</lastBuildDate>
-    <pubDate>Fri, 10 May 2024 18:16:30 +0000</pubDate>
-    <item>
-      <title>New in Chrome 112</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-112?hl=en</link>
-      <description>Chrome 112 is rolling out now! Now CSS supports nesting rules, the algorithm to set the initial focus on dialog elements was updated, no-op fetch handlers on service workers are skipped from now on to make navigations faster and there’s plenty more.</description>
-      <pubDate>Tue, 04 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 May 2024 19:15:21 +0000</lastBuildDate>
+    <pubDate>Fri, 10 May 2024 19:15:21 +0000</pubDate>
     <item>
       <title>Faster Chrome releases</title>
       <link>https://developer.chrome.com/blog/faster-chrome-releases?hl=en</link>
@@ -1094,6 +1088,12 @@ especially with</description>
       <link>https://developer.chrome.com/blog/implement-testing-in-your-enterprise?hl=en</link>
       <description>Learn how to overcome challenges with testing in enterprise environments</description>
       <pubDate>Thu, 09 May 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the CSS anchor positioning API</title>
+      <link>https://developer.chrome.com/blog/anchor-positioning-api?hl=en</link>
+      <description>Position elements relative to each other using the new anchor positioning API.</description>
+      <pubDate>Fri, 10 May 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
