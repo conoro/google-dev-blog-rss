@@ -6,8 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 May 2024 03:15:54 +0000</lastBuildDate>
-    <pubDate>Mon, 13 May 2024 03:15:54 +0000</pubDate>
+    <lastBuildDate>Mon, 13 May 2024 04:16:24 +0000</lastBuildDate>
+    <pubDate>Mon, 13 May 2024 04:16:24 +0000</pubDate>
     <item>
       <title>Faster Chrome releases</title>
       <link>https://developer.chrome.com/blog/faster-chrome-releases?hl=en</link>
