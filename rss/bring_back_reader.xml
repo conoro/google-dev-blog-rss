@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 May 2024 15:16:19 +0000</lastBuildDate>
-    <pubDate>Tue, 14 May 2024 15:16:19 +0000</pubDate>
-    <item>
-      <title>Chrome ships WebGPU</title>
-      <link>https://developer.chrome.com/blog/webgpu-release?hl=en</link>
-      <description>The Chrome team ships WebGPU, which allows high-performance 3D graphics and data-parallel computation on the web.</description>
-      <pubDate>Thu, 06 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 May 2024 16:16:46 +0000</lastBuildDate>
+    <pubDate>Tue, 14 May 2024 16:16:46 +0000</pubDate>
     <item>
       <title>Chrome 113 beta</title>
       <link>https://developer.chrome.com/blog/chrome-113-beta?hl=en</link>
@@ -1093,6 +1087,12 @@ especially with</description>
       <title>DevTools Tips: Override and mock network responses</title>
       <link>https://developer.chrome.com/blog/devtools-tips-34?hl=en</link>
       <description>Learn how you can override and mock network responses with DevTools.</description>
+      <pubDate>Tue, 14 May 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New in Chrome 125</title>
+      <link>https://developer.chrome.com/blog/new-in-chrome-125?hl=en</link>
+      <description>Chrome 125 is rolling out now! With the CSS Anchor Positioning API, the Compute Pressure API, an expansion to the Storage Access API, and plenty more. Adriana Jara has all the details about what's new for developers in Chrome 125.</description>
       <pubDate>Tue, 14 May 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
