@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 May 2024 15:16:34 +0000</lastBuildDate>
-    <pubDate>Wed, 15 May 2024 15:16:34 +0000</pubDate>
-    <item>
-      <title>How the new Breakpoints sidebar helps you debug faster</title>
-      <link>https://developer.chrome.com/blog/breakpoint-ux-redesign?hl=en</link>
-      <description>To make it easier to perform common actions such as deleting or disabling breakpoints, we've redesigned the breakpoints sidebar so that you can perform them with a single click.</description>
-      <pubDate>Tue, 11 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 May 2024 16:16:33 +0000</lastBuildDate>
+    <pubDate>Wed, 15 May 2024 16:16:33 +0000</pubDate>
     <item>
       <title>What's New in DevTools (Chrome 113)</title>
       <link>https://developer.chrome.com/blog/new-in-devtools-113?hl=en</link>
@@ -1094,6 +1088,12 @@ especially with</description>
       <link>https://developer.chrome.com/blog/new-in-chrome-125?hl=en</link>
       <description>Chrome 125 is rolling out now! With the CSS Anchor Positioning API, the Compute Pressure API, an expansion to the Storage Access API, and plenty more. Adriana Jara has all the details about what's new for developers in Chrome 125.</description>
       <pubDate>Tue, 14 May 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SVG support for the Async Clipboard API</title>
+      <link>https://developer.chrome.com/blog/svg-support-for-async-clipboard-api?hl=en</link>
+      <description>The Async Clipboard API can now deal with SVG images.</description>
+      <pubDate>Wed, 15 May 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
