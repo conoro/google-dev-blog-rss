@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 May 2024 17:15:32 +0000</lastBuildDate>
-    <pubDate>Thu, 16 May 2024 17:15:32 +0000</pubDate>
-    <item>
-      <title>What's New in WebGPU (Chrome 113)</title>
-      <link>https://developer.chrome.com/blog/new-in-webgpu-113?hl=en</link>
-      <description>WebGPU ships in Chrome with WebCodecs integration in origin trial.</description>
-      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 May 2024 18:16:29 +0000</lastBuildDate>
+    <pubDate>Thu, 16 May 2024 18:16:29 +0000</pubDate>
     <item>
       <title>DevTools Tips: Source maps in DevTools</title>
       <link>https://developer.chrome.com/blog/devtools-tips-24?hl=en</link>
@@ -1079,6 +1073,12 @@ especially with</description>
       <title>I/O 2024 Web AI wrap up: New models, tools, and APIs for your next web app</title>
       <link>https://developer.chrome.com/blog/io24-web-ai-wrapup?hl=en</link>
       <description>Read a wrap up from Web AI at I/O 2024. Learn about the new models, tools, and APIs for your next web app.</description>
+      <pubDate>Thu, 16 May 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chrome 126 beta</title>
+      <link>https://developer.chrome.com/blog/chrome-126-beta?hl=en</link>
+      <description>Chrome 126 Beta includes cross-document view transitions, along with the Gamepad API trigger-rumble extension, and other features.</description>
       <pubDate>Thu, 16 May 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
