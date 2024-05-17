@@ -6,8 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 May 2024 02:19:40 +0000</lastBuildDate>
-    <pubDate>Fri, 17 May 2024 02:19:40 +0000</pubDate>
+    <lastBuildDate>Fri, 17 May 2024 03:16:14 +0000</lastBuildDate>
+    <pubDate>Fri, 17 May 2024 03:16:14 +0000</pubDate>
     <item>
       <title>CSS update Media Query</title>
       <link>https://developer.chrome.com/blog/css-update-media-query?hl=en</link>
