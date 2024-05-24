@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 May 2024 07:15:51 +0000</lastBuildDate>
-    <pubDate>Fri, 24 May 2024 07:15:51 +0000</pubDate>
-    <item>
-      <title>CSS update Media Query</title>
-      <link>https://developer.chrome.com/blog/css-update-media-query?hl=en</link>
-      <description>Adapt your UI to the screen's refresh rate capabilities.</description>
-      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 May 2024 08:16:34 +0000</lastBuildDate>
+    <pubDate>Fri, 24 May 2024 08:16:34 +0000</pubDate>
     <item>
       <title>Improved video calling with faster AV1 encoding</title>
       <link>https://developer.chrome.com/blog/av1?hl=en</link>
@@ -990,6 +984,12 @@ especially with</description>
       <link>https://developer.chrome.com/blog/scroll-driven-animations-video-course?hl=en</link>
       <description>A 10-part video course to learn all about scroll-driven animations</description>
       <pubDate>Mon, 06 May 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's New in WebGPU (Chrome 125)</title>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-125?hl=en</link>
+      <description>Subgroups in development and render to slice of 3D texture.</description>
+      <pubDate>Tue, 07 May 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Why do CSS and UI capabilities matter for your ecommerce site?</title>
