@@ -6,26 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 May 2024 18:16:33 +0000</lastBuildDate>
-    <pubDate>Fri, 24 May 2024 18:16:33 +0000</pubDate>
-    <item>
-      <title>What's New in WebGPU (Chrome 113)</title>
-      <link>https://developer.chrome.com/blog/new-in-webgpu-113?hl=en</link>
-      <description>WebGPU ships in Chrome with WebCodecs integration in origin trial.</description>
-      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DevTools Tips: Source maps in DevTools</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-24?hl=en</link>
-      <description>Use source maps in DevTools to debug your original code instead of deployed.</description>
-      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CSS update Media Query</title>
-      <link>https://developer.chrome.com/blog/css-update-media-query?hl=en</link>
-      <description>Adapt your UI to the screen's refresh rate capabilities.</description>
-      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 May 2024 19:14:52 +0000</lastBuildDate>
+    <pubDate>Fri, 24 May 2024 19:14:52 +0000</pubDate>
     <item>
       <title>Improved video calling with faster AV1 encoding</title>
       <link>https://developer.chrome.com/blog/av1?hl=en</link>
@@ -261,6 +243,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/new-in-chrome-115?hl=en</link>
       <description>Use ScrollTimeline and ViewTimeline to create scroll-driven animations that enhance user experience. Fenced frames work along other Privacy Sandbox APIs to embed relevant content while preventing unnecessary context sharing. With the Topics API the browser can share information with third parties about a user's interests while preserving privacy and there’s plenty more.</description>
       <pubDate>Thu, 13 Jul 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Debugging websites in Chrome on iOS 16.4+</title>
+      <link>https://developer.chrome.com/blog/debugging-chrome-on-ios?hl=en</link>
+      <description>Learn how to use Safari Web Inspector debugging for Chrome on iOS.</description>
+      <pubDate>Tue, 18 Jul 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome 116 beta</title>
@@ -911,6 +899,12 @@ yourself kicked out of full</description>
       <pubDate>Fri, 22 Mar 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Goodbye JS Profiler, profiling CPU with the Performance panel</title>
+      <link>https://developer.chrome.com/blog/profiling-cpu?hl=en</link>
+      <description>Learn the path forward in profiling CPU performance, understand why and how we deprecate the JavaScript profiler.</description>
+      <pubDate>Thu, 28 Mar 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>What's new in DevTools, Chrome 124</title>
       <link>https://developer.chrome.com/blog/new-in-devtools-124?hl=en</link>
       <description>Scroll-driven animations support, new Autofill panel, new options for WebRTC in network throttling, and more.</description>
@@ -942,6 +936,12 @@ especially with</description>
       <link>https://developer.chrome.com/blog/devtools-tips-32?hl=en</link>
       <description>Discover how DevTools can improve your web application development.</description>
       <pubDate>Wed, 10 Apr 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Origin trial for Foldable APIs</title>
+      <link>https://developer.chrome.com/blog/foldable-apis-ot?hl=en</link>
+      <description>The Foldable APIs are two APIs in Chrome that are designed to help developers target foldable devices.</description>
+      <pubDate>Tue, 16 Apr 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Access to MIDI devices now requires user permission</title>
