@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 May 2024 18:16:23 +0000</lastBuildDate>
-    <pubDate>Sat, 25 May 2024 18:16:23 +0000</pubDate>
-    <item>
-      <title>CSS update Media Query</title>
-      <link>https://developer.chrome.com/blog/css-update-media-query?hl=en</link>
-      <description>Adapt your UI to the screen's refresh rate capabilities.</description>
-      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 May 2024 19:14:57 +0000</lastBuildDate>
+    <pubDate>Sat, 25 May 2024 19:14:57 +0000</pubDate>
     <item>
       <title>Improved video calling with faster AV1 encoding</title>
       <link>https://developer.chrome.com/blog/av1?hl=en</link>
@@ -60,6 +54,12 @@
       <title>10 updates at Google I/O</title>
       <link>https://developer.chrome.com/blog/chrome-at-io23?hl=en</link>
       <description>Learn how we're making it easier for developers to deliver powerful experiences to their users through key updates and new launches that we shared at Google I/O 2023.</description>
+      <pubDate>Wed, 10 May 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WebGPU: Unlocking modern GPU access in the browser</title>
+      <link>https://developer.chrome.com/blog/webgpu-io2023?hl=en</link>
+      <description>Learn how WebGPU unlocks the power of the GPU for faster machine learning performance and better graphics rendering.</description>
       <pubDate>Wed, 10 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
