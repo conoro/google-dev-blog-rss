@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 May 2024 01:39:33 +0000</lastBuildDate>
-    <pubDate>Sun, 26 May 2024 01:39:33 +0000</pubDate>
-    <item>
-      <title>CSS update Media Query</title>
-      <link>https://developer.chrome.com/blog/css-update-media-query?hl=en</link>
-      <description>Adapt your UI to the screen's refresh rate capabilities.</description>
-      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 May 2024 02:22:42 +0000</lastBuildDate>
+    <pubDate>Sun, 26 May 2024 02:22:42 +0000</pubDate>
     <item>
       <title>Improved video calling with faster AV1 encoding</title>
       <link>https://developer.chrome.com/blog/av1?hl=en</link>
@@ -783,6 +777,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/chrome-for-developers-china?hl=en</link>
       <description>We are publishing our sites on a .cn domain to make them easier to access in China.</description>
       <pubDate>Mon, 19 Feb 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New in Chrome 122</title>
+      <link>https://developer.chrome.com/blog/new-in-chrome-122?hl=en</link>
+      <description>Chrome 122 is rolling out now! With the new Storage Buckets API, DevTools Performance panel updates, unsanitized option to read HTML with the Async Clipboard API and there's plenty more. Adriana Jara has all the details about what's new for developers in Chrome 122.</description>
+      <pubDate>Tue, 20 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome 123 beta</title>
