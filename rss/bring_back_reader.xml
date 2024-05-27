@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 May 2024 10:16:06 +0000</lastBuildDate>
-    <pubDate>Mon, 27 May 2024 10:16:06 +0000</pubDate>
-    <item>
-      <title>CSS update Media Query</title>
-      <link>https://developer.chrome.com/blog/css-update-media-query?hl=en</link>
-      <description>Adapt your UI to the screen's refresh rate capabilities.</description>
-      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 May 2024 11:15:29 +0000</lastBuildDate>
+    <pubDate>Mon, 27 May 2024 11:15:29 +0000</pubDate>
     <item>
       <title>Improved video calling with faster AV1 encoding</title>
       <link>https://developer.chrome.com/blog/av1?hl=en</link>
@@ -30,6 +24,12 @@
       <title>New in Chrome 113</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-113?hl=en</link>
       <description>Chrome 113 is rolling out now! WebGPU is here, it allows high-performance 3D graphics and data-parallel computation on the web, devtools can now override network response headers, First Party Sets, part of the Privacy Sandbox, that allows organizations to declare related sites is starting to roll out, and there's plenty more.</description>
+      <pubDate>Wed, 03 May 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chrome 114 beta</title>
+      <link>https://developer.chrome.com/blog/chrome-114-beta?hl=en</link>
+      <description>CSS headline balancing, CHIPS, the scrollend event, and popover.</description>
       <pubDate>Wed, 03 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
