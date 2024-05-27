@@ -6,20 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 May 2024 16:16:24 +0000</lastBuildDate>
-    <pubDate>Mon, 27 May 2024 16:16:24 +0000</pubDate>
-    <item>
-      <title>DevTools Tips: Source maps in DevTools</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-24?hl=en</link>
-      <description>Use source maps in DevTools to debug your original code instead of deployed.</description>
-      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CSS update Media Query</title>
-      <link>https://developer.chrome.com/blog/css-update-media-query?hl=en</link>
-      <description>Adapt your UI to the screen's refresh rate capabilities.</description>
-      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 May 2024 17:15:14 +0000</lastBuildDate>
+    <pubDate>Mon, 27 May 2024 17:15:14 +0000</pubDate>
     <item>
       <title>Improved video calling with faster AV1 encoding</title>
       <link>https://developer.chrome.com/blog/av1?hl=en</link>
@@ -375,6 +363,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/new-in-webgpu-117?hl=en</link>
       <description>Unset vertex buffer and bind group, make lost devices appear to function, and more.</description>
       <pubDate>Tue, 05 Sep 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New in Chrome 117</title>
+      <link>https://developer.chrome.com/blog/new-in-chrome-117?hl=en</link>
+      <description>Chrome 117 is rolling out now! With three new CSS features that make it easy to add smooth entry and exit animations, array grouping to compute higher order datasets, devtools makes local overrides easier and there’s plenty more.</description>
+      <pubDate>Tue, 12 Sep 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome 118 beta</title>
@@ -759,6 +753,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/chromium-issue-tracker-migration-complete?hl=en</link>
       <description>Chromium issue tracking is now migrated.</description>
       <pubDate>Mon, 05 Feb 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's New in WebGPU (Chrome 122)</title>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-122?hl=en</link>
+      <description>Compatibility mode in development, increase maxVertexAttributes limit, and Dawn updates.</description>
+      <pubDate>Tue, 13 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A 400% faster Performance panel through perf-ception</title>
