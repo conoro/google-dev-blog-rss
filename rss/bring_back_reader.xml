@@ -6,8 +6,14 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 May 2024 22:15:35 +0000</lastBuildDate>
-    <pubDate>Mon, 27 May 2024 22:15:35 +0000</pubDate>
+    <lastBuildDate>Mon, 27 May 2024 23:15:59 +0000</lastBuildDate>
+    <pubDate>Mon, 27 May 2024 23:15:59 +0000</pubDate>
+    <item>
+      <title>CSS update Media Query</title>
+      <link>https://developer.chrome.com/blog/css-update-media-query?hl=en</link>
+      <description>Adapt your UI to the screen's refresh rate capabilities.</description>
+      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Improved video calling with faster AV1 encoding</title>
       <link>https://developer.chrome.com/blog/av1?hl=en</link>
@@ -536,12 +542,6 @@ yourself kicked out of full</description>
       <title>What's new in DevTools (Chrome 120)</title>
       <link>https://developer.chrome.com/blog/new-in-devtools-120?hl=en</link>
       <description>Third-party cookie phaseout issues reported in the Issues panel, Privacy Sandbox Analysis Tool for cookies, effective Content Security Policy in the Applications panel, improved animations debugging, enhanced ignore listing, and more.</description>
-      <pubDate>Thu, 09 Nov 2023 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Capturing the WebGPU ecosystem</title>
-      <link>https://developer.chrome.com/blog/webgpu-ecosystem?hl=en</link>
-      <description>Learn about how the WebGPU ecosystem extends beyond the JavaScript, C++, and Rust realms.</description>
       <pubDate>Thu, 09 Nov 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
