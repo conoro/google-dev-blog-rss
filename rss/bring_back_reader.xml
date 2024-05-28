@@ -6,8 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 May 2024 23:15:59 +0000</lastBuildDate>
-    <pubDate>Mon, 27 May 2024 23:15:59 +0000</pubDate>
+    <lastBuildDate>Tue, 28 May 2024 00:25:58 +0000</lastBuildDate>
+    <pubDate>Tue, 28 May 2024 00:25:58 +0000</pubDate>
     <item>
       <title>CSS update Media Query</title>
       <link>https://developer.chrome.com/blog/css-update-media-query?hl=en</link>
@@ -545,6 +545,12 @@ yourself kicked out of full</description>
       <pubDate>Thu, 09 Nov 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Capturing the WebGPU ecosystem</title>
+      <link>https://developer.chrome.com/blog/webgpu-ecosystem?hl=en</link>
+      <description>Learn about how the WebGPU ecosystem extends beyond the JavaScript, C++, and Rust realms.</description>
+      <pubDate>Thu, 09 Nov 2023 08:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>What’s new in the Angular NgOptimizedImage directive</title>
       <link>https://developer.chrome.com/blog/angular_ngoptimizedimage?hl=en</link>
       <description>Learn about the new features included in the Angular NgOptimizedImage directive that further improve image performance in Angular apps.</description>
@@ -723,12 +729,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/privacy-sandbox-office-hours-12?hl=en</link>
       <description>Join the 12th edition of Privacy Sandbox office hours dedicated to Chrome-facilitated testing, where the Privacy Sandbox team will provide some Privacy Sandbox tester updates and answer your questions with product and technical leads.</description>
       <pubDate>Mon, 29 Jan 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DevTools Tips: Debugging speculative navigations for faster page loads</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-31?hl=en</link>
-      <description>Make web browsing faster with speculative loads and learn how to debug them.</description>
-      <pubDate>Thu, 01 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing a new way to build custom web editing experiences using the EditContext API</title>
