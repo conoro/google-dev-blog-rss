@@ -6,13 +6,13 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 May 2024 14:15:20 +0000</lastBuildDate>
-    <pubDate>Fri, 31 May 2024 14:15:20 +0000</pubDate>
+    <lastBuildDate>Fri, 31 May 2024 15:16:18 +0000</lastBuildDate>
+    <pubDate>Fri, 31 May 2024 15:16:18 +0000</pubDate>
     <item>
-      <title>Blur camera background</title>
-      <link>https://developer.chrome.com/blog/background-blur?hl=en</link>
-      <description>A new origin trial from Chrome that allows web developers to control camera background blur.</description>
-      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
+      <title>New in Chrome 113</title>
+      <link>https://developer.chrome.com/blog/new-in-chrome-113?hl=en</link>
+      <description>Chrome 113 is rolling out now! WebGPU is here, it allows high-performance 3D graphics and data-parallel computation on the web, devtools can now override network response headers, First Party Sets, part of the Privacy Sandbox, that allows organizations to declare related sites is starting to roll out, and there's plenty more.</description>
+      <pubDate>Wed, 03 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome 114 beta</title>
