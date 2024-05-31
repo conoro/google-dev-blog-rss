@@ -6,20 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 May 2024 17:15:31 +0000</lastBuildDate>
-    <pubDate>Fri, 31 May 2024 17:15:31 +0000</pubDate>
-    <item>
-      <title>Improved video calling with faster AV1 encoding</title>
-      <link>https://developer.chrome.com/blog/av1?hl=en</link>
-      <description>Chrome 113 includes improvements to the AV1 software encoder from the Chrome Open Media team.</description>
-      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Blur camera background</title>
-      <link>https://developer.chrome.com/blog/background-blur?hl=en</link>
-      <description>A new origin trial from Chrome that allows web developers to control camera background blur.</description>
-      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 May 2024 18:16:36 +0000</lastBuildDate>
+    <pubDate>Fri, 31 May 2024 18:16:36 +0000</pubDate>
     <item>
       <title>New in Chrome 113</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-113?hl=en</link>
@@ -89,7 +77,7 @@
     <item>
       <title>Web SQL deprecation timeline updated</title>
       <link>https://developer.chrome.com/blog/web-sql-deprecation-timeline-updated?hl=en</link>
-      <description>The current target version to remove Web SQL is Chromium 119.</description>
+      <description>Web SQL was completely removed in Chromium 119.</description>
       <pubDate>Mon, 15 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
@@ -227,6 +215,12 @@ yourself kicked out of full</description>
       <pubDate>Wed, 12 Jul 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>A case study on scroll-driven animations performance</title>
+      <link>https://developer.chrome.com/blog/scroll-animation-performance-case-study?hl=en</link>
+      <description>The new API is much smoother than the classic way of implementing scroll-driven animations.</description>
+      <pubDate>Wed, 12 Jul 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>What's happening in Chrome Extensions?</title>
       <link>https://developer.chrome.com/blog/extension-news-july-2023?hl=en</link>
       <description>An overview of the changes so far this year in Chrome Extensions, plus exciting upcoming extension features developers can look forward to.</description>
@@ -255,6 +249,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/chrome-116-beta-whats-new-for-extensions?hl=en</link>
       <description>A summary of important changes in Chrome 116 for Chrome Extension developers.</description>
       <pubDate>Thu, 20 Jul 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DevTools Tips: Breakpoints and logpoints</title>
+      <link>https://developer.chrome.com/blog/devtools-tips-25?hl=en</link>
+      <description>Use breakpoints and logpoints to debug with ease.</description>
+      <pubDate>Thu, 27 Jul 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>One-time permissions in Chrome</title>
