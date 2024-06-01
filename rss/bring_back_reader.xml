@@ -6,8 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Jun 2024 10:16:00 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Jun 2024 10:16:00 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Jun 2024 11:16:13 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Jun 2024 11:16:13 +0000</pubDate>
     <item>
       <title>Blur camera background</title>
       <link>https://developer.chrome.com/blog/background-blur?hl=en</link>
@@ -181,12 +181,6 @@
       <link>https://developer.chrome.com/blog/chrome-for-testing?hl=en</link>
       <description>Chrome for Testing is a new Chrome flavor that specifically targets web app testing and automation use cases.</description>
       <pubDate>Mon, 12 Jun 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What's New in WebGPU (Chrome 115)</title>
-      <link>https://developer.chrome.com/blog/new-in-webgpu-115?hl=en</link>
-      <description>Supported WGSL language extensions, experimental support for Direct3D 11, and more.</description>
-      <pubDate>Tue, 20 Jun 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's New in DevTools (Chrome 116)</title>
@@ -398,6 +392,12 @@ yourself kicked out of full</description>
       <title>DevTools Tips: Debugging Chrome extensions</title>
       <link>https://developer.chrome.com/blog/devtools-tips-27?hl=en</link>
       <description>Learn how to use DevTools to debug Chrome extensions.</description>
+      <pubDate>Tue, 03 Oct 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's New in WebGPU (Chrome 118)</title>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-118?hl=en</link>
+      <description>Extended source support for copyExternalImageToTexture, experimental support for read-write and read-only storage texture, and more.</description>
       <pubDate>Tue, 03 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
