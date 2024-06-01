@@ -6,8 +6,14 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Jun 2024 09:16:13 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Jun 2024 09:16:13 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Jun 2024 10:16:00 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Jun 2024 10:16:00 +0000</pubDate>
+    <item>
+      <title>Blur camera background</title>
+      <link>https://developer.chrome.com/blog/background-blur?hl=en</link>
+      <description>A new origin trial from Chrome that allows web developers to control camera background blur.</description>
+      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>New in Chrome 113</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-113?hl=en</link>
@@ -392,12 +398,6 @@ yourself kicked out of full</description>
       <title>DevTools Tips: Debugging Chrome extensions</title>
       <link>https://developer.chrome.com/blog/devtools-tips-27?hl=en</link>
       <description>Learn how to use DevTools to debug Chrome extensions.</description>
-      <pubDate>Tue, 03 Oct 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What's New in WebGPU (Chrome 118)</title>
-      <link>https://developer.chrome.com/blog/new-in-webgpu-118?hl=en</link>
-      <description>Extended source support for copyExternalImageToTexture, experimental support for read-write and read-only storage texture, and more.</description>
       <pubDate>Tue, 03 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
