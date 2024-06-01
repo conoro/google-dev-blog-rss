@@ -6,20 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Jun 2024 00:28:20 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Jun 2024 00:28:20 +0000</pubDate>
-    <item>
-      <title>Improved video calling with faster AV1 encoding</title>
-      <link>https://developer.chrome.com/blog/av1?hl=en</link>
-      <description>Chrome 113 includes improvements to the AV1 software encoder from the Chrome Open Media team.</description>
-      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Blur camera background</title>
-      <link>https://developer.chrome.com/blog/background-blur?hl=en</link>
-      <description>A new origin trial from Chrome that allows web developers to control camera background blur.</description>
-      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 01 Jun 2024 01:39:51 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Jun 2024 01:39:51 +0000</pubDate>
     <item>
       <title>New in Chrome 113</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-113?hl=en</link>
@@ -731,6 +719,12 @@ yourself kicked out of full</description>
       <pubDate>Thu, 01 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Introducing a new way to build custom web editing experiences using the EditContext API</title>
+      <link>https://developer.chrome.com/blog/introducing-editcontext-api?hl=en</link>
+      <description>EditContext is a new API launching in Chrome and Edge that helps developers to build advanced text editing features in the browser. Learn more about it in this post!</description>
+      <pubDate>Fri, 02 Feb 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>What's new in DevTools (Chrome 122)</title>
       <link>https://developer.chrome.com/blog/new-in-devtools-122?hl=en</link>
       <description>Third-party cookies phaseout warnings in the Network and Application panels, enhanced debugging in the Network panel, breadcrumbs in the Performance panel, and more.</description>
@@ -777,6 +771,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/new-in-chrome-122?hl=en</link>
       <description>Chrome 122 is rolling out now! With the new Storage Buckets API, DevTools Performance panel updates, unsanitized option to read HTML with the Async Clipboard API and there's plenty more. Adriana Jara has all the details about what's new for developers in Chrome 122.</description>
       <pubDate>Tue, 20 Feb 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chrome 123 beta</title>
+      <link>https://developer.chrome.com/blog/chrome-123-beta?hl=en</link>
+      <description>The CSS light-dark() color function, align-content for blocks, the field-sizing property, and the pagereveal event.</description>
+      <pubDate>Wed, 21 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Support for align-content in block and table layouts</title>
