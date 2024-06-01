@@ -6,8 +6,26 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Jun 2024 15:15:42 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Jun 2024 15:15:42 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Jun 2024 16:16:23 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Jun 2024 16:16:23 +0000</pubDate>
+    <item>
+      <title>CSS update Media Query</title>
+      <link>https://developer.chrome.com/blog/css-update-media-query?hl=en</link>
+      <description>Adapt your UI to the screen's refresh rate capabilities.</description>
+      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improved video calling with faster AV1 encoding</title>
+      <link>https://developer.chrome.com/blog/av1?hl=en</link>
+      <description>Chrome 113 includes improvements to the AV1 software encoder from the Chrome Open Media team.</description>
+      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blur camera background</title>
+      <link>https://developer.chrome.com/blog/background-blur?hl=en</link>
+      <description>A new origin trial from Chrome that allows web developers to control camera background blur.</description>
+      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>New in Chrome 113</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-113?hl=en</link>
@@ -123,12 +141,6 @@
       <pubDate>Tue, 30 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Design a superior user experience with the new Side Panel API</title>
-      <link>https://developer.chrome.com/blog/extension-side-panel-launch?hl=en</link>
-      <description>Introducing the new Side Panel API for Chrome extensions.</description>
-      <pubDate>Tue, 30 May 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Announcing the second Compute Pressure origin trial</title>
       <link>https://developer.chrome.com/blog/compute-pressure-origin-trial-2?hl=en</link>
       <description>A new origin trial from Chrome that allows web developers to monitor compute pressure.</description>
@@ -145,12 +157,6 @@
       <link>https://developer.chrome.com/blog/new-in-chrome-114?hl=en</link>
       <description>Chrome 114 is rolling out now! Chrome 114 is rolling out now! With text-wrap: balance to improve text layouts, Cookies Having Independent Partitioned State are here, the new Popover API makes popovers easier than ever, and there’s plenty more.</description>
       <pubDate>Tue, 30 May 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chrome 115 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-115-beta?hl=en</link>
-      <description>Multiple keywords for the CSS display property, WGSLLanguageFeatures for WebGPU, HTTPS upgrades, and more.</description>
-      <pubDate>Wed, 31 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Migrate away from data URLs in SVG  element</title>
@@ -941,12 +947,6 @@ especially with</description>
       <title>What's happening in Chrome Extensions?</title>
       <link>https://developer.chrome.com/blog/extension-news-april-2024?hl=en</link>
       <description>An overview of the recent changes in Chrome Extensions, plus exciting upcoming extension features developers can look forward to.</description>
-      <pubDate>Tue, 16 Apr 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New in Chrome 124</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-124?hl=en</link>
-      <description>Chrome 124 is rolling out now! There are two new APIs that allow the declarative shadow DOM to be used from JavaScript. You can use streams in Web Sockets. View Transitions get a little better. And there's plenty more. Pete LePage has all the details about what's new for developers in Chrome 124.</description>
       <pubDate>Tue, 16 Apr 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
