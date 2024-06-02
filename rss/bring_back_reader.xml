@@ -6,8 +6,14 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Jun 2024 23:15:59 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Jun 2024 23:15:59 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Jun 2024 00:28:25 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Jun 2024 00:28:25 +0000</pubDate>
+    <item>
+      <title>Blur camera background</title>
+      <link>https://developer.chrome.com/blog/background-blur?hl=en</link>
+      <description>A new origin trial from Chrome that allows web developers to control camera background blur.</description>
+      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>New in Chrome 113</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-113?hl=en</link>
@@ -150,12 +156,6 @@
       <title>Chrome 115 beta</title>
       <link>https://developer.chrome.com/blog/chrome-115-beta?hl=en</link>
       <description>Multiple keywords for the CSS display property, WGSLLanguageFeatures for WebGPU, HTTPS upgrades, and more.</description>
-      <pubDate>Wed, 31 May 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Migrate away from data URLs in SVG  element</title>
-      <link>https://developer.chrome.com/blog/migrate-way-from-data-urls-in-svg-use?hl=en</link>
-      <description>Support for data: URLs in SVG element will be removed. We recommend migration to alternatives.</description>
       <pubDate>Wed, 31 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
