@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Jun 2024 08:16:21 +0000</lastBuildDate>
-    <pubDate>Sun, 02 Jun 2024 08:16:21 +0000</pubDate>
-    <item>
-      <title>Blur camera background</title>
-      <link>https://developer.chrome.com/blog/background-blur?hl=en</link>
-      <description>A new origin trial from Chrome that allows web developers to control camera background blur.</description>
-      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Jun 2024 09:15:51 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Jun 2024 09:15:51 +0000</pubDate>
     <item>
       <title>New in Chrome 113</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-113?hl=en</link>
@@ -109,6 +103,12 @@
       <link>https://developer.chrome.com/blog/introducing-popover-api?hl=en</link>
       <description>Learn how to build tooltips, menus, and more with the new popover API.</description>
       <pubDate>Tue, 23 May 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DevTools Tips: Workspace</title>
+      <link>https://developer.chrome.com/blog/devtools-tips-22?hl=en</link>
+      <description>Use Workspace to save changes you make in DevTools to local source files.</description>
+      <pubDate>Thu, 25 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome disables modifying document.domain</title>
