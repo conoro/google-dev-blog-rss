@@ -6,8 +6,14 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Jun 2024 09:16:01 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Jun 2024 09:16:01 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Jun 2024 10:16:35 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Jun 2024 10:16:35 +0000</pubDate>
+    <item>
+      <title>Blur camera background</title>
+      <link>https://developer.chrome.com/blog/background-blur?hl=en</link>
+      <description>A new origin trial from Chrome that allows web developers to control camera background blur.</description>
+      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>New in Chrome 113</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-113?hl=en</link>
@@ -381,12 +387,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/we-are-chrome-for-developers?hl=en</link>
       <description>Celebrating Chrome's 15th anniversary and our role as a trusted, helpful partner to developers.</description>
       <pubDate>Wed, 20 Sep 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Seamless navigation made possible with view transitions</title>
-      <link>https://developer.chrome.com/blog/view-transitions-case-studies?hl=en</link>
-      <description>An in-depth walkthrough of how and why CyberAgent, RedBus, Nykaa, and PolicyBazaar implemented view transitions.</description>
-      <pubDate>Thu, 28 Sep 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DevTools Tips: Debugging Chrome extensions</title>
