@@ -6,8 +6,14 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Jun 2024 07:15:39 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Jun 2024 07:15:39 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Jun 2024 08:17:03 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Jun 2024 08:17:03 +0000</pubDate>
+    <item>
+      <title>Blur camera background</title>
+      <link>https://developer.chrome.com/blog/background-blur?hl=en</link>
+      <description>A new origin trial from Chrome that allows web developers to control camera background blur.</description>
+      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>New in Chrome 113</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-113?hl=en</link>
@@ -114,12 +120,6 @@
       <title>Chrome disables modifying document.domain</title>
       <link>https://developer.chrome.com/blog/document-domain-setter-deprecation?hl=en</link>
       <description>If your website relies on setting document.domain, your action is required.</description>
-      <pubDate>Tue, 30 May 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Help test bounce tracking mitigations</title>
-      <link>https://developer.chrome.com/blog/bounce-tracking-mitigations-dev-trial?hl=en</link>
-      <description>We plan to launch mitigations to limit tracking from a particular technique called "bounce tracking" later this year. We would like to invite developers to test this new feature with feature flags and provide feedback.</description>
       <pubDate>Tue, 30 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
