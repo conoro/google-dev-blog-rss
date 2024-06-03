@@ -6,8 +6,20 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Jun 2024 02:22:47 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Jun 2024 02:22:47 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Jun 2024 03:16:20 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Jun 2024 03:16:20 +0000</pubDate>
+    <item>
+      <title>Improved video calling with faster AV1 encoding</title>
+      <link>https://developer.chrome.com/blog/av1?hl=en</link>
+      <description>Chrome 113 includes improvements to the AV1 software encoder from the Chrome Open Media team.</description>
+      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blur camera background</title>
+      <link>https://developer.chrome.com/blog/background-blur?hl=en</link>
+      <description>A new origin trial from Chrome that allows web developers to control camera background blur.</description>
+      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>New in Chrome 113</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-113?hl=en</link>
@@ -132,12 +144,6 @@
       <title>Announcing the second Compute Pressure origin trial</title>
       <link>https://developer.chrome.com/blog/compute-pressure-origin-trial-2?hl=en</link>
       <description>A new origin trial from Chrome that allows web developers to monitor compute pressure.</description>
-      <pubDate>Tue, 30 May 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What's New in DevTools (Chrome 115)</title>
-      <link>https://developer.chrome.com/blog/new-in-devtools-115?hl=en</link>
-      <description>The Elements panel gets a new subgrid badge for subgrid. This feature is currently experimental in Chrome Canary. To inspect and debug a nested grid that is a subgrid, and therefore inheriting the number and size of tracks from its parent, click the</description>
       <pubDate>Tue, 30 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
@@ -441,12 +447,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/css-relative-color-syntax?hl=en</link>
       <description>Create new colors based on another color's channels and values.</description>
       <pubDate>Wed, 11 Oct 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Serial over Bluetooth on the web</title>
-      <link>https://developer.chrome.com/blog/serial-over-bluetooth?hl=en</link>
-      <description>The Web Serial API added support for Bluetooth RFCOMM services.</description>
-      <pubDate>Fri, 13 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sanitizer API deprecation</title>
