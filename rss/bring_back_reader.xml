@@ -6,8 +6,14 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Jun 2024 22:15:57 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Jun 2024 22:15:57 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Jun 2024 23:16:18 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Jun 2024 23:16:18 +0000</pubDate>
+    <item>
+      <title>How the new Breakpoints sidebar helps you debug faster</title>
+      <link>https://developer.chrome.com/blog/breakpoint-ux-redesign?hl=en</link>
+      <description>To make it easier to perform common actions such as deleting or disabling breakpoints, we've redesigned the breakpoints sidebar so that you can perform them with a single click.</description>
+      <pubDate>Tue, 11 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>What's New in DevTools (Chrome 113)</title>
       <link>https://developer.chrome.com/blog/new-in-devtools-113?hl=en</link>
@@ -93,6 +99,12 @@ animations. Suppose you needed to</description>
       <link>https://developer.chrome.com/blog/webdriver-bidi-2023?hl=en</link>
       <description>This article gives an overview of what’s new in WebDriver BiDi in 2023.</description>
       <pubDate>Tue, 09 May 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>10 updates at Google I/O</title>
+      <link>https://developer.chrome.com/blog/chrome-at-io23?hl=en</link>
+      <description>Learn how we're making it easier for developers to deliver powerful experiences to their users through key updates and new launches that we shared at Google I/O 2023.</description>
+      <pubDate>Wed, 10 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WebGPU: Unlocking modern GPU access in the browser</title>
@@ -313,6 +325,12 @@ yourself kicked out of full</description>
       <pubDate>Tue, 08 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Secure popup interactions with restrict-properties</title>
+      <link>https://developer.chrome.com/blog/coop-restrict-properties?hl=en</link>
+      <description>Get cross-origin isolation and cross-site leaks protection while interacting with popups.</description>
+      <pubDate>Wed, 09 Aug 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>New in Chrome 116</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-116?hl=en</link>
       <description>Chrome 116 is rolling out now! Use the document picture in picture API to increase user productivity, it is now easier to debug missing stylesheets in DevTools, and there’s plenty more.</description>
@@ -359,12 +377,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/introducing-scheduler-yield-origin-trial?hl=en</link>
       <description>`scheduler.yield` is a proposed new addition to the scheduler API currently in origin trial, and is a novel approach to breaking up tasks for more responsive user experiences. Understand the benefits of this proposed addition to the scheduling API, and sign up for the origin trial to help us gain insights and feedback.</description>
       <pubDate>Tue, 29 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Faster Chrome releases (round two!)</title>
-      <link>https://developer.chrome.com/blog/faster-chrome-releases-round2?hl=en</link>
-      <description>From Chrome 119 we will shorten the time between the branch for a release and release to stable.</description>
-      <pubDate>Wed, 30 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Astro View Transitions</title>
@@ -565,12 +577,6 @@ yourself kicked out of full</description>
       <pubDate>Wed, 15 Nov 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Improving content filtering in Manifest V3</title>
-      <link>https://developer.chrome.com/blog/improvements-to-content-filtering-in-manifest-v3?hl=en</link>
-      <description>Over the past year, we have been actively involved in discussions with the vendors behind several content blocking extensions around ways to improve the MV3 extensions platform. Based on these discussions, many of which took place in the</description>
-      <pubDate>Wed, 15 Nov 2023 08:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Automatic picture-in-picture for web apps</title>
       <link>https://developer.chrome.com/blog/automatic-picture-in-picture?hl=en</link>
       <description>Chrome allows video conferencing web apps to automatically enter picture-in-picture.</description>
@@ -679,12 +685,6 @@ yourself kicked out of full</description>
       <pubDate>Tue, 09 Jan 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CSS vertical writing mode for form control elements</title>
-      <link>https://developer.chrome.com/blog/vertical-form-controls?hl=en</link>
-      <description>Chrome adds another new international CSS feature.</description>
-      <pubDate>Mon, 15 Jan 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Supercharge Web AI model testing: WebGPU, WebGL, and Headless Chrome</title>
       <link>https://developer.chrome.com/blog/supercharge-web-ai-testing?hl=en</link>
       <description>Discover our solutions for how to consistently automate browser testing and improve application performance.</description>
@@ -707,12 +707,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/new-in-webgpu-121?hl=en</link>
       <description>Support WebGPU on Android, use of DXC for shader compilation, timestamp queries in compute and render passes, default entry points to shader modules, support display-p3 as GPUExternalTexture color space, memory heaps info, and more.</description>
       <pubDate>Thu, 18 Jan 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What's happening in Chrome Extensions?</title>
-      <link>https://developer.chrome.com/blog/extension-news-january-2024?hl=en</link>
-      <description>An overview of the recent changes in Chrome Extensions, plus exciting upcoming extension features developers can look forward to.</description>
-      <pubDate>Tue, 23 Jan 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New in Chrome 121</title>
@@ -949,6 +943,12 @@ especially with</description>
       <title>Origin trial for Foldable APIs</title>
       <link>https://developer.chrome.com/blog/foldable-apis-ot?hl=en</link>
       <description>The Foldable APIs are two APIs in Chrome that are designed to help developers target foldable devices.</description>
+      <pubDate>Tue, 16 Apr 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Access to MIDI devices now requires user permission</title>
+      <link>https://developer.chrome.com/blog/web-midi-permission-prompt?hl=en</link>
+      <description>Chrome now gates the entire Web MIDI API behind a permission prompt.</description>
       <pubDate>Tue, 16 Apr 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
