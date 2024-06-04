@@ -6,8 +6,46 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Jun 2024 21:15:36 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Jun 2024 21:15:36 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Jun 2024 22:15:57 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Jun 2024 22:15:57 +0000</pubDate>
+    <item>
+      <title>What's New in DevTools (Chrome 113)</title>
+      <link>https://developer.chrome.com/blog/new-in-devtools-113?hl=en</link>
+      <description>You can now override response headers in the Network panel. Previously, you needed access to the web server to experiment with HTTP response headers. With response header overrides, you can locally prototype fixes for various headers, including but</description>
+      <pubDate>Tue, 11 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Solving the CSS layout and source order disconnect</title>
+      <link>https://developer.chrome.com/blog/reading-order?hl=en</link>
+      <description>Your feedback is wanted on a proposed solution for the problem of layout methods arranging items in an order that is disconnected from the source of the document.</description>
+      <pubDate>Wed, 12 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Chromium Chronicle #33: Views AnimationBuilder</title>
+      <link>https://developer.chrome.com/blog/chromium-chronicle-33?hl=en</link>
+      <description>Using layer based animations in Views can improve performance and reduce
+jankiness, but they're rather difficult to set up. The AnimationBuilder classes can vastly reduce complexity and improve readability for layer
+animations. Suppose you needed to</description>
+      <pubDate>Thu, 13 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A look back in time: the evolution of test automation</title>
+      <link>https://developer.chrome.com/blog/test-automation-evolution?hl=en</link>
+      <description>A journey into the evolution of test automation on the web.</description>
+      <pubDate>Tue, 18 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Richer UI install available for desktop</title>
+      <link>https://developer.chrome.com/blog/richer-install-ui-desktop?hl=en</link>
+      <description>Mobile devices and app stores have changed how users discover, evaluate, and install software. Web apps now offer a surface for developers to highlight their apps at install time.</description>
+      <pubDate>Thu, 20 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's New in WebGPU (Chrome 113)</title>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-113?hl=en</link>
+      <description>WebGPU ships in Chrome with WebCodecs integration in origin trial.</description>
+      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>DevTools Tips: Source maps in DevTools</title>
       <link>https://developer.chrome.com/blog/devtools-tips-24?hl=en</link>
@@ -79,12 +117,6 @@
       <link>https://developer.chrome.com/blog/whats-new-in-web-on-android-io2023?hl=en</link>
       <description>Updates to tools that bring the web to Android. Privacy enhancements and better support for large screens in WebView, partial custom tabs in Custom Tabs, easier installation and integrated features for PWA, Play Store billing management for TWA and more.</description>
       <pubDate>Wed, 10 May 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What's new in CSS and UI: I/O 2023 Edition</title>
-      <link>https://developer.chrome.com/blog/whats-new-css-ui-2023?hl=en</link>
-      <description>The top 20 CSS and UI features highlighted at Google I/O 2023 that you don't want to miss.</description>
-      <pubDate>Thu, 11 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Web SQL deprecation timeline updated</title>
@@ -389,12 +421,6 @@ yourself kicked out of full</description>
       <pubDate>Wed, 20 Sep 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Seamless navigation made possible with view transitions</title>
-      <link>https://developer.chrome.com/blog/view-transitions-case-studies?hl=en</link>
-      <description>An in-depth walkthrough of how and why CyberAgent, RedBus, Nykaa, and PolicyBazaar implemented view transitions.</description>
-      <pubDate>Thu, 28 Sep 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>DevTools Tips: Debugging Chrome extensions</title>
       <link>https://developer.chrome.com/blog/devtools-tips-27?hl=en</link>
       <description>Learn how to use DevTools to debug Chrome extensions.</description>
@@ -495,12 +521,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/css-prefers-reduced-transparency?hl=en</link>
       <description>Optimize and adjust for users who prefer an opaque UI.</description>
       <pubDate>Wed, 25 Oct 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New in Chrome 119</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-119?hl=en</link>
-      <description>Chrome 119 is rolling out now! With an update to the expiration date upper limit for cookies already in storage. CSS has new pseudo classes, relative color syntax, Fenced Frames improvements like ad size macros, and there’s plenty more.</description>
-      <pubDate>Tue, 31 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WebAssembly Garbage Collection (WasmGC) now enabled by default in Chrome</title>
@@ -932,12 +952,6 @@ especially with</description>
       <pubDate>Tue, 16 Apr 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Access to MIDI devices now requires user permission</title>
-      <link>https://developer.chrome.com/blog/web-midi-permission-prompt?hl=en</link>
-      <description>Chrome now gates the entire Web MIDI API behind a permission prompt.</description>
-      <pubDate>Tue, 16 Apr 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>What's happening in Chrome Extensions?</title>
       <link>https://developer.chrome.com/blog/extension-news-april-2024?hl=en</link>
       <description>An overview of the recent changes in Chrome Extensions, plus exciting upcoming extension features developers can look forward to.</description>
@@ -1070,22 +1084,10 @@ especially with</description>
       <pubDate>Thu, 16 May 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>WebAssembly and WebGPU enhancements for faster Web AI, part 2</title>
-      <link>https://developer.chrome.com/blog/io24-webassembly-webgpu-2?hl=en</link>
-      <description>Part 2/2. Learn how WebAssembly and WebGPU enhancements improve machine learning performance on the web.</description>
-      <pubDate>Thu, 16 May 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Chrome Extensions at Google I/O 2024</title>
       <link>https://developer.chrome.com/blog/extensions-io-24?hl=en</link>
       <description>Another Google I/O is behind us and we have covered all the exciting extensions updates!</description>
       <pubDate>Wed, 22 May 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What's new in DevTools, Chrome 126</title>
-      <link>https://developer.chrome.com/blog/new-in-devtools-126?hl=en</link>
-      <description>Improved track configuration mode, ignore list in the flame chart, and throttle down CPU by 20 times in the Performance panel, and more.</description>
-      <pubDate>Thu, 23 May 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Skip review for eligible changes to extensions</title>
