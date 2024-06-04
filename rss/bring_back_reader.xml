@@ -6,8 +6,26 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Jun 2024 18:16:49 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Jun 2024 18:16:49 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Jun 2024 19:15:30 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Jun 2024 19:15:30 +0000</pubDate>
+    <item>
+      <title>CSS update Media Query</title>
+      <link>https://developer.chrome.com/blog/css-update-media-query?hl=en</link>
+      <description>Adapt your UI to the screen's refresh rate capabilities.</description>
+      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improved video calling with faster AV1 encoding</title>
+      <link>https://developer.chrome.com/blog/av1?hl=en</link>
+      <description>Chrome 113 includes improvements to the AV1 software encoder from the Chrome Open Media team.</description>
+      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blur camera background</title>
+      <link>https://developer.chrome.com/blog/background-blur?hl=en</link>
+      <description>A new origin trial from Chrome that allows web developers to control camera background blur.</description>
+      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>New in Chrome 113</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-113?hl=en</link>
@@ -37,12 +55,6 @@
       <link>https://developer.chrome.com/blog/webdriver-bidi-2023?hl=en</link>
       <description>This article gives an overview of what’s new in WebDriver BiDi in 2023.</description>
       <pubDate>Tue, 09 May 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>10 updates at Google I/O</title>
-      <link>https://developer.chrome.com/blog/chrome-at-io23?hl=en</link>
-      <description>Learn how we're making it easier for developers to deliver powerful experiences to their users through key updates and new launches that we shared at Google I/O 2023.</description>
-      <pubDate>Wed, 10 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WebGPU: Unlocking modern GPU access in the browser</title>
@@ -267,12 +279,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/new-in-webgpu-116?hl=en</link>
       <description>WebCodecs integration, video playback improvements, and more.</description>
       <pubDate>Tue, 08 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Secure popup interactions with restrict-properties</title>
-      <link>https://developer.chrome.com/blog/coop-restrict-properties?hl=en</link>
-      <description>Get cross-origin isolation and cross-site leaks protection while interacting with popups.</description>
-      <pubDate>Wed, 09 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New in Chrome 116</title>
@@ -843,12 +849,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/perf-tooling-2024?hl=en</link>
       <description>Learn about the Chrome team's plans to improve the Performance panel of DevTools.</description>
       <pubDate>Thu, 14 Mar 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Use the Service Worker Static Routing API to bypass the service worker for specific paths</title>
-      <link>https://developer.chrome.com/blog/service-worker-static-routing?hl=en</link>
-      <description>Find out how to use this new API, available from Chrome 123.</description>
-      <pubDate>Mon, 18 Mar 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Private Network Access: Extended protection for web workers and navigation fetches</title>
