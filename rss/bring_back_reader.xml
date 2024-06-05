@@ -6,8 +6,28 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Jun 2024 22:16:04 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Jun 2024 22:16:04 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Jun 2024 23:16:03 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Jun 2024 23:16:03 +0000</pubDate>
+    <item>
+      <title>The Chromium Chronicle #33: Views AnimationBuilder</title>
+      <link>https://developer.chrome.com/blog/chromium-chronicle-33?hl=en</link>
+      <description>Using layer based animations in Views can improve performance and reduce
+jankiness, but they're rather difficult to set up. The AnimationBuilder classes can vastly reduce complexity and improve readability for layer
+animations. Suppose you needed to</description>
+      <pubDate>Thu, 13 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A look back in time: the evolution of test automation</title>
+      <link>https://developer.chrome.com/blog/test-automation-evolution?hl=en</link>
+      <description>A journey into the evolution of test automation on the web.</description>
+      <pubDate>Tue, 18 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Richer UI install available for desktop</title>
+      <link>https://developer.chrome.com/blog/richer-install-ui-desktop?hl=en</link>
+      <description>Mobile devices and app stores have changed how users discover, evaluate, and install software. Web apps now offer a surface for developers to highlight their apps at install time.</description>
+      <pubDate>Thu, 20 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>What's New in WebGPU (Chrome 113)</title>
       <link>https://developer.chrome.com/blog/new-in-webgpu-113?hl=en</link>
@@ -195,12 +215,6 @@
       <pubDate>Wed, 31 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Mutation events will be removed from Chrome</title>
-      <link>https://developer.chrome.com/blog/mutation-events-deprecation?hl=en</link>
-      <description>Announcing the deprecation and planned removal of mutation events, and sharing how you can migrate your code before the removal in July 2024.</description>
-      <pubDate>Wed, 31 May 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Chrome for Testing: reliable downloads for browser automation</title>
       <link>https://developer.chrome.com/blog/chrome-for-testing?hl=en</link>
       <description>Chrome for Testing is a new Chrome flavor that specifically targets web app testing and automation use cases.</description>
@@ -383,6 +397,12 @@ yourself kicked out of full</description>
       <pubDate>Tue, 05 Sep 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>New in Chrome 117</title>
+      <link>https://developer.chrome.com/blog/new-in-chrome-117?hl=en</link>
+      <description>Chrome 117 is rolling out now! With three new CSS features that make it easy to add smooth entry and exit animations, array grouping to compute higher order datasets, devtools makes local overrides easier and there’s plenty more.</description>
+      <pubDate>Tue, 12 Sep 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Chrome 118 beta</title>
       <link>https://developer.chrome.com/blog/chrome-118-beta?hl=en</link>
       <description>Scoped styles for CSS, additional media features, keyboard-focusable scroll containers, and more.</description>
@@ -539,6 +559,12 @@ yourself kicked out of full</description>
       <pubDate>Thu, 09 Nov 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Capturing the WebGPU ecosystem</title>
+      <link>https://developer.chrome.com/blog/webgpu-ecosystem?hl=en</link>
+      <description>Learn about how the WebGPU ecosystem extends beyond the JavaScript, C++, and Rust realms.</description>
+      <pubDate>Thu, 09 Nov 2023 08:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>What’s new in the Angular NgOptimizedImage directive</title>
       <link>https://developer.chrome.com/blog/angular_ngoptimizedimage?hl=en</link>
       <description>Learn about the new features included in the Angular NgOptimizedImage directive that further improve image performance in Angular apps.</description>
@@ -584,12 +610,6 @@ yourself kicked out of full</description>
       <title>DevTools Tips: Debugging bfcache</title>
       <link>https://developer.chrome.com/blog/devtools-tips-29?hl=en</link>
       <description>Learn how to debug bfcache and make your page load instantly.</description>
-      <pubDate>Tue, 05 Dec 2023 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DevTools Tips: What is DOM? HTML versus DOM</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-28?hl=en</link>
-      <description>Learn how to debug the DOM with DevTools.</description>
       <pubDate>Tue, 05 Dec 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
@@ -659,12 +679,6 @@ yourself kicked out of full</description>
       <pubDate>Tue, 09 Jan 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CSS vertical writing mode for form control elements</title>
-      <link>https://developer.chrome.com/blog/vertical-form-controls?hl=en</link>
-      <description>Chrome adds another new international CSS feature.</description>
-      <pubDate>Mon, 15 Jan 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Supercharge Web AI model testing: WebGPU, WebGL, and Headless Chrome</title>
       <link>https://developer.chrome.com/blog/supercharge-web-ai-testing?hl=en</link>
       <description>Discover our solutions for how to consistently automate browser testing and improve application performance.</description>
@@ -674,12 +688,6 @@ yourself kicked out of full</description>
       <title>Test Web Bluetooth with Puppeteer</title>
       <link>https://developer.chrome.com/blog/test-web-bluetooth-with-puppeteer?hl=en</link>
       <description>Use Puppeteer to test features that use the Web Bluetooth API in Chrome.</description>
-      <pubDate>Wed, 17 Jan 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Safely accessing the DOM with Angular SSR</title>
-      <link>https://developer.chrome.com/blog/angular-dom-safety-ssr?hl=en</link>
-      <description>Learn how to safely use the DOM together with SSR in Angular</description>
       <pubDate>Wed, 17 Jan 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
@@ -699,6 +707,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/new-in-chrome-121?hl=en</link>
       <description>Chrome 121 is rolling out now! With CSS updates, improvements to the Speculation Rules API, an origin trial for Element Capture API and there's plenty more. Adriana Jara has all the details about what's new for developers in Chrome 121.</description>
       <pubDate>Tue, 23 Jan 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chrome 122 beta</title>
+      <link>https://developer.chrome.com/blog/chrome-122-beta?hl=en</link>
+      <description>Chrome 122 beta brings you Iterator helpers, set methods, the Storage Buckets API, read unsanitized HTML in the Async Clipboard API, and more.</description>
+      <pubDate>Wed, 24 Jan 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The deprecation trial for SharedArrayBuffer on desktop Chrome is extended to Chrome 124</title>
@@ -731,16 +745,16 @@ yourself kicked out of full</description>
       <pubDate>Fri, 02 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Chromium Issue Tracker migration beginning Feb 2, 2024 at 5pm PST</title>
-      <link>https://developer.chrome.com/blog/chromium-issue-tracker-migration-2024?hl=en</link>
-      <description>The Chromium Issue Tracker migration begins today.</description>
-      <pubDate>Fri, 02 Feb 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Chromium Issue Tracker migration is complete</title>
       <link>https://developer.chrome.com/blog/chromium-issue-tracker-migration-complete?hl=en</link>
       <description>Chromium issue tracking is now migrated.</description>
       <pubDate>Mon, 05 Feb 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's New in WebGPU (Chrome 122)</title>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-122?hl=en</link>
+      <description>Compatibility mode in development, increase maxVertexAttributes limit, and Dawn updates.</description>
+      <pubDate>Tue, 13 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A 400% faster Performance panel through perf-ception</title>
@@ -759,12 +773,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/chrome-for-developers-china?hl=en</link>
       <description>We are publishing our sites on a .cn domain to make them easier to access in China.</description>
       <pubDate>Mon, 19 Feb 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New in Chrome 122</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-122?hl=en</link>
-      <description>Chrome 122 is rolling out now! With the new Storage Buckets API, DevTools Performance panel updates, unsanitized option to read HTML with the Async Clipboard API and there's plenty more. Adriana Jara has all the details about what's new for developers in Chrome 122.</description>
-      <pubDate>Tue, 20 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome 123 beta</title>
@@ -1002,12 +1010,6 @@ especially with</description>
       <link>https://developer.chrome.com/blog/anchor-positioning-api?hl=en</link>
       <description>Position elements relative to each other using the new anchor positioning API.</description>
       <pubDate>Fri, 10 May 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>10 updates from Google I/O 2024: Unlocking the power of AI for every web developer</title>
-      <link>https://developer.chrome.com/blog/web-at-io24?hl=en</link>
-      <description>Discover exciting features from the Google I/O Developer Keynote and sessions.</description>
-      <pubDate>Tue, 14 May 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DevTools Tips: Override and mock network responses</title>
