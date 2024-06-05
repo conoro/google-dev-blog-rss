@@ -6,8 +6,76 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Jun 2024 16:16:43 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Jun 2024 16:16:43 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Jun 2024 17:15:40 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Jun 2024 17:15:40 +0000</pubDate>
+    <item>
+      <title>How the new Breakpoints sidebar helps you debug faster</title>
+      <link>https://developer.chrome.com/blog/breakpoint-ux-redesign?hl=en</link>
+      <description>To make it easier to perform common actions such as deleting or disabling breakpoints, we've redesigned the breakpoints sidebar so that you can perform them with a single click.</description>
+      <pubDate>Tue, 11 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's New in DevTools (Chrome 113)</title>
+      <link>https://developer.chrome.com/blog/new-in-devtools-113?hl=en</link>
+      <description>You can now override response headers in the Network panel. Previously, you needed access to the web server to experiment with HTTP response headers. With response header overrides, you can locally prototype fixes for various headers, including but</description>
+      <pubDate>Tue, 11 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Solving the CSS layout and source order disconnect</title>
+      <link>https://developer.chrome.com/blog/reading-order?hl=en</link>
+      <description>Your feedback is wanted on a proposed solution for the problem of layout methods arranging items in an order that is disconnected from the source of the document.</description>
+      <pubDate>Wed, 12 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Chromium Chronicle #33: Views AnimationBuilder</title>
+      <link>https://developer.chrome.com/blog/chromium-chronicle-33?hl=en</link>
+      <description>Using layer based animations in Views can improve performance and reduce
+jankiness, but they're rather difficult to set up. The AnimationBuilder classes can vastly reduce complexity and improve readability for layer
+animations. Suppose you needed to</description>
+      <pubDate>Thu, 13 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A look back in time: the evolution of test automation</title>
+      <link>https://developer.chrome.com/blog/test-automation-evolution?hl=en</link>
+      <description>A journey into the evolution of test automation on the web.</description>
+      <pubDate>Tue, 18 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Richer UI install available for desktop</title>
+      <link>https://developer.chrome.com/blog/richer-install-ui-desktop?hl=en</link>
+      <description>Mobile devices and app stores have changed how users discover, evaluate, and install software. Web apps now offer a surface for developers to highlight their apps at install time.</description>
+      <pubDate>Thu, 20 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's New in WebGPU (Chrome 113)</title>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-113?hl=en</link>
+      <description>WebGPU ships in Chrome with WebCodecs integration in origin trial.</description>
+      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DevTools Tips: Source maps in DevTools</title>
+      <link>https://developer.chrome.com/blog/devtools-tips-24?hl=en</link>
+      <description>Use source maps in DevTools to debug your original code instead of deployed.</description>
+      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CSS update Media Query</title>
+      <link>https://developer.chrome.com/blog/css-update-media-query?hl=en</link>
+      <description>Adapt your UI to the screen's refresh rate capabilities.</description>
+      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improved video calling with faster AV1 encoding</title>
+      <link>https://developer.chrome.com/blog/av1?hl=en</link>
+      <description>Chrome 113 includes improvements to the AV1 software encoder from the Chrome Open Media team.</description>
+      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blur camera background</title>
+      <link>https://developer.chrome.com/blog/background-blur?hl=en</link>
+      <description>A new origin trial from Chrome that allows web developers to control camera background blur.</description>
+      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>New in Chrome 113</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-113?hl=en</link>
@@ -281,12 +349,6 @@ yourself kicked out of full</description>
       <pubDate>Tue, 15 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Chrome 117 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-117-beta?hl=en</link>
-      <description>CSS grid subgrid, entry and exit animation support for CSS, array grouping, iterator helpers, and more.</description>
-      <pubDate>Wed, 16 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Four new CSS features for smooth entry and exit animations</title>
       <link>https://developer.chrome.com/blog/entry-exit-animations?hl=en</link>
       <description>Learn about new capabilities that enable smooth transitioning of discrete animations and between the top layer</description>
@@ -297,12 +359,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/extension-safety-hub?hl=en</link>
       <description>Starting in Chrome 117, Chrome will proactively highlight to users when an extension they have installed is no longer in the Chrome Web Store.</description>
       <pubDate>Wed, 16 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What's New in DevTools (Chrome 117)</title>
-      <link>https://developer.chrome.com/blog/new-in-devtools-117?hl=en</link>
-      <description>Override XHR/fetch requests and hide extension requests from the Network panel, see changes in fetch priority in the Performance panel, experience multiple UI improvements, check out new colors and experimental features, and more.</description>
-      <pubDate>Tue, 22 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Craft your Chrome Devtools Protocol (CDP) commands efficiently with the new command editor</title>
@@ -431,12 +487,6 @@ yourself kicked out of full</description>
       <pubDate>Tue, 10 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>New in Chrome 118</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-118?hl=en</link>
-      <description>Chrome 118 is rolling out now! Declare specific styles within a component with the @scope css rule. Use new media feature: prefers-reduced-transparency. DevTools has improvements in the Sources panel and there's plenty more.</description>
-      <pubDate>Tue, 10 Oct 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>CSS relative color syntax</title>
       <link>https://developer.chrome.com/blog/css-relative-color-syntax?hl=en</link>
       <description>Create new colors based on another color's channels and values.</description>
@@ -521,12 +571,6 @@ yourself kicked out of full</description>
       <pubDate>Fri, 03 Nov 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>What's new in DevTools (Chrome 120)</title>
-      <link>https://developer.chrome.com/blog/new-in-devtools-120?hl=en</link>
-      <description>Third-party cookie phaseout issues reported in the Issues panel, Privacy Sandbox Analysis Tool for cookies, effective Content Security Policy in the Applications panel, improved animations debugging, enhanced ignore listing, and more.</description>
-      <pubDate>Thu, 09 Nov 2023 08:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Capturing the WebGPU ecosystem</title>
       <link>https://developer.chrome.com/blog/webgpu-ecosystem?hl=en</link>
       <description>Learn about how the WebGPU ecosystem extends beyond the JavaScript, C++, and Rust realms.</description>
@@ -543,12 +587,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/improvements-to-content-filtering-in-manifest-v3?hl=en</link>
       <description>Over the past year, we have been actively involved in discussions with the vendors behind several content blocking extensions around ways to improve the MV3 extensions platform. Based on these discussions, many of which took place in the</description>
       <pubDate>Wed, 15 Nov 2023 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Automatic picture-in-picture for web apps</title>
-      <link>https://developer.chrome.com/blog/automatic-picture-in-picture?hl=en</link>
-      <description>Chrome allows video conferencing web apps to automatically enter picture-in-picture.</description>
-      <pubDate>Thu, 16 Nov 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Resuming the transition to Manifest V3</title>
@@ -665,12 +703,6 @@ yourself kicked out of full</description>
       <pubDate>Tue, 16 Jan 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Test Web Bluetooth with Puppeteer</title>
-      <link>https://developer.chrome.com/blog/test-web-bluetooth-with-puppeteer?hl=en</link>
-      <description>Use Puppeteer to test features that use the Web Bluetooth API in Chrome.</description>
-      <pubDate>Wed, 17 Jan 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Safely accessing the DOM with Angular SSR</title>
       <link>https://developer.chrome.com/blog/angular-dom-safety-ssr?hl=en</link>
       <description>Learn how to safely use the DOM together with SSR in Angular</description>
@@ -749,12 +781,6 @@ yourself kicked out of full</description>
       <pubDate>Tue, 13 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>A 400% faster Performance panel through perf-ception</title>
-      <link>https://developer.chrome.com/blog/perf-panel-4x-faster?hl=en</link>
-      <description>The Performance panel in DevTools is a powerful tool to diagnose, debug and fix performance issues of web apps. On this occasion, we will walk you through how we used the Performance panel in DevTools to improve the performance of the Performance panel itself, and how we achieved a very significant improvement.</description>
-      <pubDate>Thu, 15 Feb 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Changes to CSS ::backdrop inheritance</title>
       <link>https://developer.chrome.com/blog/css-backdrop-inheritance?hl=en</link>
       <description>As of Chrome 122 the `::backdrop` element inherits properties from its originating element.</description>
@@ -776,12 +802,6 @@ yourself kicked out of full</description>
       <title>Chrome 123 beta</title>
       <link>https://developer.chrome.com/blog/chrome-123-beta?hl=en</link>
       <description>The CSS light-dark() color function, align-content for blocks, the field-sizing property, and the pagereveal event.</description>
-      <pubDate>Wed, 21 Feb 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Support for align-content in block and table layouts</title>
-      <link>https://developer.chrome.com/blog/align-content?hl=en</link>
-      <description>From Chrome 123 use align-content to align items without creating a flex or grid container.</description>
       <pubDate>Wed, 21 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
@@ -807,12 +827,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/eyeos-journey-to-testing-mv3-service worker-suspension?hl=en</link>
       <description>In this post, the eyeo team shares their journey into the problem of testing extension service workers. In particular, how to to make sure that their Chrome Extensions works correctly when a service worker gets suspended.</description>
       <pubDate>Tue, 27 Feb 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Improvements to the Speculation Rules API</title>
-      <link>https://developer.chrome.com/blog/speculation-rules-improvements?hl=en</link>
-      <description>Details of the latest updates to the Speculation Rules API including document rules, eagerness setting, limits, and speculation rules support on platforms.</description>
-      <pubDate>Thu, 29 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Download old Headless Chrome as chrome-headless-shell</title>
@@ -855,12 +869,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/private-network-access-update-2024-03?hl=en</link>
       <description>Learn about Private Network Access's key security mechanisms for web workers, navigation fetches, and upcoming protections. This document also covers what website owners should do if they utilize private networks.</description>
       <pubDate>Mon, 18 Mar 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New in Chrome 123</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-123?hl=en</link>
-      <description>Chrome 123 is rolling out now! With the new light-dark function, Long Animation Frames API, Service Worker Static Routing API and there's plenty more. Adriana Jara has all the details about what's new for developers in Chrome 123.</description>
-      <pubDate>Tue, 19 Mar 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome 124 beta</title>
@@ -935,12 +943,6 @@ especially with</description>
       <title>Access to MIDI devices now requires user permission</title>
       <link>https://developer.chrome.com/blog/web-midi-permission-prompt?hl=en</link>
       <description>Chrome now gates the entire Web MIDI API behind a permission prompt.</description>
-      <pubDate>Tue, 16 Apr 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What's happening in Chrome Extensions?</title>
-      <link>https://developer.chrome.com/blog/extension-news-april-2024?hl=en</link>
-      <description>An overview of the recent changes in Chrome Extensions, plus exciting upcoming extension features developers can look forward to.</description>
       <pubDate>Tue, 16 Apr 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
