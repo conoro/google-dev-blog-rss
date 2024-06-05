@@ -6,8 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Jun 2024 01:37:02 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Jun 2024 01:37:02 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Jun 2024 02:22:27 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Jun 2024 02:22:27 +0000</pubDate>
     <item>
       <title>A look back in time: the evolution of test automation</title>
       <link>https://developer.chrome.com/blog/test-automation-evolution?hl=en</link>
@@ -159,6 +159,12 @@
       <pubDate>Tue, 30 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Help test bounce tracking mitigations</title>
+      <link>https://developer.chrome.com/blog/bounce-tracking-mitigations-dev-trial?hl=en</link>
+      <description>We plan to launch mitigations to limit tracking from a particular technique called "bounce tracking" later this year. We would like to invite developers to test this new feature with feature flags and provide feedback.</description>
+      <pubDate>Tue, 30 May 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Design a superior user experience with the new Side Panel API</title>
       <link>https://developer.chrome.com/blog/extension-side-panel-launch?hl=en</link>
       <description>Introducing the new Side Panel API for Chrome extensions.</description>
@@ -303,12 +309,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/new-in-webgpu-116?hl=en</link>
       <description>WebCodecs integration, video playback improvements, and more.</description>
       <pubDate>Tue, 08 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Secure popup interactions with restrict-properties</title>
-      <link>https://developer.chrome.com/blog/coop-restrict-properties?hl=en</link>
-      <description>Get cross-origin isolation and cross-site leaks protection while interacting with popups.</description>
-      <pubDate>Wed, 09 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New in Chrome 116</title>
@@ -629,12 +629,6 @@ yourself kicked out of full</description>
       <pubDate>Tue, 05 Dec 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Chrome 121 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-121-beta?hl=en</link>
-      <description>CSS Scrollbars, the Storage Buckets API, the Speculation Rules API, and more.</description>
-      <pubDate>Thu, 07 Dec 2023 08:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>CSS Wrapped: 2023!</title>
       <link>https://developer.chrome.com/blog/css-wrapped-2023?hl=en</link>
       <description>2023 was a huge year for CSS! Learn about what landed in Chrome and across the web platform this year.</description>
@@ -671,6 +665,12 @@ yourself kicked out of full</description>
       <pubDate>Thu, 04 Jan 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>DevTools Tips: Authoring colors</title>
+      <link>https://developer.chrome.com/blog/devtools-tips-03?hl=en</link>
+      <description>Learn how to author colors in a few clicks.</description>
+      <pubDate>Mon, 08 Jan 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Persistent permissions for the File System Access API</title>
       <link>https://developer.chrome.com/blog/persistent-permissions-for-the-file-system-access-api?hl=en</link>
       <description>This post explains how persistent permissions for the File System Access API can be managed. It also provides a quick recap of the current state of the problem and the challenges that are being solved.</description>
@@ -681,12 +681,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/vertical-form-controls?hl=en</link>
       <description>Chrome adds another new international CSS feature.</description>
       <pubDate>Mon, 15 Jan 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Supercharge Web AI model testing: WebGPU, WebGL, and Headless Chrome</title>
-      <link>https://developer.chrome.com/blog/supercharge-web-ai-testing?hl=en</link>
-      <description>Discover our solutions for how to consistently automate browser testing and improve application performance.</description>
-      <pubDate>Tue, 16 Jan 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Test Web Bluetooth with Puppeteer</title>
@@ -1079,6 +1073,12 @@ especially with</description>
       <title>WebAssembly and WebGPU enhancements for faster Web AI, part 1</title>
       <link>https://developer.chrome.com/blog/io24-webassembly-webgpu-1?hl=en</link>
       <description>Part 1/2. Learn how WebAssembly and WebGPU enhancements improve machine learning performance on the web.</description>
+      <pubDate>Thu, 16 May 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WebAssembly and WebGPU enhancements for faster Web AI, part 2</title>
+      <link>https://developer.chrome.com/blog/io24-webassembly-webgpu-2?hl=en</link>
+      <description>Part 2/2. Learn how WebAssembly and WebGPU enhancements improve machine learning performance on the web.</description>
       <pubDate>Thu, 16 May 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
