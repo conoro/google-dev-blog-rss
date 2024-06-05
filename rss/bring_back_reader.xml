@@ -6,8 +6,20 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Jun 2024 09:16:41 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Jun 2024 09:16:41 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Jun 2024 10:15:57 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Jun 2024 10:15:57 +0000</pubDate>
+    <item>
+      <title>What's New in WebGPU (Chrome 113)</title>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-113?hl=en</link>
+      <description>WebGPU ships in Chrome with WebCodecs integration in origin trial.</description>
+      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DevTools Tips: Source maps in DevTools</title>
+      <link>https://developer.chrome.com/blog/devtools-tips-24?hl=en</link>
+      <description>Use source maps in DevTools to debug your original code instead of deployed.</description>
+      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>CSS update Media Query</title>
       <link>https://developer.chrome.com/blog/css-update-media-query?hl=en</link>
@@ -279,12 +291,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/new-in-webgpu-116?hl=en</link>
       <description>WebCodecs integration, video playback improvements, and more.</description>
       <pubDate>Tue, 08 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Secure popup interactions with restrict-properties</title>
-      <link>https://developer.chrome.com/blog/coop-restrict-properties?hl=en</link>
-      <description>Get cross-origin isolation and cross-site leaks protection while interacting with popups.</description>
-      <pubDate>Wed, 09 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New in Chrome 116</title>
@@ -929,12 +935,6 @@ especially with</description>
       <title>Origin trial for Foldable APIs</title>
       <link>https://developer.chrome.com/blog/foldable-apis-ot?hl=en</link>
       <description>The Foldable APIs are two APIs in Chrome that are designed to help developers target foldable devices.</description>
-      <pubDate>Tue, 16 Apr 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Access to MIDI devices now requires user permission</title>
-      <link>https://developer.chrome.com/blog/web-midi-permission-prompt?hl=en</link>
-      <description>Chrome now gates the entire Web MIDI API behind a permission prompt.</description>
       <pubDate>Tue, 16 Apr 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
