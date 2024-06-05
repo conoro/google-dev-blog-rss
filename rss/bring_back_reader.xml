@@ -6,8 +6,44 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Jun 2024 07:15:45 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Jun 2024 07:15:45 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Jun 2024 08:16:43 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Jun 2024 08:16:43 +0000</pubDate>
+    <item>
+      <title>Richer UI install available for desktop</title>
+      <link>https://developer.chrome.com/blog/richer-install-ui-desktop?hl=en</link>
+      <description>Mobile devices and app stores have changed how users discover, evaluate, and install software. Web apps now offer a surface for developers to highlight their apps at install time.</description>
+      <pubDate>Thu, 20 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's New in WebGPU (Chrome 113)</title>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-113?hl=en</link>
+      <description>WebGPU ships in Chrome with WebCodecs integration in origin trial.</description>
+      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DevTools Tips: Source maps in DevTools</title>
+      <link>https://developer.chrome.com/blog/devtools-tips-24?hl=en</link>
+      <description>Use source maps in DevTools to debug your original code instead of deployed.</description>
+      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CSS update Media Query</title>
+      <link>https://developer.chrome.com/blog/css-update-media-query?hl=en</link>
+      <description>Adapt your UI to the screen's refresh rate capabilities.</description>
+      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improved video calling with faster AV1 encoding</title>
+      <link>https://developer.chrome.com/blog/av1?hl=en</link>
+      <description>Chrome 113 includes improvements to the AV1 software encoder from the Chrome Open Media team.</description>
+      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blur camera background</title>
+      <link>https://developer.chrome.com/blog/background-blur?hl=en</link>
+      <description>A new origin trial from Chrome that allows web developers to control camera background blur.</description>
+      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>New in Chrome 113</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-113?hl=en</link>
@@ -37,12 +73,6 @@
       <link>https://developer.chrome.com/blog/webdriver-bidi-2023?hl=en</link>
       <description>This article gives an overview of what’s new in WebDriver BiDi in 2023.</description>
       <pubDate>Tue, 09 May 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>10 updates at Google I/O</title>
-      <link>https://developer.chrome.com/blog/chrome-at-io23?hl=en</link>
-      <description>Learn how we're making it easier for developers to deliver powerful experiences to their users through key updates and new launches that we shared at Google I/O 2023.</description>
-      <pubDate>Wed, 10 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WebGPU: Unlocking modern GPU access in the browser</title>
@@ -269,12 +299,6 @@ yourself kicked out of full</description>
       <pubDate>Tue, 08 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Secure popup interactions with restrict-properties</title>
-      <link>https://developer.chrome.com/blog/coop-restrict-properties?hl=en</link>
-      <description>Get cross-origin isolation and cross-site leaks protection while interacting with popups.</description>
-      <pubDate>Wed, 09 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>New in Chrome 116</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-116?hl=en</link>
       <description>Chrome 116 is rolling out now! Use the document picture in picture API to increase user productivity, it is now easier to debug missing stylesheets in DevTools, and there’s plenty more.</description>
@@ -491,12 +515,6 @@ yourself kicked out of full</description>
       <pubDate>Wed, 25 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>New in Chrome 119</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-119?hl=en</link>
-      <description>Chrome 119 is rolling out now! With an update to the expiration date upper limit for cookies already in storage. CSS has new pseudo classes, relative color syntax, Fenced Frames improvements like ad size macros, and there’s plenty more.</description>
-      <pubDate>Tue, 31 Oct 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>WebAssembly Garbage Collection (WasmGC) now enabled by default in Chrome</title>
       <link>https://developer.chrome.com/blog/wasmgc?hl=en</link>
       <description>There are two types of programming languages: garbage-collected programming languages and programming languages that require manual memory management. This article explains how thanks to WebAssembly Garbage Collection, short WasmGC, garbage-collected languages can be ported to WebAssembly.</description>
@@ -623,12 +641,6 @@ yourself kicked out of full</description>
       <pubDate>Fri, 08 Dec 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Chrome enables desktop mode by default on premium tablets</title>
-      <link>https://developer.chrome.com/blog/desktop-mode?hl=en</link>
-      <description>Chrome has adapted to the Android tablet ecosystem by enabling desktop mode by default on premium tablets.</description>
-      <pubDate>Mon, 11 Dec 2023 08:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Harness the power of WebDriver BiDi: Chrome and Firefox automation with Puppeteer</title>
       <link>https://developer.chrome.com/blog/puppeteer-webdriver-bidi-2023?hl=en</link>
       <description>Puppeteer now talks to Firefox! 🎉 But wait, didn't it already? 🤔 Let's dive into WebDriver BiDi, the new protocol in Puppeteer and discover what this exciting development means for the Firefox automation workflow.</description>
@@ -668,12 +680,6 @@ yourself kicked out of full</description>
       <title>Test Web Bluetooth with Puppeteer</title>
       <link>https://developer.chrome.com/blog/test-web-bluetooth-with-puppeteer?hl=en</link>
       <description>Use Puppeteer to test features that use the Web Bluetooth API in Chrome.</description>
-      <pubDate>Wed, 17 Jan 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Safely accessing the DOM with Angular SSR</title>
-      <link>https://developer.chrome.com/blog/angular-dom-safety-ssr?hl=en</link>
-      <description>Learn how to safely use the DOM together with SSR in Angular</description>
       <pubDate>Wed, 17 Jan 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
@@ -728,12 +734,6 @@ yourself kicked out of full</description>
       <title>What's new in DevTools (Chrome 122)</title>
       <link>https://developer.chrome.com/blog/new-in-devtools-122?hl=en</link>
       <description>Third-party cookies phaseout warnings in the Network and Application panels, enhanced debugging in the Network panel, breadcrumbs in the Performance panel, and more.</description>
-      <pubDate>Fri, 02 Feb 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chromium Issue Tracker migration beginning Feb 2, 2024 at 5pm PST</title>
-      <link>https://developer.chrome.com/blog/chromium-issue-tracker-migration-2024?hl=en</link>
-      <description>The Chromium Issue Tracker migration begins today.</description>
       <pubDate>Fri, 02 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
