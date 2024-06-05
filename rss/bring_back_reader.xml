@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Jun 2024 20:16:14 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Jun 2024 20:16:14 +0000</pubDate>
-    <item>
-      <title>Blur camera background</title>
-      <link>https://developer.chrome.com/blog/background-blur?hl=en</link>
-      <description>A new origin trial from Chrome that allows web developers to control camera background blur.</description>
-      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 05 Jun 2024 21:16:23 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Jun 2024 21:16:23 +0000</pubDate>
     <item>
       <title>New in Chrome 113</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-113?hl=en</link>
@@ -1092,6 +1086,12 @@ especially with</description>
       <link>https://developer.chrome.com/blog/extensions-skip-review-eligible-changes?hl=en</link>
       <description>We are excited to announce a new feature that will allow developers to skip the review process for eligible changes to Manifest V3 extensions using the Declarative Net Request API.</description>
       <pubDate>Thu, 30 May 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3 new features to customize your performance workflows in DevTools</title>
+      <link>https://developer.chrome.com/blog/devtools-customization?hl=en</link>
+      <description>Learn about the latest features to help you declutter the Performance panel and focus on the information you need most</description>
+      <pubDate>Wed, 05 Jun 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
