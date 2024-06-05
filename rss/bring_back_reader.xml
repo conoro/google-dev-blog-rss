@@ -6,8 +6,38 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Jun 2024 21:16:23 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Jun 2024 21:16:23 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Jun 2024 22:16:04 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Jun 2024 22:16:04 +0000</pubDate>
+    <item>
+      <title>What's New in WebGPU (Chrome 113)</title>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-113?hl=en</link>
+      <description>WebGPU ships in Chrome with WebCodecs integration in origin trial.</description>
+      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DevTools Tips: Source maps in DevTools</title>
+      <link>https://developer.chrome.com/blog/devtools-tips-24?hl=en</link>
+      <description>Use source maps in DevTools to debug your original code instead of deployed.</description>
+      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CSS update Media Query</title>
+      <link>https://developer.chrome.com/blog/css-update-media-query?hl=en</link>
+      <description>Adapt your UI to the screen's refresh rate capabilities.</description>
+      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improved video calling with faster AV1 encoding</title>
+      <link>https://developer.chrome.com/blog/av1?hl=en</link>
+      <description>Chrome 113 includes improvements to the AV1 software encoder from the Chrome Open Media team.</description>
+      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blur camera background</title>
+      <link>https://developer.chrome.com/blog/background-blur?hl=en</link>
+      <description>A new origin trial from Chrome that allows web developers to control camera background blur.</description>
+      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>New in Chrome 113</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-113?hl=en</link>
@@ -353,12 +383,6 @@ yourself kicked out of full</description>
       <pubDate>Tue, 05 Sep 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>New in Chrome 117</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-117?hl=en</link>
-      <description>Chrome 117 is rolling out now! With three new CSS features that make it easy to add smooth entry and exit animations, array grouping to compute higher order datasets, devtools makes local overrides easier and there’s plenty more.</description>
-      <pubDate>Tue, 12 Sep 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Chrome 118 beta</title>
       <link>https://developer.chrome.com/blog/chrome-118-beta?hl=en</link>
       <description>Scoped styles for CSS, additional media features, keyboard-focusable scroll containers, and more.</description>
@@ -461,12 +485,6 @@ yourself kicked out of full</description>
       <pubDate>Tue, 17 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CSS text-wrap: pretty</title>
-      <link>https://developer.chrome.com/blog/css-text-wrap-pretty?hl=en</link>
-      <description>Opt-in optimized text wrapping, for beauty over speed.</description>
-      <pubDate>Mon, 23 Oct 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Select element: now with horizontal rules</title>
       <link>https://developer.chrome.com/blog/hr-in-select?hl=en</link>
       <description>Learn how expanded select element capabilities enable visual horizontal breaks for better grouping.</description>
@@ -518,12 +536,6 @@ yourself kicked out of full</description>
       <title>What's new in DevTools (Chrome 120)</title>
       <link>https://developer.chrome.com/blog/new-in-devtools-120?hl=en</link>
       <description>Third-party cookie phaseout issues reported in the Issues panel, Privacy Sandbox Analysis Tool for cookies, effective Content Security Policy in the Applications panel, improved animations debugging, enhanced ignore listing, and more.</description>
-      <pubDate>Thu, 09 Nov 2023 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Capturing the WebGPU ecosystem</title>
-      <link>https://developer.chrome.com/blog/webgpu-ecosystem?hl=en</link>
-      <description>Learn about how the WebGPU ecosystem extends beyond the JavaScript, C++, and Rust realms.</description>
       <pubDate>Thu, 09 Nov 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
@@ -689,12 +701,6 @@ yourself kicked out of full</description>
       <pubDate>Tue, 23 Jan 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Chrome 122 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-122-beta?hl=en</link>
-      <description>Chrome 122 beta brings you Iterator helpers, set methods, the Storage Buckets API, read unsanitized HTML in the Async Clipboard API, and more.</description>
-      <pubDate>Wed, 24 Jan 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The deprecation trial for SharedArrayBuffer on desktop Chrome is extended to Chrome 124</title>
       <link>https://developer.chrome.com/blog/shared-array-buffer-origin-trial-extension-124?hl=en</link>
       <description>The deprecation trial for SharedArrayBuffer without cross-origin isolation on Chrome desktop is extended until Chrome 124.</description>
@@ -735,12 +741,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/chromium-issue-tracker-migration-complete?hl=en</link>
       <description>Chromium issue tracking is now migrated.</description>
       <pubDate>Mon, 05 Feb 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What's New in WebGPU (Chrome 122)</title>
-      <link>https://developer.chrome.com/blog/new-in-webgpu-122?hl=en</link>
-      <description>Compatibility mode in development, increase maxVertexAttributes limit, and Dawn updates.</description>
-      <pubDate>Tue, 13 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A 400% faster Performance panel through perf-ception</title>
