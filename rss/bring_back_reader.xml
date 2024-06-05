@@ -6,44 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Jun 2024 19:15:33 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Jun 2024 19:15:33 +0000</pubDate>
-    <item>
-      <title>A look back in time: the evolution of test automation</title>
-      <link>https://developer.chrome.com/blog/test-automation-evolution?hl=en</link>
-      <description>A journey into the evolution of test automation on the web.</description>
-      <pubDate>Tue, 18 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Richer UI install available for desktop</title>
-      <link>https://developer.chrome.com/blog/richer-install-ui-desktop?hl=en</link>
-      <description>Mobile devices and app stores have changed how users discover, evaluate, and install software. Web apps now offer a surface for developers to highlight their apps at install time.</description>
-      <pubDate>Thu, 20 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What's New in WebGPU (Chrome 113)</title>
-      <link>https://developer.chrome.com/blog/new-in-webgpu-113?hl=en</link>
-      <description>WebGPU ships in Chrome with WebCodecs integration in origin trial.</description>
-      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DevTools Tips: Source maps in DevTools</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-24?hl=en</link>
-      <description>Use source maps in DevTools to debug your original code instead of deployed.</description>
-      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CSS update Media Query</title>
-      <link>https://developer.chrome.com/blog/css-update-media-query?hl=en</link>
-      <description>Adapt your UI to the screen's refresh rate capabilities.</description>
-      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Improved video calling with faster AV1 encoding</title>
-      <link>https://developer.chrome.com/blog/av1?hl=en</link>
-      <description>Chrome 113 includes improvements to the AV1 software encoder from the Chrome Open Media team.</description>
-      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 05 Jun 2024 20:16:14 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Jun 2024 20:16:14 +0000</pubDate>
     <item>
       <title>Blur camera background</title>
       <link>https://developer.chrome.com/blog/background-blur?hl=en</link>
@@ -96,6 +60,12 @@
       <title>Shared autofill across iframes: an initial proposal</title>
       <link>https://developer.chrome.com/blog/shared-autofill?hl=en</link>
       <description>Some forms have fields in iframes, which causes problems for browser autofill. With shared-autofill, the parent frame can designate the trustworthiness of cross-origin iframes, to support a better autofill experience for the user.</description>
+      <pubDate>Wed, 10 May 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Find form issues with Chrome DevTools</title>
+      <link>https://developer.chrome.com/blog/devtools-autofill?hl=en</link>
+      <description>The Chrome DevTools team is building additional new features to help find form issues and debug Autofill. These features are at an early stage of design and implementation, and we need your testing and feedback.</description>
       <pubDate>Wed, 10 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
@@ -251,6 +221,12 @@ yourself kicked out of full</description>
       <pubDate>Wed, 12 Jul 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>A case study on scroll-driven animations performance</title>
+      <link>https://developer.chrome.com/blog/scroll-animation-performance-case-study?hl=en</link>
+      <description>The new API is much smoother than the classic way of implementing scroll-driven animations.</description>
+      <pubDate>Wed, 12 Jul 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>What's happening in Chrome Extensions?</title>
       <link>https://developer.chrome.com/blog/extension-news-july-2023?hl=en</link>
       <description>An overview of the changes so far this year in Chrome Extensions, plus exciting upcoming extension features developers can look forward to.</description>
@@ -279,6 +255,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/chrome-116-beta-whats-new-for-extensions?hl=en</link>
       <description>A summary of important changes in Chrome 116 for Chrome Extension developers.</description>
       <pubDate>Thu, 20 Jul 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DevTools Tips: Breakpoints and logpoints</title>
+      <link>https://developer.chrome.com/blog/devtools-tips-25?hl=en</link>
+      <description>Use breakpoints and logpoints to debug with ease.</description>
+      <pubDate>Thu, 27 Jul 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>One-time permissions in Chrome</title>
@@ -557,6 +539,12 @@ yourself kicked out of full</description>
       <pubDate>Wed, 15 Nov 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Improving content filtering in Manifest V3</title>
+      <link>https://developer.chrome.com/blog/improvements-to-content-filtering-in-manifest-v3?hl=en</link>
+      <description>Over the past year, we have been actively involved in discussions with the vendors behind several content blocking extensions around ways to improve the MV3 extensions platform. Based on these discussions, many of which took place in the</description>
+      <pubDate>Wed, 15 Nov 2023 08:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Automatic picture-in-picture for web apps</title>
       <link>https://developer.chrome.com/blog/automatic-picture-in-picture?hl=en</link>
       <description>Chrome allows video conferencing web apps to automatically enter picture-in-picture.</description>
@@ -665,6 +653,12 @@ yourself kicked out of full</description>
       <pubDate>Tue, 09 Jan 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>CSS vertical writing mode for form control elements</title>
+      <link>https://developer.chrome.com/blog/vertical-form-controls?hl=en</link>
+      <description>Chrome adds another new international CSS feature.</description>
+      <pubDate>Mon, 15 Jan 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Supercharge Web AI model testing: WebGPU, WebGL, and Headless Chrome</title>
       <link>https://developer.chrome.com/blog/supercharge-web-ai-testing?hl=en</link>
       <description>Discover our solutions for how to consistently automate browser testing and improve application performance.</description>
@@ -771,6 +765,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/chrome-for-developers-china?hl=en</link>
       <description>We are publishing our sites on a .cn domain to make them easier to access in China.</description>
       <pubDate>Mon, 19 Feb 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New in Chrome 122</title>
+      <link>https://developer.chrome.com/blog/new-in-chrome-122?hl=en</link>
+      <description>Chrome 122 is rolling out now! With the new Storage Buckets API, DevTools Performance panel updates, unsanitized option to read HTML with the Async Clipboard API and there's plenty more. Adriana Jara has all the details about what's new for developers in Chrome 122.</description>
+      <pubDate>Tue, 20 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome 123 beta</title>
