@@ -6,26 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Jun 2024 08:16:43 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Jun 2024 08:16:43 +0000</pubDate>
-    <item>
-      <title>Richer UI install available for desktop</title>
-      <link>https://developer.chrome.com/blog/richer-install-ui-desktop?hl=en</link>
-      <description>Mobile devices and app stores have changed how users discover, evaluate, and install software. Web apps now offer a surface for developers to highlight their apps at install time.</description>
-      <pubDate>Thu, 20 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What's New in WebGPU (Chrome 113)</title>
-      <link>https://developer.chrome.com/blog/new-in-webgpu-113?hl=en</link>
-      <description>WebGPU ships in Chrome with WebCodecs integration in origin trial.</description>
-      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DevTools Tips: Source maps in DevTools</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-24?hl=en</link>
-      <description>Use source maps in DevTools to debug your original code instead of deployed.</description>
-      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 05 Jun 2024 09:16:41 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Jun 2024 09:16:41 +0000</pubDate>
     <item>
       <title>CSS update Media Query</title>
       <link>https://developer.chrome.com/blog/css-update-media-query?hl=en</link>
@@ -297,6 +279,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/new-in-webgpu-116?hl=en</link>
       <description>WebCodecs integration, video playback improvements, and more.</description>
       <pubDate>Tue, 08 Aug 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Secure popup interactions with restrict-properties</title>
+      <link>https://developer.chrome.com/blog/coop-restrict-properties?hl=en</link>
+      <description>Get cross-origin isolation and cross-site leaks protection while interacting with popups.</description>
+      <pubDate>Wed, 09 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New in Chrome 116</title>
@@ -683,6 +671,12 @@ yourself kicked out of full</description>
       <pubDate>Wed, 17 Jan 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Safely accessing the DOM with Angular SSR</title>
+      <link>https://developer.chrome.com/blog/angular-dom-safety-ssr?hl=en</link>
+      <description>Learn how to safely use the DOM together with SSR in Angular</description>
+      <pubDate>Wed, 17 Jan 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>What's New in WebGPU (Chrome 121)</title>
       <link>https://developer.chrome.com/blog/new-in-webgpu-121?hl=en</link>
       <description>Support WebGPU on Android, use of DXC for shader compilation, timestamp queries in compute and render passes, default entry points to shader modules, support display-p3 as GPUExternalTexture color space, memory heaps info, and more.</description>
@@ -734,6 +728,12 @@ yourself kicked out of full</description>
       <title>What's new in DevTools (Chrome 122)</title>
       <link>https://developer.chrome.com/blog/new-in-devtools-122?hl=en</link>
       <description>Third-party cookies phaseout warnings in the Network and Application panels, enhanced debugging in the Network panel, breadcrumbs in the Performance panel, and more.</description>
+      <pubDate>Fri, 02 Feb 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chromium Issue Tracker migration beginning Feb 2, 2024 at 5pm PST</title>
+      <link>https://developer.chrome.com/blog/chromium-issue-tracker-migration-2024?hl=en</link>
+      <description>The Chromium Issue Tracker migration begins today.</description>
       <pubDate>Fri, 02 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
