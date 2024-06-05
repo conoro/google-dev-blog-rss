@@ -6,8 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Jun 2024 02:22:27 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Jun 2024 02:22:27 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Jun 2024 03:16:28 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Jun 2024 03:16:28 +0000</pubDate>
     <item>
       <title>A look back in time: the evolution of test automation</title>
       <link>https://developer.chrome.com/blog/test-automation-evolution?hl=en</link>
@@ -701,6 +701,12 @@ yourself kicked out of full</description>
       <pubDate>Thu, 18 Jan 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>What's happening in Chrome Extensions?</title>
+      <link>https://developer.chrome.com/blog/extension-news-january-2024?hl=en</link>
+      <description>An overview of the recent changes in Chrome Extensions, plus exciting upcoming extension features developers can look forward to.</description>
+      <pubDate>Tue, 23 Jan 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>New in Chrome 121</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-121?hl=en</link>
       <description>Chrome 121 is rolling out now! With CSS updates, improvements to the Speculation Rules API, an origin trial for Element Capture API and there's plenty more. Adriana Jara has all the details about what's new for developers in Chrome 121.</description>
@@ -1073,12 +1079,6 @@ especially with</description>
       <title>WebAssembly and WebGPU enhancements for faster Web AI, part 1</title>
       <link>https://developer.chrome.com/blog/io24-webassembly-webgpu-1?hl=en</link>
       <description>Part 1/2. Learn how WebAssembly and WebGPU enhancements improve machine learning performance on the web.</description>
-      <pubDate>Thu, 16 May 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WebAssembly and WebGPU enhancements for faster Web AI, part 2</title>
-      <link>https://developer.chrome.com/blog/io24-webassembly-webgpu-2?hl=en</link>
-      <description>Part 2/2. Learn how WebAssembly and WebGPU enhancements improve machine learning performance on the web.</description>
       <pubDate>Thu, 16 May 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
