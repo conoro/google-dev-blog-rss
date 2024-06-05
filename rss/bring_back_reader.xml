@@ -6,8 +6,14 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Jun 2024 04:16:54 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Jun 2024 04:16:54 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Jun 2024 05:15:49 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Jun 2024 05:15:49 +0000</pubDate>
+    <item>
+      <title>A look back in time: the evolution of test automation</title>
+      <link>https://developer.chrome.com/blog/test-automation-evolution?hl=en</link>
+      <description>A journey into the evolution of test automation on the web.</description>
+      <pubDate>Tue, 18 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Richer UI install available for desktop</title>
       <link>https://developer.chrome.com/blog/richer-install-ui-desktop?hl=en</link>
@@ -73,12 +79,6 @@
       <link>https://developer.chrome.com/blog/webdriver-bidi-2023?hl=en</link>
       <description>This article gives an overview of what’s new in WebDriver BiDi in 2023.</description>
       <pubDate>Tue, 09 May 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>10 updates at Google I/O</title>
-      <link>https://developer.chrome.com/blog/chrome-at-io23?hl=en</link>
-      <description>Learn how we're making it easier for developers to deliver powerful experiences to their users through key updates and new launches that we shared at Google I/O 2023.</description>
-      <pubDate>Wed, 10 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WebGPU: Unlocking modern GPU access in the browser</title>
