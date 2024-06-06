@@ -6,16 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Jun 2024 23:16:03 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Jun 2024 23:16:03 +0000</pubDate>
-    <item>
-      <title>The Chromium Chronicle #33: Views AnimationBuilder</title>
-      <link>https://developer.chrome.com/blog/chromium-chronicle-33?hl=en</link>
-      <description>Using layer based animations in Views can improve performance and reduce
-jankiness, but they're rather difficult to set up. The AnimationBuilder classes can vastly reduce complexity and improve readability for layer
-animations. Suppose you needed to</description>
-      <pubDate>Thu, 13 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jun 2024 00:26:02 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Jun 2024 00:26:02 +0000</pubDate>
     <item>
       <title>A look back in time: the evolution of test automation</title>
       <link>https://developer.chrome.com/blog/test-automation-evolution?hl=en</link>
@@ -391,12 +383,6 @@ yourself kicked out of full</description>
       <pubDate>Mon, 04 Sep 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>What's New in WebGPU (Chrome 117)</title>
-      <link>https://developer.chrome.com/blog/new-in-webgpu-117?hl=en</link>
-      <description>Unset vertex buffer and bind group, make lost devices appear to function, and more.</description>
-      <pubDate>Tue, 05 Sep 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>New in Chrome 117</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-117?hl=en</link>
       <description>Chrome 117 is rolling out now! With three new CSS features that make it easy to add smooth entry and exit animations, array grouping to compute higher order datasets, devtools makes local overrides easier and there’s plenty more.</description>
@@ -460,6 +446,12 @@ yourself kicked out of full</description>
       <title>New origin trial for fullscreen popup windows</title>
       <link>https://developer.chrome.com/blog/fullscreen-popups-origin-trial?hl=en</link>
       <description>There's now a new origin trial available for opening popup windows in fullscreen mode with just one step.</description>
+      <pubDate>Mon, 09 Oct 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>API Improvements for working with files in the browser</title>
+      <link>https://developer.chrome.com/blog/new-dev-trial-for-multiple-readers-and-writers?hl=en</link>
+      <description>Support for multiple readers and writers for FileSystemSyncAccessHandle and exclusive writer for FileSystemWritableFileStream. The origin private file system (sometimes also referred to as the bucket file system) allows developers to access files</description>
       <pubDate>Mon, 09 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
@@ -607,15 +599,9 @@ yourself kicked out of full</description>
       <pubDate>Tue, 05 Dec 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>DevTools Tips: Debugging bfcache</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-29?hl=en</link>
-      <description>Learn how to debug bfcache and make your page load instantly.</description>
-      <pubDate>Tue, 05 Dec 2023 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Revisiting Chrome's installability criteria</title>
-      <link>https://developer.chrome.com/blog/update-install-criteria?hl=en</link>
-      <description>In the coming months Chrome will be running experiments with the goal of simplifying the app install criteria, to improve developer and user experience. This post shares the changes you can expect, and the reasons we are running these experiments.</description>
+      <title>DevTools Tips: What is DOM? HTML versus DOM</title>
+      <link>https://developer.chrome.com/blog/devtools-tips-28?hl=en</link>
+      <description>Learn how to debug the DOM with DevTools.</description>
       <pubDate>Tue, 05 Dec 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
@@ -679,6 +665,12 @@ yourself kicked out of full</description>
       <pubDate>Tue, 09 Jan 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>CSS vertical writing mode for form control elements</title>
+      <link>https://developer.chrome.com/blog/vertical-form-controls?hl=en</link>
+      <description>Chrome adds another new international CSS feature.</description>
+      <pubDate>Mon, 15 Jan 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Supercharge Web AI model testing: WebGPU, WebGL, and Headless Chrome</title>
       <link>https://developer.chrome.com/blog/supercharge-web-ai-testing?hl=en</link>
       <description>Discover our solutions for how to consistently automate browser testing and improve application performance.</description>
@@ -688,6 +680,12 @@ yourself kicked out of full</description>
       <title>Test Web Bluetooth with Puppeteer</title>
       <link>https://developer.chrome.com/blog/test-web-bluetooth-with-puppeteer?hl=en</link>
       <description>Use Puppeteer to test features that use the Web Bluetooth API in Chrome.</description>
+      <pubDate>Wed, 17 Jan 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Safely accessing the DOM with Angular SSR</title>
+      <link>https://developer.chrome.com/blog/angular-dom-safety-ssr?hl=en</link>
+      <description>Learn how to safely use the DOM together with SSR in Angular</description>
       <pubDate>Wed, 17 Jan 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
@@ -707,12 +705,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/new-in-chrome-121?hl=en</link>
       <description>Chrome 121 is rolling out now! With CSS updates, improvements to the Speculation Rules API, an origin trial for Element Capture API and there's plenty more. Adriana Jara has all the details about what's new for developers in Chrome 121.</description>
       <pubDate>Tue, 23 Jan 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chrome 122 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-122-beta?hl=en</link>
-      <description>Chrome 122 beta brings you Iterator helpers, set methods, the Storage Buckets API, read unsanitized HTML in the Async Clipboard API, and more.</description>
-      <pubDate>Wed, 24 Jan 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The deprecation trial for SharedArrayBuffer on desktop Chrome is extended to Chrome 124</title>
@@ -745,6 +737,12 @@ yourself kicked out of full</description>
       <pubDate>Fri, 02 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Chromium Issue Tracker migration beginning Feb 2, 2024 at 5pm PST</title>
+      <link>https://developer.chrome.com/blog/chromium-issue-tracker-migration-2024?hl=en</link>
+      <description>The Chromium Issue Tracker migration begins today.</description>
+      <pubDate>Fri, 02 Feb 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Chromium Issue Tracker migration is complete</title>
       <link>https://developer.chrome.com/blog/chromium-issue-tracker-migration-complete?hl=en</link>
       <description>Chromium issue tracking is now migrated.</description>
@@ -773,6 +771,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/chrome-for-developers-china?hl=en</link>
       <description>We are publishing our sites on a .cn domain to make them easier to access in China.</description>
       <pubDate>Mon, 19 Feb 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New in Chrome 122</title>
+      <link>https://developer.chrome.com/blog/new-in-chrome-122?hl=en</link>
+      <description>Chrome 122 is rolling out now! With the new Storage Buckets API, DevTools Performance panel updates, unsanitized option to read HTML with the Async Clipboard API and there's plenty more. Adriana Jara has all the details about what's new for developers in Chrome 122.</description>
+      <pubDate>Tue, 20 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome 123 beta</title>
@@ -838,12 +842,6 @@ yourself kicked out of full</description>
       <title>Hide extension requests plus more Network panel improvements</title>
       <link>https://developer.chrome.com/blog/network-panel-improvements?hl=en</link>
       <description>Explore the latest improvements in Chrome DevTools Network panel, designed to simplify your web debugging experience.</description>
-      <pubDate>Thu, 14 Mar 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Performance tooling in 2024 and beyond</title>
-      <link>https://developer.chrome.com/blog/perf-tooling-2024?hl=en</link>
-      <description>Learn about the Chrome team's plans to improve the Performance panel of DevTools.</description>
       <pubDate>Thu, 14 Mar 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
