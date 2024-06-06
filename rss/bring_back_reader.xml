@@ -6,20 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Jun 2024 07:15:48 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Jun 2024 07:15:48 +0000</pubDate>
-    <item>
-      <title>CSS update Media Query</title>
-      <link>https://developer.chrome.com/blog/css-update-media-query?hl=en</link>
-      <description>Adapt your UI to the screen's refresh rate capabilities.</description>
-      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Improved video calling with faster AV1 encoding</title>
-      <link>https://developer.chrome.com/blog/av1?hl=en</link>
-      <description>Chrome 113 includes improvements to the AV1 software encoder from the Chrome Open Media team.</description>
-      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jun 2024 08:16:34 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Jun 2024 08:16:34 +0000</pubDate>
     <item>
       <title>Blur camera background</title>
       <link>https://developer.chrome.com/blog/background-blur?hl=en</link>
@@ -180,6 +168,12 @@
       <title>What's New in WebGPU (Chrome 114)</title>
       <link>https://developer.chrome.com/blog/new-in-webgpu-114?hl=en</link>
       <description>JavaScript optimization and more.</description>
+      <pubDate>Wed, 31 May 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mutation events will be removed from Chrome</title>
+      <link>https://developer.chrome.com/blog/mutation-events-deprecation?hl=en</link>
+      <description>Announcing the deprecation and planned removal of mutation events, and sharing how you can migrate your code before the removal in July 2024.</description>
       <pubDate>Wed, 31 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
@@ -431,12 +425,6 @@ yourself kicked out of full</description>
       <pubDate>Mon, 09 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>API Improvements for working with files in the browser</title>
-      <link>https://developer.chrome.com/blog/new-dev-trial-for-multiple-readers-and-writers?hl=en</link>
-      <description>Support for multiple readers and writers for FileSystemSyncAccessHandle and exclusive writer for FileSystemWritableFileStream. The origin private file system (sometimes also referred to as the bucket file system) allows developers to access files</description>
-      <pubDate>Mon, 09 Oct 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>What's New in DevTools (Chrome 119)</title>
       <link>https://developer.chrome.com/blog/new-in-devtools-119?hl=en</link>
       <description>Improved @property section in Styles, updated devices list, enhanced pretty-printing in Sources and autocompletion in the Console.</description>
@@ -479,6 +467,12 @@ yourself kicked out of full</description>
       <pubDate>Tue, 17 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>CSS text-wrap: pretty</title>
+      <link>https://developer.chrome.com/blog/css-text-wrap-pretty?hl=en</link>
+      <description>Opt-in optimized text wrapping, for beauty over speed.</description>
+      <pubDate>Mon, 23 Oct 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Select element: now with horizontal rules</title>
       <link>https://developer.chrome.com/blog/hr-in-select?hl=en</link>
       <description>Learn how expanded select element capabilities enable visual horizontal breaks for better grouping.</description>
@@ -495,12 +489,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/css-prefers-reduced-transparency?hl=en</link>
       <description>Optimize and adjust for users who prefer an opaque UI.</description>
       <pubDate>Wed, 25 Oct 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New in Chrome 119</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-119?hl=en</link>
-      <description>Chrome 119 is rolling out now! With an update to the expiration date upper limit for cookies already in storage. CSS has new pseudo classes, relative color syntax, Fenced Frames improvements like ad size macros, and there’s plenty more.</description>
-      <pubDate>Tue, 31 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WebAssembly Garbage Collection (WasmGC) now enabled by default in Chrome</title>
@@ -980,6 +968,12 @@ especially with</description>
       <pubDate>Mon, 06 May 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>What's New in WebGPU (Chrome 125)</title>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-125?hl=en</link>
+      <description>Subgroups in development and render to slice of 3D texture.</description>
+      <pubDate>Tue, 07 May 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Why do CSS and UI capabilities matter for your ecommerce site?</title>
       <link>https://developer.chrome.com/blog/css-ui-ecommerce?hl=en</link>
       <description>Learn how ecommerce sites benefit from implementing the latest CSS and UI features—View Transitions, Scroll-driven animations, Popover API, and more.</description>
@@ -1008,6 +1002,12 @@ especially with</description>
       <link>https://developer.chrome.com/blog/anchor-positioning-api?hl=en</link>
       <description>Position elements relative to each other using the new anchor positioning API.</description>
       <pubDate>Fri, 10 May 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>10 updates from Google I/O 2024: Unlocking the power of AI for every web developer</title>
+      <link>https://developer.chrome.com/blog/web-at-io24?hl=en</link>
+      <description>Discover exciting features from the Google I/O Developer Keynote and sessions.</description>
+      <pubDate>Tue, 14 May 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DevTools Tips: Override and mock network responses</title>
