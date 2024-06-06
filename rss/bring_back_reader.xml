@@ -6,26 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Jun 2024 03:16:17 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Jun 2024 03:16:17 +0000</pubDate>
-    <item>
-      <title>What's New in WebGPU (Chrome 113)</title>
-      <link>https://developer.chrome.com/blog/new-in-webgpu-113?hl=en</link>
-      <description>WebGPU ships in Chrome with WebCodecs integration in origin trial.</description>
-      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DevTools Tips: Source maps in DevTools</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-24?hl=en</link>
-      <description>Use source maps in DevTools to debug your original code instead of deployed.</description>
-      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CSS update Media Query</title>
-      <link>https://developer.chrome.com/blog/css-update-media-query?hl=en</link>
-      <description>Adapt your UI to the screen's refresh rate capabilities.</description>
-      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jun 2024 04:16:21 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Jun 2024 04:16:21 +0000</pubDate>
     <item>
       <title>Improved video calling with faster AV1 encoding</title>
       <link>https://developer.chrome.com/blog/av1?hl=en</link>
@@ -371,6 +353,12 @@ yourself kicked out of full</description>
       <pubDate>Mon, 04 Sep 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>What's New in WebGPU (Chrome 117)</title>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-117?hl=en</link>
+      <description>Unset vertex buffer and bind group, make lost devices appear to function, and more.</description>
+      <pubDate>Tue, 05 Sep 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>New in Chrome 117</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-117?hl=en</link>
       <description>Chrome 117 is rolling out now! With three new CSS features that make it easy to add smooth entry and exit animations, array grouping to compute higher order datasets, devtools makes local overrides easier and there’s plenty more.</description>
@@ -477,6 +465,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/extension-news-october-2023?hl=en</link>
       <description>An overview of the recent changes in Chrome Extensions, plus exciting upcoming extension features developers can look forward to.</description>
       <pubDate>Tue, 17 Oct 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CSS text-wrap: pretty</title>
+      <link>https://developer.chrome.com/blog/css-text-wrap-pretty?hl=en</link>
+      <description>Opt-in optimized text wrapping, for beauty over speed.</description>
+      <pubDate>Mon, 23 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Select element: now with horizontal rules</title>
@@ -590,6 +584,12 @@ yourself kicked out of full</description>
       <title>DevTools Tips: What is DOM? HTML versus DOM</title>
       <link>https://developer.chrome.com/blog/devtools-tips-28?hl=en</link>
       <description>Learn how to debug the DOM with DevTools.</description>
+      <pubDate>Tue, 05 Dec 2023 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Revisiting Chrome's installability criteria</title>
+      <link>https://developer.chrome.com/blog/update-install-criteria?hl=en</link>
+      <description>In the coming months Chrome will be running experiments with the goal of simplifying the app install criteria, to improve developer and user experience. This post shares the changes you can expect, and the reasons we are running these experiments.</description>
       <pubDate>Tue, 05 Dec 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
