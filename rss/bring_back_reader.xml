@@ -6,20 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Jun 2024 16:16:50 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Jun 2024 16:16:50 +0000</pubDate>
-    <item>
-      <title>Blur camera background</title>
-      <link>https://developer.chrome.com/blog/background-blur?hl=en</link>
-      <description>A new origin trial from Chrome that allows web developers to control camera background blur.</description>
-      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New in Chrome 113</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-113?hl=en</link>
-      <description>Chrome 113 is rolling out now! WebGPU is here, it allows high-performance 3D graphics and data-parallel computation on the web, devtools can now override network response headers, First Party Sets, part of the Privacy Sandbox, that allows organizations to declare related sites is starting to roll out, and there's plenty more.</description>
-      <pubDate>Wed, 03 May 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jun 2024 17:15:47 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Jun 2024 17:15:47 +0000</pubDate>
     <item>
       <title>Chrome 114 beta</title>
       <link>https://developer.chrome.com/blog/chrome-114-beta?hl=en</link>
@@ -251,6 +239,12 @@ yourself kicked out of full</description>
       <pubDate>Wed, 19 Jul 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>What's new in Chrome 116 for Extensions</title>
+      <link>https://developer.chrome.com/blog/chrome-116-beta-whats-new-for-extensions?hl=en</link>
+      <description>A summary of important changes in Chrome 116 for Chrome Extension developers.</description>
+      <pubDate>Thu, 20 Jul 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>DevTools Tips: Breakpoints and logpoints</title>
       <link>https://developer.chrome.com/blog/devtools-tips-25?hl=en</link>
       <description>Use breakpoints and logpoints to debug with ease.</description>
@@ -470,6 +464,12 @@ yourself kicked out of full</description>
       <title>CSS text-wrap: pretty</title>
       <link>https://developer.chrome.com/blog/css-text-wrap-pretty?hl=en</link>
       <description>Opt-in optimized text wrapping, for beauty over speed.</description>
+      <pubDate>Mon, 23 Oct 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Select element: now with horizontal rules</title>
+      <link>https://developer.chrome.com/blog/hr-in-select?hl=en</link>
+      <description>Learn how expanded select element capabilities enable visual horizontal breaks for better grouping.</description>
       <pubDate>Mon, 23 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
