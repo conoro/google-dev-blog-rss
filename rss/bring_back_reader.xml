@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Jun 2024 12:17:48 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Jun 2024 12:17:48 +0000</pubDate>
-    <item>
-      <title>Richer UI install available for desktop</title>
-      <link>https://developer.chrome.com/blog/richer-install-ui-desktop?hl=en</link>
-      <description>Mobile devices and app stores have changed how users discover, evaluate, and install software. Web apps now offer a surface for developers to highlight their apps at install time.</description>
-      <pubDate>Thu, 20 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Jun 2024 13:16:46 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Jun 2024 13:16:46 +0000</pubDate>
     <item>
       <title>What's New in WebGPU (Chrome 113)</title>
       <link>https://developer.chrome.com/blog/new-in-webgpu-113?hl=en</link>
@@ -275,12 +269,6 @@ yourself kicked out of full</description>
       <pubDate>Wed, 19 Jul 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>What's new in Chrome 116 for Extensions</title>
-      <link>https://developer.chrome.com/blog/chrome-116-beta-whats-new-for-extensions?hl=en</link>
-      <description>A summary of important changes in Chrome 116 for Chrome Extension developers.</description>
-      <pubDate>Thu, 20 Jul 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>DevTools Tips: Breakpoints and logpoints</title>
       <link>https://developer.chrome.com/blog/devtools-tips-25?hl=en</link>
       <description>Use breakpoints and logpoints to debug with ease.</description>
@@ -291,12 +279,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/one-time-permissions?hl=en</link>
       <description>"Allow this time" is a one-time option for permission grants in Chrome. It will initially be available on desktop only for geolocation, camera, and microphone.</description>
       <pubDate>Tue, 01 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What's New in WebGPU (Chrome 116)</title>
-      <link>https://developer.chrome.com/blog/new-in-webgpu-116?hl=en</link>
-      <description>WebCodecs integration, video playback improvements, and more.</description>
-      <pubDate>Tue, 08 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Secure popup interactions with restrict-properties</title>
@@ -428,6 +410,12 @@ yourself kicked out of full</description>
       <title>What's New in WebGPU (Chrome 118)</title>
       <link>https://developer.chrome.com/blog/new-in-webgpu-118?hl=en</link>
       <description>Extended source support for copyExternalImageToTexture, experimental support for read-write and read-only storage texture, and more.</description>
+      <pubDate>Tue, 03 Oct 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chrome now supports passkeys on iCloud Keychain on macOS</title>
+      <link>https://developer.chrome.com/blog/passkeys-on-icloud-keychain?hl=en</link>
+      <description>Chrome on macOS starts supporting passkeys on iCloud Keychain. This lets users create passkeys on iCloud Keychain and synchronize them across Apple devices.</description>
       <pubDate>Tue, 03 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
@@ -737,6 +725,12 @@ yourself kicked out of full</description>
       <pubDate>Thu, 01 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Introducing a new way to build custom web editing experiences using the EditContext API</title>
+      <link>https://developer.chrome.com/blog/introducing-editcontext-api?hl=en</link>
+      <description>EditContext is a new API launching in Chrome and Edge that helps developers to build advanced text editing features in the browser. Learn more about it in this post!</description>
+      <pubDate>Fri, 02 Feb 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>What's new in DevTools (Chrome 122)</title>
       <link>https://developer.chrome.com/blog/new-in-devtools-122?hl=en</link>
       <description>Third-party cookies phaseout warnings in the Network and Application panels, enhanced debugging in the Network panel, breadcrumbs in the Performance panel, and more.</description>
@@ -783,6 +777,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/new-in-chrome-122?hl=en</link>
       <description>Chrome 122 is rolling out now! With the new Storage Buckets API, DevTools Performance panel updates, unsanitized option to read HTML with the Async Clipboard API and there's plenty more. Adriana Jara has all the details about what's new for developers in Chrome 122.</description>
       <pubDate>Tue, 20 Feb 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chrome 123 beta</title>
+      <link>https://developer.chrome.com/blog/chrome-123-beta?hl=en</link>
+      <description>The CSS light-dark() color function, align-content for blocks, the field-sizing property, and the pagereveal event.</description>
+      <pubDate>Wed, 21 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Support for align-content in block and table layouts</title>
@@ -879,12 +879,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/fetch-later-api-origin-trial?hl=en</link>
       <description>Learn about the fetchLater API—now in an Origin Trial—a new API for requesting a deferred fetch that will complete even if the page is closed.</description>
       <pubDate>Thu, 21 Mar 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WebAssembly JavaScript Promise Integration (JSPI) enters origin trial</title>
-      <link>https://developer.chrome.com/blog/webassembly-jspi-origin-trial?hl=en</link>
-      <description>JavaScript Promise Integration (JSPI) is an API that allows synchronous sequential code compiled to WebAssembly to access asynchronous Web APIs.</description>
-      <pubDate>Fri, 22 Mar 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Goodbye JS Profiler, profiling CPU with the Performance panel</title>
@@ -1013,6 +1007,12 @@ especially with</description>
       <title>10 updates from Google I/O 2024: Unlocking the power of AI for every web developer</title>
       <link>https://developer.chrome.com/blog/web-at-io24?hl=en</link>
       <description>Discover exciting features from the Google I/O Developer Keynote and sessions.</description>
+      <pubDate>Tue, 14 May 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DevTools Tips: Override and mock network responses</title>
+      <link>https://developer.chrome.com/blog/devtools-tips-34?hl=en</link>
+      <description>Learn how you can override and mock network responses with DevTools.</description>
       <pubDate>Tue, 14 May 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
