@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Jun 2024 02:27:15 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Jun 2024 02:27:15 +0000</pubDate>
-    <item>
-      <title>Blur camera background</title>
-      <link>https://developer.chrome.com/blog/background-blur?hl=en</link>
-      <description>A new origin trial from Chrome that allows web developers to control camera background blur.</description>
-      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Jun 2024 03:16:18 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Jun 2024 03:16:18 +0000</pubDate>
     <item>
       <title>New in Chrome 113</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-113?hl=en</link>
@@ -641,12 +635,6 @@ yourself kicked out of full</description>
       <pubDate>Mon, 18 Dec 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>DevTools Tips: Debugging fetch priority</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-30?hl=en</link>
-      <description>Learn how to debug fetch priority.</description>
-      <pubDate>Thu, 04 Jan 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>DevTools Tips: Authoring colors</title>
       <link>https://developer.chrome.com/blog/devtools-tips-03?hl=en</link>
       <description>Learn how to author colors in a few clicks.</description>
@@ -728,6 +716,12 @@ yourself kicked out of full</description>
       <title>Introducing a new way to build custom web editing experiences using the EditContext API</title>
       <link>https://developer.chrome.com/blog/introducing-editcontext-api?hl=en</link>
       <description>EditContext is a new API launching in Chrome and Edge that helps developers to build advanced text editing features in the browser. Learn more about it in this post!</description>
+      <pubDate>Fri, 02 Feb 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's new in DevTools (Chrome 122)</title>
+      <link>https://developer.chrome.com/blog/new-in-devtools-122?hl=en</link>
+      <description>Third-party cookies phaseout warnings in the Network and Application panels, enhanced debugging in the Network panel, breadcrumbs in the Performance panel, and more.</description>
       <pubDate>Fri, 02 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
@@ -977,6 +971,12 @@ especially with</description>
       <title>What's New in WebGPU (Chrome 125)</title>
       <link>https://developer.chrome.com/blog/new-in-webgpu-125?hl=en</link>
       <description>Subgroups in development and render to slice of 3D texture.</description>
+      <pubDate>Tue, 07 May 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why do CSS and UI capabilities matter for your ecommerce site?</title>
+      <link>https://developer.chrome.com/blog/css-ui-ecommerce?hl=en</link>
+      <description>Learn how ecommerce sites benefit from implementing the latest CSS and UI features—View Transitions, Scroll-driven animations, Popover API, and more.</description>
       <pubDate>Tue, 07 May 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
