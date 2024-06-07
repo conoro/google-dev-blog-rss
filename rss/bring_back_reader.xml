@@ -6,8 +6,20 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Jun 2024 03:16:18 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Jun 2024 03:16:18 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Jun 2024 04:16:32 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Jun 2024 04:16:32 +0000</pubDate>
+    <item>
+      <title>Improved video calling with faster AV1 encoding</title>
+      <link>https://developer.chrome.com/blog/av1?hl=en</link>
+      <description>Chrome 113 includes improvements to the AV1 software encoder from the Chrome Open Media team.</description>
+      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blur camera background</title>
+      <link>https://developer.chrome.com/blog/background-blur?hl=en</link>
+      <description>A new origin trial from Chrome that allows web developers to control camera background blur.</description>
+      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>New in Chrome 113</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-113?hl=en</link>
@@ -67,12 +79,6 @@
       <link>https://developer.chrome.com/blog/whats-new-in-web-on-android-io2023?hl=en</link>
       <description>Updates to tools that bring the web to Android. Privacy enhancements and better support for large screens in WebView, partial custom tabs in Custom Tabs, easier installation and integrated features for PWA, Play Store billing management for TWA and more.</description>
       <pubDate>Wed, 10 May 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What's new in CSS and UI: I/O 2023 Edition</title>
-      <link>https://developer.chrome.com/blog/whats-new-css-ui-2023?hl=en</link>
-      <description>The top 20 CSS and UI features highlighted at Google I/O 2023 that you don't want to miss.</description>
-      <pubDate>Thu, 11 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Web SQL deprecation timeline updated</title>
@@ -267,12 +273,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/new-in-webgpu-116?hl=en</link>
       <description>WebCodecs integration, video playback improvements, and more.</description>
       <pubDate>Tue, 08 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Secure popup interactions with restrict-properties</title>
-      <link>https://developer.chrome.com/blog/coop-restrict-properties?hl=en</link>
-      <description>Get cross-origin isolation and cross-site leaks protection while interacting with popups.</description>
-      <pubDate>Wed, 09 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New in Chrome 116</title>
