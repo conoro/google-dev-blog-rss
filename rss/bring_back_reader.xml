@@ -6,20 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Jun 2024 00:26:55 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Jun 2024 00:26:55 +0000</pubDate>
-    <item>
-      <title>CSS update Media Query</title>
-      <link>https://developer.chrome.com/blog/css-update-media-query?hl=en</link>
-      <description>Adapt your UI to the screen's refresh rate capabilities.</description>
-      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Improved video calling with faster AV1 encoding</title>
-      <link>https://developer.chrome.com/blog/av1?hl=en</link>
-      <description>Chrome 113 includes improvements to the AV1 software encoder from the Chrome Open Media team.</description>
-      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Jun 2024 01:38:33 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Jun 2024 01:38:33 +0000</pubDate>
     <item>
       <title>Blur camera background</title>
       <link>https://developer.chrome.com/blog/background-blur?hl=en</link>
@@ -103,6 +91,12 @@
       <link>https://developer.chrome.com/blog/storage-buckets-origin-trial?hl=en</link>
       <description>The Storage Standard defines an API for persistent storage and quota estimates, and the platform storage architecture. We're experimenting with an API for making persistent storage eviction under heavy memory pressure more predictable. Try the Storage Buckets API in an origin trial that runs from Chrome 115 to Chrome 118.</description>
       <pubDate>Mon, 15 May 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How the 3D model editor Blockbench uses the EyeDropper API to let users choose colors from everywhere</title>
+      <link>https://developer.chrome.com/blog/how-blockbench-uses-the-eyedropper-api?hl=en</link>
+      <description>The EyeDropper API provides a mechanism for creating an eyedropper tool that lets users sample colors from their screens, including outside of the browser window. Learn how the 3D model editor Blockbench uses this API in their codebase. (This article</description>
+      <pubDate>Wed, 17 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's New with Aurora?</title>
@@ -527,6 +521,12 @@ yourself kicked out of full</description>
       <pubDate>Thu, 02 Nov 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>A change to the default durability mode in IndexedDB</title>
+      <link>https://developer.chrome.com/blog/indexeddb-durability-mode-now-defaults-to-relaxed?hl=en</link>
+      <description>The durability mode in IndexedDB is changing from strict to relaxed from Chrome 121.</description>
+      <pubDate>Fri, 03 Nov 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>What's new in DevTools (Chrome 120)</title>
       <link>https://developer.chrome.com/blog/new-in-devtools-120?hl=en</link>
       <description>Third-party cookie phaseout issues reported in the Issues panel, Privacy Sandbox Analysis Tool for cookies, effective Content Security Policy in the Applications panel, improved animations debugging, enhanced ignore listing, and more.</description>
@@ -671,6 +671,12 @@ yourself kicked out of full</description>
       <pubDate>Tue, 16 Jan 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Test Web Bluetooth with Puppeteer</title>
+      <link>https://developer.chrome.com/blog/test-web-bluetooth-with-puppeteer?hl=en</link>
+      <description>Use Puppeteer to test features that use the Web Bluetooth API in Chrome.</description>
+      <pubDate>Wed, 17 Jan 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Safely accessing the DOM with Angular SSR</title>
       <link>https://developer.chrome.com/blog/angular-dom-safety-ssr?hl=en</link>
       <description>Learn how to safely use the DOM together with SSR in Angular</description>
@@ -722,12 +728,6 @@ yourself kicked out of full</description>
       <title>Introducing a new way to build custom web editing experiences using the EditContext API</title>
       <link>https://developer.chrome.com/blog/introducing-editcontext-api?hl=en</link>
       <description>EditContext is a new API launching in Chrome and Edge that helps developers to build advanced text editing features in the browser. Learn more about it in this post!</description>
-      <pubDate>Fri, 02 Feb 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What's new in DevTools (Chrome 122)</title>
-      <link>https://developer.chrome.com/blog/new-in-devtools-122?hl=en</link>
-      <description>Third-party cookies phaseout warnings in the Network and Application panels, enhanced debugging in the Network panel, breadcrumbs in the Performance panel, and more.</description>
       <pubDate>Fri, 02 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
@@ -938,6 +938,12 @@ especially with</description>
       <pubDate>Tue, 16 Apr 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>What's happening in Chrome Extensions?</title>
+      <link>https://developer.chrome.com/blog/extension-news-april-2024?hl=en</link>
+      <description>An overview of the recent changes in Chrome Extensions, plus exciting upcoming extension features developers can look forward to.</description>
+      <pubDate>Tue, 16 Apr 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>New in Chrome 124</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-124?hl=en</link>
       <description>Chrome 124 is rolling out now! There are two new APIs that allow the declarative shadow DOM to be used from JavaScript. You can use streams in Web Sockets. View Transitions get a little better. And there's plenty more. Pete LePage has all the details about what's new for developers in Chrome 124.</description>
@@ -971,12 +977,6 @@ especially with</description>
       <title>What's New in WebGPU (Chrome 125)</title>
       <link>https://developer.chrome.com/blog/new-in-webgpu-125?hl=en</link>
       <description>Subgroups in development and render to slice of 3D texture.</description>
-      <pubDate>Tue, 07 May 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why do CSS and UI capabilities matter for your ecommerce site?</title>
-      <link>https://developer.chrome.com/blog/css-ui-ecommerce?hl=en</link>
-      <description>Learn how ecommerce sites benefit from implementing the latest CSS and UI features—View Transitions, Scroll-driven animations, Popover API, and more.</description>
       <pubDate>Tue, 07 May 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
