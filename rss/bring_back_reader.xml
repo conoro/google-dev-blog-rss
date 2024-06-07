@@ -6,44 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Jun 2024 13:16:46 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Jun 2024 13:16:46 +0000</pubDate>
-    <item>
-      <title>What's New in WebGPU (Chrome 113)</title>
-      <link>https://developer.chrome.com/blog/new-in-webgpu-113?hl=en</link>
-      <description>WebGPU ships in Chrome with WebCodecs integration in origin trial.</description>
-      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DevTools Tips: Source maps in DevTools</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-24?hl=en</link>
-      <description>Use source maps in DevTools to debug your original code instead of deployed.</description>
-      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CSS update Media Query</title>
-      <link>https://developer.chrome.com/blog/css-update-media-query?hl=en</link>
-      <description>Adapt your UI to the screen's refresh rate capabilities.</description>
-      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Improved video calling with faster AV1 encoding</title>
-      <link>https://developer.chrome.com/blog/av1?hl=en</link>
-      <description>Chrome 113 includes improvements to the AV1 software encoder from the Chrome Open Media team.</description>
-      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Blur camera background</title>
-      <link>https://developer.chrome.com/blog/background-blur?hl=en</link>
-      <description>A new origin trial from Chrome that allows web developers to control camera background blur.</description>
-      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New in Chrome 113</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-113?hl=en</link>
-      <description>Chrome 113 is rolling out now! WebGPU is here, it allows high-performance 3D graphics and data-parallel computation on the web, devtools can now override network response headers, First Party Sets, part of the Privacy Sandbox, that allows organizations to declare related sites is starting to roll out, and there's plenty more.</description>
-      <pubDate>Wed, 03 May 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Jun 2024 14:15:54 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Jun 2024 14:15:54 +0000</pubDate>
     <item>
       <title>Chrome 114 beta</title>
       <link>https://developer.chrome.com/blog/chrome-114-beta?hl=en</link>
@@ -139,6 +103,12 @@
       <link>https://developer.chrome.com/blog/devtools-tips-22?hl=en</link>
       <description>Use Workspace to save changes you make in DevTools to local source files.</description>
       <pubDate>Thu, 25 May 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chrome disables modifying document.domain</title>
+      <link>https://developer.chrome.com/blog/document-domain-setter-deprecation?hl=en</link>
+      <description>If your website relies on setting document.domain, your action is required.</description>
+      <pubDate>Tue, 30 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Help test bounce tracking mitigations</title>
@@ -269,6 +239,12 @@ yourself kicked out of full</description>
       <pubDate>Wed, 19 Jul 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>What's new in Chrome 116 for Extensions</title>
+      <link>https://developer.chrome.com/blog/chrome-116-beta-whats-new-for-extensions?hl=en</link>
+      <description>A summary of important changes in Chrome 116 for Chrome Extension developers.</description>
+      <pubDate>Thu, 20 Jul 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>DevTools Tips: Breakpoints and logpoints</title>
       <link>https://developer.chrome.com/blog/devtools-tips-25?hl=en</link>
       <description>Use breakpoints and logpoints to debug with ease.</description>
@@ -279,6 +255,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/one-time-permissions?hl=en</link>
       <description>"Allow this time" is a one-time option for permission grants in Chrome. It will initially be available on desktop only for geolocation, camera, and microphone.</description>
       <pubDate>Tue, 01 Aug 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's New in WebGPU (Chrome 116)</title>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-116?hl=en</link>
+      <description>WebCodecs integration, video playback improvements, and more.</description>
+      <pubDate>Tue, 08 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Secure popup interactions with restrict-properties</title>
@@ -428,6 +410,12 @@ yourself kicked out of full</description>
       <title>New origin trial for fullscreen popup windows</title>
       <link>https://developer.chrome.com/blog/fullscreen-popups-origin-trial?hl=en</link>
       <description>There's now a new origin trial available for opening popup windows in fullscreen mode with just one step.</description>
+      <pubDate>Mon, 09 Oct 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>API Improvements for working with files in the browser</title>
+      <link>https://developer.chrome.com/blog/new-dev-trial-for-multiple-readers-and-writers?hl=en</link>
+      <description>Support for multiple readers and writers for FileSystemSyncAccessHandle and exclusive writer for FileSystemWritableFileStream. The origin private file system (sometimes also referred to as the bucket file system) allows developers to access files</description>
       <pubDate>Mon, 09 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
@@ -857,6 +845,12 @@ yourself kicked out of full</description>
       <pubDate>Mon, 18 Mar 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Private Network Access: Extended protection for web workers and navigation fetches</title>
+      <link>https://developer.chrome.com/blog/private-network-access-update-2024-03?hl=en</link>
+      <description>Learn about Private Network Access's key security mechanisms for web workers, navigation fetches, and upcoming protections. This document also covers what website owners should do if they utilize private networks.</description>
+      <pubDate>Mon, 18 Mar 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>New in Chrome 123</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-123?hl=en</link>
       <description>Chrome 123 is rolling out now! With the new light-dark function, Long Animation Frames API, Service Worker Static Routing API and there's plenty more. Adriana Jara has all the details about what's new for developers in Chrome 123.</description>
@@ -879,6 +873,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/fetch-later-api-origin-trial?hl=en</link>
       <description>Learn about the fetchLater API—now in an Origin Trial—a new API for requesting a deferred fetch that will complete even if the page is closed.</description>
       <pubDate>Thu, 21 Mar 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WebAssembly JavaScript Promise Integration (JSPI) enters origin trial</title>
+      <link>https://developer.chrome.com/blog/webassembly-jspi-origin-trial?hl=en</link>
+      <description>JavaScript Promise Integration (JSPI) is an API that allows synchronous sequential code compiled to WebAssembly to access asynchronous Web APIs.</description>
+      <pubDate>Fri, 22 Mar 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Goodbye JS Profiler, profiling CPU with the Performance panel</title>
