@@ -6,8 +6,20 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Jun 2024 23:16:38 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Jun 2024 23:16:38 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Jun 2024 00:26:55 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Jun 2024 00:26:55 +0000</pubDate>
+    <item>
+      <title>CSS update Media Query</title>
+      <link>https://developer.chrome.com/blog/css-update-media-query?hl=en</link>
+      <description>Adapt your UI to the screen's refresh rate capabilities.</description>
+      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improved video calling with faster AV1 encoding</title>
+      <link>https://developer.chrome.com/blog/av1?hl=en</link>
+      <description>Chrome 113 includes improvements to the AV1 software encoder from the Chrome Open Media team.</description>
+      <pubDate>Tue, 02 May 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Blur camera background</title>
       <link>https://developer.chrome.com/blog/background-blur?hl=en</link>
@@ -91,12 +103,6 @@
       <link>https://developer.chrome.com/blog/storage-buckets-origin-trial?hl=en</link>
       <description>The Storage Standard defines an API for persistent storage and quota estimates, and the platform storage architecture. We're experimenting with an API for making persistent storage eviction under heavy memory pressure more predictable. Try the Storage Buckets API in an origin trial that runs from Chrome 115 to Chrome 118.</description>
       <pubDate>Mon, 15 May 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How the 3D model editor Blockbench uses the EyeDropper API to let users choose colors from everywhere</title>
-      <link>https://developer.chrome.com/blog/how-blockbench-uses-the-eyedropper-api?hl=en</link>
-      <description>The EyeDropper API provides a mechanism for creating an eyedropper tool that lets users sample colors from their screens, including outside of the browser window. Learn how the 3D model editor Blockbench uses this API in their codebase. (This article</description>
-      <pubDate>Wed, 17 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's New with Aurora?</title>
@@ -521,12 +527,6 @@ yourself kicked out of full</description>
       <pubDate>Thu, 02 Nov 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>A change to the default durability mode in IndexedDB</title>
-      <link>https://developer.chrome.com/blog/indexeddb-durability-mode-now-defaults-to-relaxed?hl=en</link>
-      <description>The durability mode in IndexedDB is changing from strict to relaxed from Chrome 121.</description>
-      <pubDate>Fri, 03 Nov 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>What's new in DevTools (Chrome 120)</title>
       <link>https://developer.chrome.com/blog/new-in-devtools-120?hl=en</link>
       <description>Third-party cookie phaseout issues reported in the Issues panel, Privacy Sandbox Analysis Tool for cookies, effective Content Security Policy in the Applications panel, improved animations debugging, enhanced ignore listing, and more.</description>
@@ -542,6 +542,12 @@ yourself kicked out of full</description>
       <title>What’s new in the Angular NgOptimizedImage directive</title>
       <link>https://developer.chrome.com/blog/angular_ngoptimizedimage?hl=en</link>
       <description>Learn about the new features included in the Angular NgOptimizedImage directive that further improve image performance in Angular apps.</description>
+      <pubDate>Wed, 15 Nov 2023 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improving content filtering in Manifest V3</title>
+      <link>https://developer.chrome.com/blog/improvements-to-content-filtering-in-manifest-v3?hl=en</link>
+      <description>Over the past year, we have been actively involved in discussions with the vendors behind several content blocking extensions around ways to improve the MV3 extensions platform. Based on these discussions, many of which took place in the</description>
       <pubDate>Wed, 15 Nov 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
@@ -578,6 +584,12 @@ yourself kicked out of full</description>
       <title>DevTools Tips: Debugging bfcache</title>
       <link>https://developer.chrome.com/blog/devtools-tips-29?hl=en</link>
       <description>Learn how to debug bfcache and make your page load instantly.</description>
+      <pubDate>Tue, 05 Dec 2023 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DevTools Tips: What is DOM? HTML versus DOM</title>
+      <link>https://developer.chrome.com/blog/devtools-tips-28?hl=en</link>
+      <description>Learn how to debug the DOM with DevTools.</description>
       <pubDate>Tue, 05 Dec 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
@@ -657,12 +669,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/supercharge-web-ai-testing?hl=en</link>
       <description>Discover our solutions for how to consistently automate browser testing and improve application performance.</description>
       <pubDate>Tue, 16 Jan 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Test Web Bluetooth with Puppeteer</title>
-      <link>https://developer.chrome.com/blog/test-web-bluetooth-with-puppeteer?hl=en</link>
-      <description>Use Puppeteer to test features that use the Web Bluetooth API in Chrome.</description>
-      <pubDate>Wed, 17 Jan 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Safely accessing the DOM with Angular SSR</title>
@@ -929,12 +935,6 @@ especially with</description>
       <title>Access to MIDI devices now requires user permission</title>
       <link>https://developer.chrome.com/blog/web-midi-permission-prompt?hl=en</link>
       <description>Chrome now gates the entire Web MIDI API behind a permission prompt.</description>
-      <pubDate>Tue, 16 Apr 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What's happening in Chrome Extensions?</title>
-      <link>https://developer.chrome.com/blog/extension-news-april-2024?hl=en</link>
-      <description>An overview of the recent changes in Chrome Extensions, plus exciting upcoming extension features developers can look forward to.</description>
       <pubDate>Tue, 16 Apr 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
