@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Jun 2024 11:15:38 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Jun 2024 11:15:38 +0000</pubDate>
-    <item>
-      <title>Chrome 114 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-114-beta?hl=en</link>
-      <description>CSS headline balancing, CHIPS, the scrollend event, and popover.</description>
-      <pubDate>Wed, 03 May 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Jun 2024 12:17:42 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Jun 2024 12:17:42 +0000</pubDate>
     <item>
       <title>What's New in DevTools (Chrome 114)</title>
       <link>https://developer.chrome.com/blog/new-in-devtools-114?hl=en</link>
@@ -1092,6 +1086,12 @@ especially with</description>
       <link>https://developer.chrome.com/blog/devtools-customization?hl=en</link>
       <description>Learn about the latest features to help you declutter the Performance panel and focus on the information you need most</description>
       <pubDate>Wed, 05 Jun 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The latest in CSS and web UI: I/O 2024 recap</title>
+      <link>https://developer.chrome.com/blog/new-in-web-ui-io-2024?hl=en</link>
+      <description>Read all of the CSS and Web UI announcements from Google I/O 2024.</description>
+      <pubDate>Tue, 11 Jun 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
