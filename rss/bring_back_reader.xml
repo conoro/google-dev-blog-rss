@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Jun 2024 16:16:49 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Jun 2024 16:16:49 +0000</pubDate>
-    <item>
-      <title>What's New in DevTools (Chrome 114)</title>
-      <link>https://developer.chrome.com/blog/new-in-devtools-114?hl=en</link>
-      <description>DevTools enables Settings &amp;gt; Experiments &amp;gt; WebAssembly Debugging: Enable DWARF support by default. For more information, see Debugging WebAssembly with modern tools. This experiment lets you pause execution and debug C and C++ code in Wasm apps,</description>
-      <pubDate>Fri, 05 May 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Jun 2024 17:15:45 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Jun 2024 17:15:45 +0000</pubDate>
     <item>
       <title>Get ready for Google I/O</title>
       <link>https://developer.chrome.com/blog/get-ready-io23?hl=en</link>
@@ -1091,6 +1085,12 @@ especially with</description>
       <title>The latest in CSS and web UI: I/O 2024 recap</title>
       <link>https://developer.chrome.com/blog/new-in-web-ui-io-2024?hl=en</link>
       <description>Read all of the CSS and Web UI announcements from Google I/O 2024.</description>
+      <pubDate>Tue, 11 Jun 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New in Chrome 126</title>
+      <link>https://developer.chrome.com/blog/new-in-chrome-126?hl=en</link>
+      <description>Chrome 126 is rolling out now! With support for cross-document transitions in the ViewTransitions API, the CloseWatcher API re-enabled, trigger-rumbled for the Gamepad API and there's plenty more, and plenty more. Adriana Jara has all the details about what's new for developers in Chrome 126.</description>
       <pubDate>Tue, 11 Jun 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
