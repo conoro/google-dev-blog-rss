@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Jun 2024 16:16:40 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Jun 2024 16:16:40 +0000</pubDate>
-    <item>
-      <title>WebDriver BiDi: 2023 status update</title>
-      <link>https://developer.chrome.com/blog/webdriver-bidi-2023?hl=en</link>
-      <description>This article gives an overview of what’s new in WebDriver BiDi in 2023.</description>
-      <pubDate>Tue, 09 May 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Jun 2024 17:15:25 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Jun 2024 17:15:25 +0000</pubDate>
     <item>
       <title>10 updates at Google I/O</title>
       <link>https://developer.chrome.com/blog/chrome-at-io23?hl=en</link>
@@ -1091,6 +1085,12 @@ especially with</description>
       <title>What's New in WebGPU (Chrome 126)</title>
       <link>https://developer.chrome.com/blog/new-in-webgpu-126?hl=en</link>
       <description>Increase maxTextureArrayLayers limit, buffer upload optimization for Vulkan backend, shader compilation time improvements, submitted command buffers must be unique, and Dawn updates.</description>
+      <pubDate>Wed, 12 Jun 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>An origin trial for a new HTML &lt;permission&gt; element</title>
+      <link>https://developer.chrome.com/blog/permission-element-origin-trial?hl=en</link>
+      <description>An origin trial for a new HTML permission element</description>
       <pubDate>Wed, 12 Jun 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
