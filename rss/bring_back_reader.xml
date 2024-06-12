@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Jun 2024 21:15:43 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Jun 2024 21:15:43 +0000</pubDate>
-    <item>
-      <title>10 updates at Google I/O</title>
-      <link>https://developer.chrome.com/blog/chrome-at-io23?hl=en</link>
-      <description>Learn how we're making it easier for developers to deliver powerful experiences to their users through key updates and new launches that we shared at Google I/O 2023.</description>
-      <pubDate>Wed, 10 May 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Jun 2024 22:15:40 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Jun 2024 22:15:40 +0000</pubDate>
     <item>
       <title>WebGPU: Unlocking modern GPU access in the browser</title>
       <link>https://developer.chrome.com/blog/webgpu-io2023?hl=en</link>
@@ -37,6 +31,12 @@
       <link>https://developer.chrome.com/blog/whats-new-in-web-on-android-io2023?hl=en</link>
       <description>Updates to tools that bring the web to Android. Privacy enhancements and better support for large screens in WebView, partial custom tabs in Custom Tabs, easier installation and integrated features for PWA, Play Store billing management for TWA and more.</description>
       <pubDate>Wed, 10 May 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's new in CSS and UI: I/O 2023 Edition</title>
+      <link>https://developer.chrome.com/blog/whats-new-css-ui-2023?hl=en</link>
+      <description>The top 20 CSS and UI features highlighted at Google I/O 2023 that you don't want to miss.</description>
+      <pubDate>Thu, 11 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Web SQL deprecation timeline updated</title>
