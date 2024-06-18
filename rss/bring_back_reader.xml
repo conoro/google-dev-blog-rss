@@ -6,20 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Jun 2024 09:16:09 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Jun 2024 09:16:09 +0000</pubDate>
-    <item>
-      <title>WebGPU: Unlocking modern GPU access in the browser</title>
-      <link>https://developer.chrome.com/blog/webgpu-io2023?hl=en</link>
-      <description>Learn how WebGPU unlocks the power of the GPU for faster machine learning performance and better graphics rendering.</description>
-      <pubDate>Wed, 10 May 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shared autofill across iframes: an initial proposal</title>
-      <link>https://developer.chrome.com/blog/shared-autofill?hl=en</link>
-      <description>Some forms have fields in iframes, which causes problems for browser autofill. With shared-autofill, the parent frame can designate the trustworthiness of cross-origin iframes, to support a better autofill experience for the user.</description>
-      <pubDate>Wed, 10 May 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Jun 2024 10:16:02 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Jun 2024 10:16:02 +0000</pubDate>
     <item>
       <title>Find form issues with Chrome DevTools</title>
       <link>https://developer.chrome.com/blog/devtools-autofill?hl=en</link>
@@ -267,6 +255,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/new-in-devtools-117?hl=en</link>
       <description>Override XHR/fetch requests and hide extension requests from the Network panel, see changes in fetch priority in the Performance panel, experience multiple UI improvements, check out new colors and experimental features, and more.</description>
       <pubDate>Tue, 22 Aug 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Craft your Chrome Devtools Protocol (CDP) commands efficiently with the new command editor</title>
+      <link>https://developer.chrome.com/blog/cdp-command-editor?hl=en</link>
+      <description>To make it easier to type Chrome Devtools Protocol (CDP) commands, DevTools introduced a new user-friendly editor so that you don't have to use JSON.</description>
+      <pubDate>Thu, 24 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's new in Lighthouse 11</title>
@@ -753,6 +747,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/next-third-parties?hl=en</link>
       <description>Learn how to use the @next/third-parties library to optimize loading of popular third-party resources</description>
       <pubDate>Mon, 26 Feb 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's new in DevTools (Chrome 123)</title>
+      <link>https://developer.chrome.com/blog/new-in-devtools-123?hl=en</link>
+      <description>An Easter egg, focused page emulation in Elements &gt; Styles, new Lighthouse audit, and more.</description>
+      <pubDate>Tue, 27 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome Extensions: eyeo's journey to testing service worker suspension</title>
