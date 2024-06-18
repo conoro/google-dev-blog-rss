@@ -6,8 +6,14 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Jun 2024 08:16:50 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Jun 2024 08:16:50 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Jun 2024 09:16:09 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Jun 2024 09:16:09 +0000</pubDate>
+    <item>
+      <title>WebGPU: Unlocking modern GPU access in the browser</title>
+      <link>https://developer.chrome.com/blog/webgpu-io2023?hl=en</link>
+      <description>Learn how WebGPU unlocks the power of the GPU for faster machine learning performance and better graphics rendering.</description>
+      <pubDate>Wed, 10 May 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Shared autofill across iframes: an initial proposal</title>
       <link>https://developer.chrome.com/blog/shared-autofill?hl=en</link>
@@ -261,12 +267,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/new-in-devtools-117?hl=en</link>
       <description>Override XHR/fetch requests and hide extension requests from the Network panel, see changes in fetch priority in the Performance panel, experience multiple UI improvements, check out new colors and experimental features, and more.</description>
       <pubDate>Tue, 22 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Craft your Chrome Devtools Protocol (CDP) commands efficiently with the new command editor</title>
-      <link>https://developer.chrome.com/blog/cdp-command-editor?hl=en</link>
-      <description>To make it easier to type Chrome Devtools Protocol (CDP) commands, DevTools introduced a new user-friendly editor so that you don't have to use JSON.</description>
-      <pubDate>Thu, 24 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's new in Lighthouse 11</title>
@@ -755,12 +755,6 @@ yourself kicked out of full</description>
       <pubDate>Mon, 26 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>What's new in DevTools (Chrome 123)</title>
-      <link>https://developer.chrome.com/blog/new-in-devtools-123?hl=en</link>
-      <description>An Easter egg, focused page emulation in Elements &gt; Styles, new Lighthouse audit, and more.</description>
-      <pubDate>Tue, 27 Feb 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Chrome Extensions: eyeo's journey to testing service worker suspension</title>
       <link>https://developer.chrome.com/blog/eyeos-journey-to-testing-mv3-service worker-suspension?hl=en</link>
       <description>In this post, the eyeo team shares their journey into the problem of testing extension service workers. In particular, how to to make sure that their Chrome Extensions works correctly when a service worker gets suspended.</description>
@@ -1092,6 +1086,12 @@ especially with</description>
       <link>https://developer.chrome.com/blog/maximum-idb-performance-with-storage-buckets?hl=en</link>
       <description>The Chrome team has made a number of performance-related improvements to the implementation of IndexedDB (IDB).</description>
       <pubDate>Thu, 13 Jun 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Behind the Chrome Web Store: Asking Trust &amp; Safety your questions</title>
+      <link>https://developer.chrome.com/blog/behind-chrome-webstore-interview?hl=en</link>
+      <description>We sat down with the team that leads review in the Chrome Web Store.</description>
+      <pubDate>Tue, 18 Jun 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
