@@ -6,20 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Jun 2024 22:15:49 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Jun 2024 22:15:49 +0000</pubDate>
-    <item>
-      <title>WebGPU: Unlocking modern GPU access in the browser</title>
-      <link>https://developer.chrome.com/blog/webgpu-io2023?hl=en</link>
-      <description>Learn how WebGPU unlocks the power of the GPU for faster machine learning performance and better graphics rendering.</description>
-      <pubDate>Wed, 10 May 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shared autofill across iframes: an initial proposal</title>
-      <link>https://developer.chrome.com/blog/shared-autofill?hl=en</link>
-      <description>Some forms have fields in iframes, which causes problems for browser autofill. With shared-autofill, the parent frame can designate the trustworthiness of cross-origin iframes, to support a better autofill experience for the user.</description>
-      <pubDate>Wed, 10 May 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Jun 2024 23:16:07 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Jun 2024 23:16:07 +0000</pubDate>
     <item>
       <title>Find form issues with Chrome DevTools</title>
       <link>https://developer.chrome.com/blog/devtools-autofill?hl=en</link>
@@ -683,6 +671,12 @@ yourself kicked out of full</description>
       <pubDate>Thu, 01 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Introducing a new way to build custom web editing experiences using the EditContext API</title>
+      <link>https://developer.chrome.com/blog/introducing-editcontext-api?hl=en</link>
+      <description>EditContext is a new API launching in Chrome and Edge that helps developers to build advanced text editing features in the browser. Learn more about it in this post!</description>
+      <pubDate>Fri, 02 Feb 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>What's new in DevTools (Chrome 122)</title>
       <link>https://developer.chrome.com/blog/new-in-devtools-122?hl=en</link>
       <description>Third-party cookies phaseout warnings in the Network and Application panels, enhanced debugging in the Network panel, breadcrumbs in the Performance panel, and more.</description>
@@ -729,6 +723,12 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/new-in-chrome-122?hl=en</link>
       <description>Chrome 122 is rolling out now! With the new Storage Buckets API, DevTools Performance panel updates, unsanitized option to read HTML with the Async Clipboard API and there's plenty more. Adriana Jara has all the details about what's new for developers in Chrome 122.</description>
       <pubDate>Tue, 20 Feb 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chrome 123 beta</title>
+      <link>https://developer.chrome.com/blog/chrome-123-beta?hl=en</link>
+      <description>The CSS light-dark() color function, align-content for blocks, the field-sizing property, and the pagereveal event.</description>
+      <pubDate>Wed, 21 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Support for align-content in block and table layouts</title>
