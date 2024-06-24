@@ -6,8 +6,14 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Jun 2024 21:15:40 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Jun 2024 21:15:40 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Jun 2024 22:15:57 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Jun 2024 22:15:57 +0000</pubDate>
+    <item>
+      <title>Find form issues with Chrome DevTools</title>
+      <link>https://developer.chrome.com/blog/devtools-autofill?hl=en</link>
+      <description>The Chrome DevTools team is building additional new features to help find form issues and debug Autofill. These features are at an early stage of design and implementation, and we need your testing and feedback.</description>
+      <pubDate>Wed, 10 May 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>What’s new for web on Android 2023</title>
       <link>https://developer.chrome.com/blog/whats-new-in-web-on-android-io2023?hl=en</link>
@@ -60,12 +66,6 @@
       <title>Chrome disables modifying document.domain</title>
       <link>https://developer.chrome.com/blog/document-domain-setter-deprecation?hl=en</link>
       <description>If your website relies on setting document.domain, your action is required.</description>
-      <pubDate>Tue, 30 May 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Help test bounce tracking mitigations</title>
-      <link>https://developer.chrome.com/blog/bounce-tracking-mitigations-dev-trial?hl=en</link>
-      <description>We plan to launch mitigations to limit tracking from a particular technique called "bounce tracking" later this year. We would like to invite developers to test this new feature with feature flags and provide feedback.</description>
       <pubDate>Tue, 30 May 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
