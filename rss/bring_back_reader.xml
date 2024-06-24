@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Jun 2024 13:16:17 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Jun 2024 13:16:17 +0000</pubDate>
-    <item>
-      <title>Find form issues with Chrome DevTools</title>
-      <link>https://developer.chrome.com/blog/devtools-autofill?hl=en</link>
-      <description>The Chrome DevTools team is building additional new features to help find form issues and debug Autofill. These features are at an early stage of design and implementation, and we need your testing and feedback.</description>
-      <pubDate>Wed, 10 May 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 24 Jun 2024 14:15:43 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Jun 2024 14:15:43 +0000</pubDate>
     <item>
       <title>What’s new for web on Android 2023</title>
       <link>https://developer.chrome.com/blog/whats-new-in-web-on-android-io2023?hl=en</link>
@@ -1092,6 +1086,12 @@ especially with</description>
       <link>https://developer.chrome.com/blog/behind-chrome-webstore-interview?hl=en</link>
       <description>We sat down with the team that leads review in the Chrome Web Store.</description>
       <pubDate>Tue, 18 Jun 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Long Animation Frame API has now shipped</title>
+      <link>https://developer.chrome.com/blog/loaf-has-shipped?hl=en</link>
+      <description>The Long Animation Frame API (LoAF) has shipped from Chrome 123 and we've now also updated our tooling and guidance to help you make the most of this new API.</description>
+      <pubDate>Mon, 24 Jun 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
