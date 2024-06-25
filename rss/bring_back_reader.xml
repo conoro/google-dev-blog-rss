@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Jun 2024 16:16:37 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Jun 2024 16:16:37 +0000</pubDate>
-    <item>
-      <title>What’s new for web on Android 2023</title>
-      <link>https://developer.chrome.com/blog/whats-new-in-web-on-android-io2023?hl=en</link>
-      <description>Updates to tools that bring the web to Android. Privacy enhancements and better support for large screens in WebView, partial custom tabs in Custom Tabs, easier installation and integrated features for PWA, Play Store billing management for TWA and more.</description>
-      <pubDate>Wed, 10 May 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Jun 2024 17:15:37 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Jun 2024 17:15:37 +0000</pubDate>
     <item>
       <title>What's new in CSS and UI: I/O 2023 Edition</title>
       <link>https://developer.chrome.com/blog/whats-new-css-ui-2023?hl=en</link>
@@ -1086,6 +1080,12 @@ especially with</description>
       <link>https://developer.chrome.com/blog/behind-chrome-webstore-interview?hl=en</link>
       <description>We sat down with the team that leads review in the Chrome Web Store.</description>
       <pubDate>Tue, 18 Jun 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adding Trusted Types to YouTube</title>
+      <link>https://developer.chrome.com/blog/trusted-types-on-youtube?hl=en</link>
+      <description>YouTube is enhancing platform security with Trusted Types to prevent cross-site scripting attacks, but it may impact your extension.</description>
+      <pubDate>Mon, 24 Jun 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Long Animation Frame API has now shipped</title>
