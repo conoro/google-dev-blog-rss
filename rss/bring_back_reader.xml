@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Jul 2024 16:16:40 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Jul 2024 16:16:40 +0000</pubDate>
-    <item>
-      <title>What's new in CSS and UI: I/O 2023 Edition</title>
-      <link>https://developer.chrome.com/blog/whats-new-css-ui-2023?hl=en</link>
-      <description>The top 20 CSS and UI features highlighted at Google I/O 2023 that you don't want to miss.</description>
-      <pubDate>Thu, 11 May 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Jul 2024 17:15:37 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Jul 2024 17:15:37 +0000</pubDate>
     <item>
       <title>Web SQL deprecation timeline updated</title>
       <link>https://developer.chrome.com/blog/web-sql-deprecation-timeline-updated?hl=en</link>
@@ -1092,6 +1086,12 @@ especially with</description>
       <link>https://developer.chrome.com/blog/loaf-has-shipped?hl=en</link>
       <description>The Long Animation Frame API (LoAF) has shipped from Chrome 123 and we've now also updated our tooling and guidance to help you make the most of this new API.</description>
       <pubDate>Mon, 24 Jun 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's new in DevTools, Chrome 127</title>
+      <link>https://developer.chrome.com/blog/new-in-devtools-127?hl=en</link>
+      <description>CSS anchor positioning in Elements, enhanced 'Never Pause Here' in Sources, new scroll snap event listeners, updated network throttling presets, and more.</description>
+      <pubDate>Mon, 01 Jul 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
