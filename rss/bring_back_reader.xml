@@ -6,8 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jul 2024 22:15:49 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Jul 2024 22:15:49 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Jul 2024 23:15:41 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Jul 2024 23:15:41 +0000</pubDate>
     <item>
       <title>Web SQL deprecation timeline updated</title>
       <link>https://developer.chrome.com/blog/web-sql-deprecation-timeline-updated?hl=en</link>
