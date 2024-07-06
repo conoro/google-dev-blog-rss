@@ -6,8 +6,14 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Jul 2024 08:16:38 +0000</lastBuildDate>
-    <pubDate>Sat, 06 Jul 2024 08:16:38 +0000</pubDate>
+    <lastBuildDate>Sat, 06 Jul 2024 09:16:25 +0000</lastBuildDate>
+    <pubDate>Sat, 06 Jul 2024 09:16:25 +0000</pubDate>
+    <item>
+      <title>What's new in CSS and UI: I/O 2023 Edition</title>
+      <link>https://developer.chrome.com/blog/whats-new-css-ui-2023?hl=en</link>
+      <description>The top 20 CSS and UI features highlighted at Google I/O 2023 that you don't want to miss.</description>
+      <pubDate>Thu, 11 May 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Web SQL deprecation timeline updated</title>
       <link>https://developer.chrome.com/blog/web-sql-deprecation-timeline-updated?hl=en</link>
@@ -231,12 +237,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/extension-safety-hub?hl=en</link>
       <description>Starting in Chrome 117, Chrome will proactively highlight to users when an extension they have installed is no longer in the Chrome Web Store.</description>
       <pubDate>Wed, 16 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What's New in DevTools (Chrome 117)</title>
-      <link>https://developer.chrome.com/blog/new-in-devtools-117?hl=en</link>
-      <description>Override XHR/fetch requests and hide extension requests from the Network panel, see changes in fetch priority in the Performance panel, experience multiple UI improvements, check out new colors and experimental features, and more.</description>
-      <pubDate>Tue, 22 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Craft your Chrome Devtools Protocol (CDP) commands efficiently with the new command editor</title>
