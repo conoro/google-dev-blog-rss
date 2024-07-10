@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Jul 2024 17:15:20 +0000</lastBuildDate>
-    <pubDate>Wed, 10 Jul 2024 17:15:20 +0000</pubDate>
-    <item>
-      <title>Storage Buckets origin trial available</title>
-      <link>https://developer.chrome.com/blog/storage-buckets-origin-trial?hl=en</link>
-      <description>The Storage Standard defines an API for persistent storage and quota estimates, and the platform storage architecture. We're experimenting with an API for making persistent storage eviction under heavy memory pressure more predictable. Try the Storage Buckets API in an origin trial that runs from Chrome 115 to Chrome 118.</description>
-      <pubDate>Mon, 15 May 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 Jul 2024 18:17:10 +0000</lastBuildDate>
+    <pubDate>Wed, 10 Jul 2024 18:17:10 +0000</pubDate>
     <item>
       <title>How the 3D model editor Blockbench uses the EyeDropper API to let users choose colors from everywhere</title>
       <link>https://developer.chrome.com/blog/how-blockbench-uses-the-eyedropper-api?hl=en</link>
@@ -1091,6 +1085,12 @@ especially with</description>
       <title>What's happening in Chrome Extensions?</title>
       <link>https://developer.chrome.com/blog/extension-news-july-2024?hl=en</link>
       <description>An overview of the recent changes in Chrome Extensions, plus exciting upcoming extension features developers can look forward to.</description>
+      <pubDate>Wed, 10 Jul 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chrome Extensions: Important policy updates</title>
+      <link>https://developer.chrome.com/blog/cws-policy-updates-2024?hl=en</link>
+      <description>This announcement includes a series of updates to Developer Program Policies page designed to encourage the development of high quality products, prevent deceptive behavior, and ensure informed user consent.</description>
       <pubDate>Wed, 10 Jul 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
