@@ -6,8 +6,20 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Jul 2024 00:27:34 +0000</lastBuildDate>
-    <pubDate>Sat, 13 Jul 2024 00:27:34 +0000</pubDate>
+    <lastBuildDate>Sat, 13 Jul 2024 01:39:24 +0000</lastBuildDate>
+    <pubDate>Sat, 13 Jul 2024 01:39:24 +0000</pubDate>
+    <item>
+      <title>Storage Buckets origin trial available</title>
+      <link>https://developer.chrome.com/blog/storage-buckets-origin-trial?hl=en</link>
+      <description>The Storage Standard defines an API for persistent storage and quota estimates, and the platform storage architecture. We're experimenting with an API for making persistent storage eviction under heavy memory pressure more predictable. Try the Storage Buckets API in an origin trial that runs from Chrome 115 to Chrome 118.</description>
+      <pubDate>Mon, 15 May 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How the 3D model editor Blockbench uses the EyeDropper API to let users choose colors from everywhere</title>
+      <link>https://developer.chrome.com/blog/how-blockbench-uses-the-eyedropper-api?hl=en</link>
+      <description>The EyeDropper API provides a mechanism for creating an eyedropper tool that lets users sample colors from their screens, including outside of the browser window. Learn how the 3D model editor Blockbench uses this API in their codebase. (This article</description>
+      <pubDate>Wed, 17 May 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>What's New with Aurora?</title>
       <link>https://developer.chrome.com/blog/aurora-update-2023?hl=en</link>
@@ -332,12 +344,6 @@ yourself kicked out of full</description>
       <title>New origin trial for fullscreen popup windows</title>
       <link>https://developer.chrome.com/blog/fullscreen-popups-origin-trial?hl=en</link>
       <description>There's now a new origin trial available for opening popup windows in fullscreen mode with just one step.</description>
-      <pubDate>Mon, 09 Oct 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>API Improvements for working with files in the browser</title>
-      <link>https://developer.chrome.com/blog/new-dev-trial-for-multiple-readers-and-writers?hl=en</link>
-      <description>Support for multiple readers and writers for FileSystemSyncAccessHandle and exclusive writer for FileSystemWritableFileStream. The origin private file system (sometimes also referred to as the bucket file system) allows developers to access files</description>
       <pubDate>Mon, 09 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1026,12 +1032,6 @@ especially with</description>
       <link>https://developer.chrome.com/blog/new-in-chrome-126?hl=en</link>
       <description>Chrome 126 is rolling out now! With support for cross-document transitions in the ViewTransitions API, the CloseWatcher API re-enabled, trigger-rumbled for the Gamepad API and there's plenty more, and plenty more. Adriana Jara has all the details about what's new for developers in Chrome 126.</description>
       <pubDate>Tue, 11 Jun 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What's New in WebGPU (Chrome 126)</title>
-      <link>https://developer.chrome.com/blog/new-in-webgpu-126?hl=en</link>
-      <description>Increase maxTextureArrayLayers limit, buffer upload optimization for Vulkan backend, shader compilation time improvements, submitted command buffers must be unique, and Dawn updates.</description>
-      <pubDate>Wed, 12 Jun 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>An origin trial for a new HTML &lt;permission&gt; element</title>
