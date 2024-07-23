@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jul 2024 15:16:18 +0000</lastBuildDate>
-    <pubDate>Tue, 23 Jul 2024 15:16:18 +0000</pubDate>
-    <item>
-      <title>DevTools Tips: Workspace</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-22?hl=en</link>
-      <description>Use Workspace to save changes you make in DevTools to local source files.</description>
-      <pubDate>Thu, 25 May 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Jul 2024 16:17:07 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Jul 2024 16:17:07 +0000</pubDate>
     <item>
       <title>Chrome disables modifying document.domain</title>
       <link>https://developer.chrome.com/blog/document-domain-setter-deprecation?hl=en</link>
@@ -1086,6 +1080,12 @@ especially with</description>
       <link>https://developer.chrome.com/blog/reading-flow-display-contents?hl=en</link>
       <description>Help us to make sure reading-flow meets your needs.</description>
       <pubDate>Mon, 22 Jul 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New in Chrome 127</title>
+      <link>https://developer.chrome.com/blog/new-in-chrome-127?hl=en</link>
+      <description>Chrome 127 is rolling out now! With support for font-size-adjust, user activations propagated in the Document Picture-in-Picture API, keyboard focusable scroll containers and there's plenty more. Adriana Jara has all the details about what's new for developers in Chrome 127.</description>
+      <pubDate>Tue, 23 Jul 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's New in WebGPU (Chrome 127)</title>
