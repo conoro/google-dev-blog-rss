@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jul 2024 05:16:11 +0000</lastBuildDate>
-    <pubDate>Tue, 23 Jul 2024 05:16:11 +0000</pubDate>
-    <item>
-      <title>Introducing the popover API</title>
-      <link>https://developer.chrome.com/blog/introducing-popover-api?hl=en</link>
-      <description>Learn how to build tooltips, menus, and more with the new popover API.</description>
-      <pubDate>Tue, 23 May 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Jul 2024 06:16:57 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Jul 2024 06:16:57 +0000</pubDate>
     <item>
       <title>DevTools Tips: Workspace</title>
       <link>https://developer.chrome.com/blog/devtools-tips-22?hl=en</link>
@@ -1092,6 +1086,12 @@ especially with</description>
       <link>https://developer.chrome.com/blog/reading-flow-display-contents?hl=en</link>
       <description>Help us to make sure reading-flow meets your needs.</description>
       <pubDate>Mon, 22 Jul 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's New in WebGPU (Chrome 127)</title>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-127?hl=en</link>
+      <description>Experimental support for OpenGL ES on Android, GPUAdapter info attribute, WebAssembly interop improvements, and more.</description>
+      <pubDate>Tue, 23 Jul 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
