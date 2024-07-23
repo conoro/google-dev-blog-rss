@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jul 2024 16:17:07 +0000</lastBuildDate>
-    <pubDate>Tue, 23 Jul 2024 16:17:07 +0000</pubDate>
-    <item>
-      <title>Chrome disables modifying document.domain</title>
-      <link>https://developer.chrome.com/blog/document-domain-setter-deprecation?hl=en</link>
-      <description>If your website relies on setting document.domain, your action is required.</description>
-      <pubDate>Tue, 30 May 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Jul 2024 17:15:32 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Jul 2024 17:15:32 +0000</pubDate>
     <item>
       <title>Help test bounce tracking mitigations</title>
       <link>https://developer.chrome.com/blog/bounce-tracking-mitigations-dev-trial?hl=en</link>
@@ -1091,6 +1085,14 @@ especially with</description>
       <title>What's New in WebGPU (Chrome 127)</title>
       <link>https://developer.chrome.com/blog/new-in-webgpu-127?hl=en</link>
       <description>Experimental support for OpenGL ES on Android, GPUAdapter info attribute, WebAssembly interop improvements, and more.</description>
+      <pubDate>Tue, 23 Jul 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Chrome helps users install the apps they value</title>
+      <link>https://developer.chrome.com/blog/how_chrome_helps_users_install_the_apps_they_value?hl=en</link>
+      <description>Chrome's internal user research shows that many people value installing web
+apps. There are many benefits such as: There are multiple ways Chrome and web developers can help, including a new
+machine learning promotion feature. This post gives an</description>
       <pubDate>Tue, 23 Jul 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
