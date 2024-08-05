@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Aug 2024 09:16:15 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Aug 2024 09:16:15 +0000</pubDate>
-    <item>
-      <title>What's New in DevTools (Chrome 115)</title>
-      <link>https://developer.chrome.com/blog/new-in-devtools-115?hl=en</link>
-      <description>The Elements panel gets a new subgrid badge for subgrid. This feature is currently experimental in Chrome Canary. To inspect and debug a nested grid that is a subgrid, and therefore inheriting the number and size of tracks from its parent, click the</description>
-      <pubDate>Tue, 30 May 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Aug 2024 10:16:08 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Aug 2024 10:16:08 +0000</pubDate>
     <item>
       <title>New in Chrome 114</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-114?hl=en</link>
@@ -1093,6 +1087,12 @@ machine learning promotion feature. This post gives an</description>
       <title>Automation with WebDriver BiDi now available on BrowserStack</title>
       <link>https://developer.chrome.com/blog/webdriver-bidi-support-in-browserstack?hl=en</link>
       <description>BrowserStack introduces WebDriver BiDi support: Enhance your Selenium Grid tests with event-driven automation.</description>
+      <pubDate>Thu, 01 Aug 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beyond regular expressions: Enhancing CSS value parsing in Chrome DevTools</title>
+      <link>https://developer.chrome.com/blog/devtools-css-value-parsing?hl=en</link>
+      <description>Learn how the DevTools team improved how styles are presented in the Styles tab.</description>
       <pubDate>Thu, 01 Aug 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
