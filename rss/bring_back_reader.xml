@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Aug 2024 12:17:48 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Aug 2024 12:17:48 +0000</pubDate>
-    <item>
-      <title>New in Chrome 114</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-114?hl=en</link>
-      <description>Chrome 114 is rolling out now! Chrome 114 is rolling out now! With text-wrap: balance to improve text layouts, Cookies Having Independent Partitioned State are here, the new Popover API makes popovers easier than ever, and there’s plenty more.</description>
-      <pubDate>Tue, 30 May 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Aug 2024 13:16:43 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Aug 2024 13:16:43 +0000</pubDate>
     <item>
       <title>Chrome 115 beta</title>
       <link>https://developer.chrome.com/blog/chrome-115-beta?hl=en</link>
@@ -1094,6 +1088,12 @@ machine learning promotion feature. This post gives an</description>
       <link>https://developer.chrome.com/blog/devtools-css-value-parsing?hl=en</link>
       <description>Learn how the DevTools team improved how styles are presented in the Styles tab.</description>
       <pubDate>Thu, 01 Aug 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Participate in the Chrome built-in AI experiment</title>
+      <link>https://developer.chrome.com/blog/august2024-built-in-ai?hl=en</link>
+      <description>An update on built-in AI, the Prompt API, and Chrome's AI plans.</description>
+      <pubDate>Mon, 05 Aug 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
