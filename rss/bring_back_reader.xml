@@ -6,8 +6,26 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Aug 2024 04:16:37 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Aug 2024 04:16:37 +0000</pubDate>
+    <lastBuildDate>Fri, 09 Aug 2024 05:15:55 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Aug 2024 05:15:55 +0000</pubDate>
+    <item>
+      <title>Chrome 115 beta</title>
+      <link>https://developer.chrome.com/blog/chrome-115-beta?hl=en</link>
+      <description>Multiple keywords for the CSS display property, WGSLLanguageFeatures for WebGPU, HTTPS upgrades, and more.</description>
+      <pubDate>Wed, 31 May 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Migrate away from data URLs in SVG  element</title>
+      <link>https://developer.chrome.com/blog/migrate-way-from-data-urls-in-svg-use?hl=en</link>
+      <description>Support for data: URLs in SVG element will be removed. We recommend migration to alternatives.</description>
+      <pubDate>Wed, 31 May 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's New in WebGPU (Chrome 114)</title>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-114?hl=en</link>
+      <description>JavaScript optimization and more.</description>
+      <pubDate>Wed, 31 May 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Mutation events will be removed from Chrome</title>
       <link>https://developer.chrome.com/blog/mutation-events-deprecation?hl=en</link>
@@ -45,12 +63,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/devtools-tips-21?hl=en</link>
       <description>Use Application &gt; Local Storage and Session Storage to debug key-value pairs.</description>
       <pubDate>Thu, 29 Jun 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WebRTC: Legacy getStats() migration guide</title>
-      <link>https://developer.chrome.com/blog/getstats-migration?hl=en</link>
-      <description>Learn how to use Safari Web Inspector debugging for Chrome on iOS.</description>
-      <pubDate>Fri, 30 Jun 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DevTools Tips: Record and replay user flows with the Recorder</title>
@@ -353,12 +365,6 @@ yourself kicked out of full</description>
       <pubDate>Wed, 01 Nov 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>What's new in Chrome 120 for Extensions</title>
-      <link>https://developer.chrome.com/blog/chrome-120-beta-whats-new-for-extensions?hl=en</link>
-      <description>A summary of important changes in Chrome 120 for Chrome Extension developers.</description>
-      <pubDate>Thu, 02 Nov 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>A change to the default durability mode in IndexedDB</title>
       <link>https://developer.chrome.com/blog/indexeddb-durability-mode-now-defaults-to-relaxed?hl=en</link>
       <description>The durability mode in IndexedDB is changing from strict to relaxed from Chrome 121.</description>
@@ -399,12 +405,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/resuming-the-transition-to-mv3?hl=en</link>
       <description>In December of last year, we paused the planned deprecation of Manifest V2 in order to address developer feedback and deliver better solutions to migration issues. As a result of this feedback, we’ve made a number of changes to Manifest V3 to close</description>
       <pubDate>Thu, 16 Nov 2023 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing four new international features in CSS</title>
-      <link>https://developer.chrome.com/blog/css-i18n-features?hl=en</link>
-      <description>Chrome is adding four new international CSS features.</description>
-      <pubDate>Mon, 04 Dec 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New in Chrome 120</title>
