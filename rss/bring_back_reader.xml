@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Aug 2024 14:15:32 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Aug 2024 14:15:32 +0000</pubDate>
-    <item>
-      <title>Mutation events will be removed from Chrome</title>
-      <link>https://developer.chrome.com/blog/mutation-events-deprecation?hl=en</link>
-      <description>Announcing the deprecation and planned removal of mutation events, and sharing how you can migrate your code before the removal in July 2024.</description>
-      <pubDate>Wed, 31 May 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Aug 2024 15:16:05 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Aug 2024 15:16:05 +0000</pubDate>
     <item>
       <title>Chrome for Testing: reliable downloads for browser automation</title>
       <link>https://developer.chrome.com/blog/chrome-for-testing?hl=en</link>
@@ -692,6 +686,12 @@ yourself kicked out of full</description>
       <title>Use the Service Worker Static Routing API to bypass the service worker for specific paths</title>
       <link>https://developer.chrome.com/blog/service-worker-static-routing?hl=en</link>
       <description>Find out how to use this new API, available from Chrome 123.</description>
+      <pubDate>Mon, 18 Mar 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Private Network Access: Extended protection for web workers and navigation fetches</title>
+      <link>https://developer.chrome.com/blog/private-network-access-update-2024-03?hl=en</link>
+      <description>Learn about Private Network Access's key security mechanisms for web workers, navigation fetches, and upcoming protections. This document also covers what website owners should do if they utilize private networks.</description>
       <pubDate>Mon, 18 Mar 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
