@@ -6,8 +6,14 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Aug 2024 07:16:04 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Aug 2024 07:16:04 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Aug 2024 08:16:52 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Aug 2024 08:16:52 +0000</pubDate>
+    <item>
+      <title>Chrome for Testing: reliable downloads for browser automation</title>
+      <link>https://developer.chrome.com/blog/chrome-for-testing?hl=en</link>
+      <description>Chrome for Testing is a new Chrome flavor that specifically targets web app testing and automation use cases.</description>
+      <pubDate>Mon, 12 Jun 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>What's New in WebGPU (Chrome 115)</title>
       <link>https://developer.chrome.com/blog/new-in-webgpu-115?hl=en</link>
@@ -267,12 +273,6 @@ yourself kicked out of full</description>
       <link>https://developer.chrome.com/blog/new-in-chrome-118?hl=en</link>
       <description>Chrome 118 is rolling out now! Declare specific styles within a component with the @scope css rule. Use new media feature: prefers-reduced-transparency. DevTools has improvements in the Sources panel and there's plenty more.</description>
       <pubDate>Tue, 10 Oct 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CSS relative color syntax</title>
-      <link>https://developer.chrome.com/blog/css-relative-color-syntax?hl=en</link>
-      <description>Create new colors based on another color's channels and values.</description>
-      <pubDate>Wed, 11 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Serial over Bluetooth on the web</title>
