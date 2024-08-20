@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Aug 2024 13:16:47 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Aug 2024 13:16:47 +0000</pubDate>
-    <item>
-      <title>What's New in DevTools (Chrome 116)</title>
-      <link>https://developer.chrome.com/blog/new-in-devtools-116?hl=en</link>
-      <description>DevTools gets a number of improvements to help you identify and debug issues with missing stylesheets faster: The Network panel consistently populates the Initiator column with links to the exact line that references a stylesheet that failed to load.</description>
-      <pubDate>Fri, 23 Jun 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Aug 2024 14:15:48 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Aug 2024 14:15:48 +0000</pubDate>
     <item>
       <title>Better full screen mode with the Keyboard Lock API</title>
       <link>https://developer.chrome.com/blog/better-full-screen-mode?hl=en</link>
@@ -1088,6 +1082,12 @@ machine learning promotion feature. This post gives an</description>
       <link>https://developer.chrome.com/blog/august2024-summarization-ai?hl=en</link>
       <description>EPP participants can now prototype with the summarization API for Gemini Nano in Chrome.</description>
       <pubDate>Fri, 16 Aug 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The File System Observer API origin trial</title>
+      <link>https://developer.chrome.com/blog/file-system-observer?hl=en</link>
+      <description>The Chrome team is experimenting with a new File System Observer API that informs developers of changes to the file system.</description>
+      <pubDate>Tue, 20 Aug 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's New in WebGPU (Chrome 128)</title>
