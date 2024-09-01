@@ -6,8 +6,20 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Sep 2024 05:16:11 +0000</lastBuildDate>
-    <pubDate>Sun, 01 Sep 2024 05:16:11 +0000</pubDate>
+    <lastBuildDate>Sun, 01 Sep 2024 06:17:06 +0000</lastBuildDate>
+    <pubDate>Sun, 01 Sep 2024 06:17:06 +0000</pubDate>
+    <item>
+      <title>What's happening in Chrome Extensions?</title>
+      <link>https://developer.chrome.com/blog/extension-news-july-2023?hl=en</link>
+      <description>An overview of the changes so far this year in Chrome Extensions, plus exciting upcoming extension features developers can look forward to.</description>
+      <pubDate>Thu, 13 Jul 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New in Chrome 115</title>
+      <link>https://developer.chrome.com/blog/new-in-chrome-115?hl=en</link>
+      <description>Use ScrollTimeline and ViewTimeline to create scroll-driven animations that enhance user experience. Fenced frames work along other Privacy Sandbox APIs to embed relevant content while preventing unnecessary context sharing. With the Topics API the browser can share information with third parties about a user's interests while preserving privacy and there’s plenty more.</description>
+      <pubDate>Thu, 13 Jul 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Debugging websites in Chrome on iOS 16.4+</title>
       <link>https://developer.chrome.com/blog/debugging-chrome-on-ios?hl=en</link>
@@ -43,12 +55,6 @@
       <link>https://developer.chrome.com/blog/new-in-webgpu-116?hl=en</link>
       <description>WebCodecs integration, video playback improvements, and more.</description>
       <pubDate>Tue, 08 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Secure popup interactions with restrict-properties</title>
-      <link>https://developer.chrome.com/blog/coop-restrict-properties?hl=en</link>
-      <description>Get cross-origin isolation and cross-site leaks protection while interacting with popups.</description>
-      <pubDate>Wed, 09 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New in Chrome 116</title>
@@ -1014,12 +1020,6 @@ machine learning promotion feature. This post gives an</description>
       <link>https://developer.chrome.com/blog/august2024-built-in-ai?hl=en</link>
       <description>An update on built-in AI, the Prompt API, and Chrome's AI plans.</description>
       <pubDate>Mon, 05 Aug 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What's new in DevTools, Chrome 128</title>
-      <link>https://developer.chrome.com/blog/new-in-devtools-128?hl=en</link>
-      <description>Console insights go live in Europe, enhanced Network track and API to customize tracks in the Performance panel, and more.</description>
-      <pubDate>Wed, 07 Aug 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WebDriver BiDi production-ready in Firefox, Chrome and Puppeteer</title>
