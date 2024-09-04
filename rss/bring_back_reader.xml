@@ -6,8 +6,20 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Sep 2024 23:16:41 +0000</lastBuildDate>
-    <pubDate>Tue, 03 Sep 2024 23:16:41 +0000</pubDate>
+    <lastBuildDate>Wed, 04 Sep 2024 00:29:36 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Sep 2024 00:29:36 +0000</pubDate>
+    <item>
+      <title>New in Chrome 115</title>
+      <link>https://developer.chrome.com/blog/new-in-chrome-115?hl=en</link>
+      <description>Use ScrollTimeline and ViewTimeline to create scroll-driven animations that enhance user experience. Fenced frames work along other Privacy Sandbox APIs to embed relevant content while preventing unnecessary context sharing. With the Topics API the browser can share information with third parties about a user's interests while preserving privacy and there’s plenty more.</description>
+      <pubDate>Thu, 13 Jul 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Debugging websites in Chrome on iOS 16.4+</title>
+      <link>https://developer.chrome.com/blog/debugging-chrome-on-ios?hl=en</link>
+      <description>Learn how to use Safari Web Inspector debugging for Chrome on iOS.</description>
+      <pubDate>Tue, 18 Jul 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Chrome 116 beta</title>
       <link>https://developer.chrome.com/blog/chrome-116-beta?hl=en</link>
@@ -73,12 +85,6 @@
       <link>https://developer.chrome.com/blog/new-in-devtools-117?hl=en</link>
       <description>Override XHR/fetch requests and hide extension requests from the Network panel, see changes in fetch priority in the Performance panel, experience multiple UI improvements, check out new colors and experimental features, and more.</description>
       <pubDate>Tue, 22 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Craft your Chrome Devtools Protocol (CDP) commands efficiently with the new command editor</title>
-      <link>https://developer.chrome.com/blog/cdp-command-editor?hl=en</link>
-      <description>To make it easier to type Chrome Devtools Protocol (CDP) commands, DevTools introduced a new user-friendly editor so that you don't have to use JSON.</description>
-      <pubDate>Thu, 24 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's new in Lighthouse 11</title>
@@ -565,12 +571,6 @@
       <link>https://developer.chrome.com/blog/next-third-parties?hl=en</link>
       <description>Learn how to use the @next/third-parties library to optimize loading of popular third-party resources</description>
       <pubDate>Mon, 26 Feb 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What's new in DevTools (Chrome 123)</title>
-      <link>https://developer.chrome.com/blog/new-in-devtools-123?hl=en</link>
-      <description>An Easter egg, focused page emulation in Elements &gt; Styles, new Lighthouse audit, and more.</description>
-      <pubDate>Tue, 27 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chrome Extensions: eyeo's journey to testing service worker suspension</title>
@@ -1082,16 +1082,16 @@ machine learning promotion feature. This post gives an</description>
       <pubDate>Wed, 28 Aug 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Introducing the Digital Credentials API origin trial</title>
-      <link>https://developer.chrome.com/blog/digital-credentials-api-origin-trial?hl=en</link>
-      <description>An origin trial for the Digital Credentials API is starting from Chrome 128. Digital Credentials API is a new web platform API that allows websites to selectively request verifiable information about the user through digital credentials such as a driver's license or a national identification card stored in a digital wallet.</description>
-      <pubDate>Fri, 30 Aug 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Introducing hints, Related Origin Requests and JSON serialization for WebAuthn in Chrome</title>
       <link>https://developer.chrome.com/blog/passkeys-updates-chrome-129?hl=en</link>
       <description>WebAuthn on Chrome can now use hints, Related Origin Requests and JSON serialization</description>
       <pubDate>Fri, 30 Aug 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the Digital Credentials API origin trial</title>
+      <link>https://developer.chrome.com/blog/digital-credentials-api-origin-trial?hl=en</link>
+      <description>An origin trial for the Digital Credentials API is starting from Chrome 128. Digital Credentials API is a new web platform API that allows websites to selectively request verifiable information about the user through digital credentials such as a driver's license or a national identification card stored in a digital wallet.</description>
+      <pubDate>Wed, 04 Sep 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
