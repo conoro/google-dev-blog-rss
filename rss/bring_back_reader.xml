@@ -6,8 +6,14 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Sep 2024 20:16:32 +0000</lastBuildDate>
-    <pubDate>Wed, 04 Sep 2024 20:16:32 +0000</pubDate>
+    <lastBuildDate>Wed, 04 Sep 2024 21:16:02 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Sep 2024 21:16:02 +0000</pubDate>
+    <item>
+      <title>Chrome 116 beta</title>
+      <link>https://developer.chrome.com/blog/chrome-116-beta?hl=en</link>
+      <description>CSS motion path, Back/forward cache NotRestoredReason API, Document Picture-in-Picture, and more.</description>
+      <pubDate>Wed, 19 Jul 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>What's new in Chrome 116 for Extensions</title>
       <link>https://developer.chrome.com/blog/chrome-116-beta-whats-new-for-extensions?hl=en</link>
@@ -813,12 +819,6 @@ especially with</description>
       <title>I/O 2024 Web AI wrap up: New models, tools, and APIs for your next web app</title>
       <link>https://developer.chrome.com/blog/io24-web-ai-wrapup?hl=en</link>
       <description>Read a wrap up from Web AI at I/O 2024. Learn about the new models, tools, and APIs for your next web app.</description>
-      <pubDate>Thu, 16 May 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chrome 126 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-126-beta?hl=en</link>
-      <description>Chrome 126 Beta includes cross-document view transitions, along with the Gamepad API trigger-rumble extension, and other features.</description>
       <pubDate>Thu, 16 May 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
