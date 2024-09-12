@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Sep 2024 15:20:12 +0000</lastBuildDate>
-    <pubDate>Thu, 12 Sep 2024 15:20:12 +0000</pubDate>
-    <item>
-      <title>One-time permissions in Chrome</title>
-      <link>https://developer.chrome.com/blog/one-time-permissions?hl=en</link>
-      <description>"Allow this time" is a one-time option for permission grants in Chrome. It will initially be available on desktop only for geolocation, camera, and microphone.</description>
-      <pubDate>Tue, 01 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Sep 2024 16:16:53 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Sep 2024 16:16:53 +0000</pubDate>
     <item>
       <title>What's New in WebGPU (Chrome 116)</title>
       <link>https://developer.chrome.com/blog/new-in-webgpu-116?hl=en</link>
@@ -1092,6 +1086,12 @@ machine learning promotion feature. This post gives an</description>
       <link>https://developer.chrome.com/blog/keyboard-lock-pointer-lock-permission?hl=en</link>
       <description>The Keyboard Lock API lets developers provide an immersive, full screen experience for a variety of use cases, including interactive websites, games, and remote desktop or application streaming. It does so by enabling websites to use all available</description>
       <pubDate>Tue, 10 Sep 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Request for developer feedback: customizable select</title>
+      <link>https://developer.chrome.com/blog/rfc-customizable-select?hl=en</link>
+      <description>An early look at the new customizable select feature.</description>
+      <pubDate>Thu, 12 Sep 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
