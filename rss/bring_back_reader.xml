@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Sep 2024 21:15:42 +0000</lastBuildDate>
-    <pubDate>Sat, 14 Sep 2024 21:15:42 +0000</pubDate>
-    <item>
-      <title>One-time permissions in Chrome</title>
-      <link>https://developer.chrome.com/blog/one-time-permissions?hl=en</link>
-      <description>"Allow this time" is a one-time option for permission grants in Chrome. It will initially be available on desktop only for geolocation, camera, and microphone.</description>
-      <pubDate>Tue, 01 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 14 Sep 2024 22:16:00 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Sep 2024 22:16:00 +0000</pubDate>
     <item>
       <title>What's New in WebGPU (Chrome 116)</title>
       <link>https://developer.chrome.com/blog/new-in-webgpu-116?hl=en</link>
@@ -49,6 +43,12 @@
       <link>https://developer.chrome.com/blog/extension-safety-hub?hl=en</link>
       <description>Starting in Chrome 117, Chrome will proactively highlight to users when an extension they have installed is no longer in the Chrome Web Store.</description>
       <pubDate>Wed, 16 Aug 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's New in DevTools (Chrome 117)</title>
+      <link>https://developer.chrome.com/blog/new-in-devtools-117?hl=en</link>
+      <description>Override XHR/fetch requests and hide extension requests from the Network panel, see changes in fetch priority in the Performance panel, experience multiple UI improvements, check out new colors and experimental features, and more.</description>
+      <pubDate>Tue, 22 Aug 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Craft your Chrome Devtools Protocol (CDP) commands efficiently with the new command editor</title>
