@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Sep 2024 07:16:04 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Sep 2024 07:16:04 +0000</pubDate>
-    <item>
-      <title>What's New in WebGPU (Chrome 116)</title>
-      <link>https://developer.chrome.com/blog/new-in-webgpu-116?hl=en</link>
-      <description>WebCodecs integration, video playback improvements, and more.</description>
-      <pubDate>Tue, 08 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Sep 2024 08:17:04 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Sep 2024 08:17:04 +0000</pubDate>
     <item>
       <title>Secure popup interactions with restrict-properties</title>
       <link>https://developer.chrome.com/blog/coop-restrict-properties?hl=en</link>
@@ -1092,6 +1086,12 @@ machine learning promotion feature. This post gives an</description>
       <link>https://developer.chrome.com/blog/rfc-customizable-select?hl=en</link>
       <description>An early look at the new customizable select feature.</description>
       <pubDate>Thu, 12 Sep 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bluetooth RFCOMM updates in Web Serial</title>
+      <link>https://developer.chrome.com/blog/bluetooth-rfcomm-updates-web-serial?hl=en</link>
+      <description>Learn how to detect when a Bluetooth RFCOMM serial port is available with Web Serial.</description>
+      <pubDate>Mon, 16 Sep 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
