@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Sep 2024 20:16:24 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Sep 2024 20:16:24 +0000</pubDate>
-    <item>
-      <title>What's New in WebGPU (Chrome 116)</title>
-      <link>https://developer.chrome.com/blog/new-in-webgpu-116?hl=en</link>
-      <description>WebCodecs integration, video playback improvements, and more.</description>
-      <pubDate>Tue, 08 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Sep 2024 22:15:54 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Sep 2024 22:15:54 +0000</pubDate>
     <item>
       <title>Secure popup interactions with restrict-properties</title>
       <link>https://developer.chrome.com/blog/coop-restrict-properties?hl=en</link>
@@ -1068,6 +1062,12 @@ machine learning promotion feature. This post gives an</description>
       <link>https://developer.chrome.com/blog/new-in-devtools-129?hl=en</link>
       <description>Search requests in Performance &gt; Network, use test data in address forms with Autofill, export to Puppeteer for Firefox in the Recorder panel, spot performance issues at a glance with observations in the Performance panel, and more.</description>
       <pubDate>Mon, 02 Sep 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the Digital Credentials API origin trial</title>
+      <link>https://developer.chrome.com/blog/digital-credentials-api-origin-trial?hl=en</link>
+      <description>An origin trial for the Digital Credentials API is starting from Chrome 128. Digital Credentials API is a new web platform API that allows websites to selectively request verifiable information about the user through digital credentials such as a driver's license or a national identification card stored in a digital wallet.</description>
+      <pubDate>Wed, 04 Sep 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Anchor positioning syntax changes</title>
