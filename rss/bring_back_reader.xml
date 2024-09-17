@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Sep 2024 17:15:56 +0000</lastBuildDate>
-    <pubDate>Tue, 17 Sep 2024 17:15:56 +0000</pubDate>
-    <item>
-      <title>Bringing Safety check to the chrome://extensions page</title>
-      <link>https://developer.chrome.com/blog/extension-safety-hub?hl=en</link>
-      <description>Starting in Chrome 117, Chrome will proactively highlight to users when an extension they have installed is no longer in the Chrome Web Store.</description>
-      <pubDate>Wed, 16 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Sep 2024 18:17:10 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Sep 2024 18:17:10 +0000</pubDate>
     <item>
       <title>What's New in DevTools (Chrome 117)</title>
       <link>https://developer.chrome.com/blog/new-in-devtools-117?hl=en</link>
@@ -1079,6 +1073,12 @@ machine learning promotion feature. This post gives an</description>
       <title>What's New in WebGPU (Chrome 129)</title>
       <link>https://developer.chrome.com/blog/new-in-webgpu-129?hl=en</link>
       <description>HDR support with canvas tone mapping mode, expanded subgroups support, and more.</description>
+      <pubDate>Tue, 17 Sep 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New in Chrome 129</title>
+      <link>https://developer.chrome.com/blog/new-in-chrome-129?hl=en</link>
+      <description>Chrome 129 is rolling out now! You can yield in long tasks - to improve performance, you can animate elements with intrinsic sizes, there are some changes to anchor positioning syntax, and there's plenty more. Pete LePage has all the details about what's new for developers in Chrome 129.</description>
       <pubDate>Tue, 17 Sep 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
