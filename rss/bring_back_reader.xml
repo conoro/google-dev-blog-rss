@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Sep 2024 16:16:55 +0000</lastBuildDate>
-    <pubDate>Tue, 17 Sep 2024 16:16:55 +0000</pubDate>
-    <item>
-      <title>Four new CSS features for smooth entry and exit animations</title>
-      <link>https://developer.chrome.com/blog/entry-exit-animations?hl=en</link>
-      <description>Learn about new capabilities that enable smooth transitioning of discrete animations and between the top layer</description>
-      <pubDate>Wed, 16 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Sep 2024 17:15:56 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Sep 2024 17:15:56 +0000</pubDate>
     <item>
       <title>Bringing Safety check to the chrome://extensions page</title>
       <link>https://developer.chrome.com/blog/extension-safety-hub?hl=en</link>
@@ -1085,6 +1079,12 @@ machine learning promotion feature. This post gives an</description>
       <title>What's New in WebGPU (Chrome 129)</title>
       <link>https://developer.chrome.com/blog/new-in-webgpu-129?hl=en</link>
       <description>HDR support with canvas tone mapping mode, expanded subgroups support, and more.</description>
+      <pubDate>Tue, 17 Sep 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Monitor your local and real-user Core Web Vitals performance in DevTools</title>
+      <link>https://developer.chrome.com/blog/devtools-realtime-cwv?hl=en</link>
+      <description>The Performance panel in Chrome DevTools features a new way to monitor your local Core Web Vitals performance and compare it against real-user data from the field.</description>
       <pubDate>Tue, 17 Sep 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
