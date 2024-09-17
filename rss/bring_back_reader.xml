@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Sep 2024 10:16:20 +0000</lastBuildDate>
-    <pubDate>Tue, 17 Sep 2024 10:16:20 +0000</pubDate>
-    <item>
-      <title>Chrome 117 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-117-beta?hl=en</link>
-      <description>CSS grid subgrid, entry and exit animation support for CSS, array grouping, iterator helpers, and more.</description>
-      <pubDate>Wed, 16 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Sep 2024 11:15:36 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Sep 2024 11:15:36 +0000</pubDate>
     <item>
       <title>Four new CSS features for smooth entry and exit animations</title>
       <link>https://developer.chrome.com/blog/entry-exit-animations?hl=en</link>
@@ -1068,6 +1062,12 @@ machine learning promotion feature. This post gives an</description>
       <link>https://developer.chrome.com/blog/keyboard-lock-pointer-lock-permission?hl=en</link>
       <description>The Keyboard Lock API lets developers provide an immersive, full screen experience for a variety of use cases, including interactive websites, games, and remote desktop or application streaming. It does so by enabling websites to use all available</description>
       <pubDate>Tue, 10 Sep 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Freeze screen &amp; inspect disappearing elements</title>
+      <link>https://developer.chrome.com/blog/devtools-tips-35?hl=en</link>
+      <description>Freeze elements in the DOM so that you can inspect them with DevTools.</description>
+      <pubDate>Thu, 12 Sep 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Request for developer feedback: customizable select</title>
