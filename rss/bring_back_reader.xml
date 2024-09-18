@@ -6,8 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Sep 2024 19:15:56 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Sep 2024 19:15:56 +0000</pubDate>
+    <lastBuildDate>Wed, 18 Sep 2024 20:16:23 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Sep 2024 20:16:23 +0000</pubDate>
     <item>
       <title>Craft your Chrome Devtools Protocol (CDP) commands efficiently with the new command editor</title>
       <link>https://developer.chrome.com/blog/cdp-command-editor?hl=en</link>
