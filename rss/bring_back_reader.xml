@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Sep 2024 07:16:02 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Sep 2024 07:16:02 +0000</pubDate>
-    <item>
-      <title>Bringing Safety check to the chrome://extensions page</title>
-      <link>https://developer.chrome.com/blog/extension-safety-hub?hl=en</link>
-      <description>Starting in Chrome 117, Chrome will proactively highlight to users when an extension they have installed is no longer in the Chrome Web Store.</description>
-      <pubDate>Wed, 16 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Sep 2024 08:16:48 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Sep 2024 08:16:48 +0000</pubDate>
     <item>
       <title>What's New in DevTools (Chrome 117)</title>
       <link>https://developer.chrome.com/blog/new-in-devtools-117?hl=en</link>
@@ -367,6 +361,12 @@
       <link>https://developer.chrome.com/blog/persistent-permissions-for-the-file-system-access-api?hl=en</link>
       <description>This post explains how persistent permissions for the File System Access API can be managed. It also provides a quick recap of the current state of the problem and the challenges that are being solved.</description>
       <pubDate>Tue, 09 Jan 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CSS vertical writing mode for form control elements</title>
+      <link>https://developer.chrome.com/blog/vertical-form-controls?hl=en</link>
+      <description>Chrome adds another new international CSS feature.</description>
+      <pubDate>Mon, 15 Jan 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Supercharge Web AI model testing: WebGPU, WebGL, and Headless Chrome</title>
