@@ -6,20 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Sep 2024 21:16:06 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Sep 2024 21:16:06 +0000</pubDate>
-    <item>
-      <title>Craft your Chrome Devtools Protocol (CDP) commands efficiently with the new command editor</title>
-      <link>https://developer.chrome.com/blog/cdp-command-editor?hl=en</link>
-      <description>To make it easier to type Chrome Devtools Protocol (CDP) commands, DevTools introduced a new user-friendly editor so that you don't have to use JSON.</description>
-      <pubDate>Thu, 24 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What's new in Lighthouse 11</title>
-      <link>https://developer.chrome.com/blog/lighthouse-11-0?hl=en</link>
-      <description>Lighthouse 11 is here with new accessibility changes and audit updates</description>
-      <pubDate>Thu, 24 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Sep 2024 22:15:58 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Sep 2024 22:15:58 +0000</pubDate>
     <item>
       <title>Introducing the scheduler.yield origin trial</title>
       <link>https://developer.chrome.com/blog/introducing-scheduler-yield-origin-trial?hl=en</link>
@@ -183,6 +171,12 @@
       <pubDate>Mon, 23 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>What's New in WebGPU (Chrome 119)</title>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-119?hl=en</link>
+      <description>Filterable 32-bit float textures, unorm10-10-10-2 vertex format, rgb10a2uint texture format, and more.</description>
+      <pubDate>Tue, 24 Oct 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CSS prefers-reduced-transparency</title>
       <link>https://developer.chrome.com/blog/css-prefers-reduced-transparency?hl=en</link>
       <description>Optimize and adjust for users who prefer an opaque UI.</description>
@@ -343,6 +337,12 @@
       <link>https://developer.chrome.com/blog/devtools-tips-03?hl=en</link>
       <description>Learn how to author colors in a few clicks.</description>
       <pubDate>Mon, 08 Jan 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Persistent permissions for the File System Access API</title>
+      <link>https://developer.chrome.com/blog/persistent-permissions-for-the-file-system-access-api?hl=en</link>
+      <description>This post explains how persistent permissions for the File System Access API can be managed. It also provides a quick recap of the current state of the problem and the challenges that are being solved.</description>
+      <pubDate>Tue, 09 Jan 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CSS vertical writing mode for form control elements</title>
