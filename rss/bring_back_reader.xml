@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Sep 2024 08:17:06 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Sep 2024 08:17:06 +0000</pubDate>
-    <item>
-      <title>Craft your Chrome Devtools Protocol (CDP) commands efficiently with the new command editor</title>
-      <link>https://developer.chrome.com/blog/cdp-command-editor?hl=en</link>
-      <description>To make it easier to type Chrome Devtools Protocol (CDP) commands, DevTools introduced a new user-friendly editor so that you don't have to use JSON.</description>
-      <pubDate>Thu, 24 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Sep 2024 09:16:26 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Sep 2024 09:16:26 +0000</pubDate>
     <item>
       <title>What's new in Lighthouse 11</title>
       <link>https://developer.chrome.com/blog/lighthouse-11-0?hl=en</link>
@@ -1092,6 +1086,12 @@ machine learning promotion feature. This post gives an</description>
       <link>https://developer.chrome.com/blog/chrome-130-beta?hl=en</link>
       <description>Test your site with the features and changes in the latest Chrome beta.</description>
       <pubDate>Wed, 18 Sep 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Feedback needed: How should we define CSS masonry?</title>
+      <link>https://developer.chrome.com/blog/masonry-syntax?hl=en</link>
+      <description>A comparison of the two proposed masonry specifications.</description>
+      <pubDate>Thu, 19 Sep 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
