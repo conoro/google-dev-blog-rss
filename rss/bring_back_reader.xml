@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Sep 2024 23:16:17 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Sep 2024 23:16:17 +0000</pubDate>
-    <item>
-      <title>Introducing the scheduler.yield origin trial</title>
-      <link>https://developer.chrome.com/blog/introducing-scheduler-yield-origin-trial?hl=en</link>
-      <description>`scheduler.yield` is a proposed new addition to the scheduler API currently in origin trial, and is a novel approach to breaking up tasks for more responsive user experiences. Understand the benefits of this proposed addition to the scheduling API, and sign up for the origin trial to help us gain insights and feedback.</description>
-      <pubDate>Tue, 29 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Sep 2024 00:30:32 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Sep 2024 00:30:32 +0000</pubDate>
     <item>
       <title>Faster Chrome releases (round two!)</title>
       <link>https://developer.chrome.com/blog/faster-chrome-releases-round2?hl=en</link>
@@ -1080,6 +1074,12 @@ machine learning promotion feature. This post gives an</description>
       <link>https://developer.chrome.com/blog/chrome-130-beta?hl=en</link>
       <description>Test your site with the features and changes in the latest Chrome beta.</description>
       <pubDate>Wed, 18 Sep 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chrome to sync passkeys on Google Password Manager between macOS, Windows , Linux and Android</title>
+      <link>https://developer.chrome.com/blog/passkeys-gpm-desktop?hl=en</link>
+      <description>Chrome on macOS, Windows and Linux will soon be able to create passkeys in Google Password Manager (GPM) and synchronize them across those platforms in addition to Android.</description>
+      <pubDate>Thu, 19 Sep 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Feedback needed: How should we define CSS masonry?</title>
