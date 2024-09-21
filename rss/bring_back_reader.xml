@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Sep 2024 23:16:00 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Sep 2024 23:16:00 +0000</pubDate>
-    <item>
-      <title>Introducing the scheduler.yield origin trial</title>
-      <link>https://developer.chrome.com/blog/introducing-scheduler-yield-origin-trial?hl=en</link>
-      <description>`scheduler.yield` is a proposed new addition to the scheduler API currently in origin trial, and is a novel approach to breaking up tasks for more responsive user experiences. Understand the benefits of this proposed addition to the scheduling API, and sign up for the origin trial to help us gain insights and feedback.</description>
-      <pubDate>Tue, 29 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Sep 2024 00:29:48 +0000</lastBuildDate>
+    <pubDate>Sat, 21 Sep 2024 00:29:48 +0000</pubDate>
     <item>
       <title>Faster Chrome releases (round two!)</title>
       <link>https://developer.chrome.com/blog/faster-chrome-releases-round2?hl=en</link>
@@ -535,6 +529,12 @@
       <link>https://developer.chrome.com/blog/perf-tooling-2024?hl=en</link>
       <description>Learn about the Chrome team's plans to improve the Performance panel of DevTools.</description>
       <pubDate>Thu, 14 Mar 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Use the Service Worker Static Routing API to bypass the service worker for specific paths</title>
+      <link>https://developer.chrome.com/blog/service-worker-static-routing?hl=en</link>
+      <description>Find out how to use this new API, available from Chrome 123.</description>
+      <pubDate>Mon, 18 Mar 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Private Network Access: Extended protection for web workers and navigation fetches</title>
