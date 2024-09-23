@@ -6,20 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Sep 2024 20:16:45 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Sep 2024 20:16:45 +0000</pubDate>
-    <item>
-      <title>What's new in Lighthouse 11</title>
-      <link>https://developer.chrome.com/blog/lighthouse-11-0?hl=en</link>
-      <description>Lighthouse 11 is here with new accessibility changes and audit updates</description>
-      <pubDate>Thu, 24 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing the scheduler.yield origin trial</title>
-      <link>https://developer.chrome.com/blog/introducing-scheduler-yield-origin-trial?hl=en</link>
-      <description>`scheduler.yield` is a proposed new addition to the scheduler API currently in origin trial, and is a novel approach to breaking up tasks for more responsive user experiences. Understand the benefits of this proposed addition to the scheduling API, and sign up for the origin trial to help us gain insights and feedback.</description>
-      <pubDate>Tue, 29 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Sep 2024 21:15:59 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Sep 2024 21:15:59 +0000</pubDate>
     <item>
       <title>Faster Chrome releases (round two!)</title>
       <link>https://developer.chrome.com/blog/faster-chrome-releases-round2?hl=en</link>
@@ -37,6 +25,12 @@
       <link>https://developer.chrome.com/blog/devtools-tips-26?hl=en</link>
       <description>Use Snippets to run code you frequently use and live expressions to watch values in real time.</description>
       <pubDate>Thu, 31 Aug 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Summer of Code and Chrome Extensions</title>
+      <link>https://developer.chrome.com/blog/google-summer-of-code-and-chrome-extensions?hl=en</link>
+      <description>Experience and advice on participating in Google Summer of Code.</description>
+      <pubDate>Mon, 04 Sep 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's New in WebGPU (Chrome 117)</title>
@@ -565,6 +559,12 @@
       <link>https://developer.chrome.com/blog/keyboard-focusable-scrollers?hl=en</link>
       <description>A change is rolling out to make scrollers without tabindex value set and with no focusable children keyboard focusable.</description>
       <pubDate>Wed, 20 Mar 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The fetchLater API Origin Trial</title>
+      <link>https://developer.chrome.com/blog/fetch-later-api-origin-trial?hl=en</link>
+      <description>Learn about the fetchLater API—now in an Origin Trial—a new API for requesting a deferred fetch that will complete even if the page is closed.</description>
+      <pubDate>Thu, 21 Mar 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WebAssembly JavaScript Promise Integration (JSPI) enters origin trial</title>
