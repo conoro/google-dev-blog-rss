@@ -6,20 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Sep 2024 15:16:30 +0000</lastBuildDate>
-    <pubDate>Tue, 24 Sep 2024 15:16:30 +0000</pubDate>
-    <item>
-      <title>Faster Chrome releases (round two!)</title>
-      <link>https://developer.chrome.com/blog/faster-chrome-releases-round2?hl=en</link>
-      <description>From Chrome 119 we will shorten the time between the branch for a release and release to stable.</description>
-      <pubDate>Wed, 30 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Astro View Transitions</title>
-      <link>https://developer.chrome.com/blog/astro-view-transitions?hl=en</link>
-      <description>Highlight how the Astro community embraced View Transitions when Chrome was shaping up the API and the journey towards landing first-class support for it in Astro + persistent islands.</description>
-      <pubDate>Wed, 30 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Sep 2024 16:17:10 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Sep 2024 16:17:10 +0000</pubDate>
     <item>
       <title>DevTools Tips: Snippets and live expressions</title>
       <link>https://developer.chrome.com/blog/devtools-tips-26?hl=en</link>
@@ -1092,6 +1080,18 @@ machine learning promotion feature. This post gives an</description>
       <link>https://developer.chrome.com/blog/sept2024-writer-ai?hl=en</link>
       <description>EPP participants can now prototype with write and rewrite APIs in Chrome.</description>
       <pubDate>Thu, 19 Sep 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Web Vitals extension, now in DevTools</title>
+      <link>https://developer.chrome.com/blog/web-vitals-extension?hl=en</link>
+      <description>The Web Vitals extension will merge with the Performance panel of Chrome DevTools, ending standalone support in January 2025.</description>
+      <pubDate>Tue, 24 Sep 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sign up for the Language Detection API origin trial</title>
+      <link>https://developer.chrome.com/blog/language-detection-origin-trial?hl=en</link>
+      <description>The Language Detection API is now available in a Chrome origin trial.</description>
+      <pubDate>Tue, 24 Sep 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
