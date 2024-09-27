@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Sep 2024 12:17:53 +0000</lastBuildDate>
-    <pubDate>Fri, 27 Sep 2024 12:17:53 +0000</pubDate>
-    <item>
-      <title>DevTools Tips: Snippets and live expressions</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-26?hl=en</link>
-      <description>Use Snippets to run code you frequently use and live expressions to watch values in real time.</description>
-      <pubDate>Thu, 31 Aug 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Sep 2024 13:18:15 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Sep 2024 13:18:15 +0000</pubDate>
     <item>
       <title>Google Summer of Code and Chrome Extensions</title>
       <link>https://developer.chrome.com/blog/google-summer-of-code-and-chrome-extensions?hl=en</link>
@@ -1092,6 +1086,12 @@ machine learning promotion feature. This post gives an</description>
       <link>https://developer.chrome.com/blog/language-detection-origin-trial?hl=en</link>
       <description>The Language Detection API is now available in a Chrome origin trial.</description>
       <pubDate>Tue, 24 Sep 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Caching Demystified: Inspect, Clear, and Disable Caches</title>
+      <link>https://developer.chrome.com/blog/devtools-tips-36?hl=en</link>
+      <description>Inspect and troubleshoot cache with DevTools.</description>
+      <pubDate>Wed, 25 Sep 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
