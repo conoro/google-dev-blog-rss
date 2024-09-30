@@ -6,8 +6,20 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Sep 2024 23:15:56 +0000</lastBuildDate>
-    <pubDate>Sun, 29 Sep 2024 23:15:56 +0000</pubDate>
+    <lastBuildDate>Mon, 30 Sep 2024 00:32:57 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Sep 2024 00:32:57 +0000</pubDate>
+    <item>
+      <title>Astro View Transitions</title>
+      <link>https://developer.chrome.com/blog/astro-view-transitions?hl=en</link>
+      <description>Highlight how the Astro community embraced View Transitions when Chrome was shaping up the API and the journey towards landing first-class support for it in Astro + persistent islands.</description>
+      <pubDate>Wed, 30 Aug 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DevTools Tips: Snippets and live expressions</title>
+      <link>https://developer.chrome.com/blog/devtools-tips-26?hl=en</link>
+      <description>Use Snippets to run code you frequently use and live expressions to watch values in real time.</description>
+      <pubDate>Thu, 31 Aug 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Google Summer of Code and Chrome Extensions</title>
       <link>https://developer.chrome.com/blog/google-summer-of-code-and-chrome-extensions?hl=en</link>
@@ -333,12 +345,6 @@
       <pubDate>Tue, 16 Jan 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Test Web Bluetooth with Puppeteer</title>
-      <link>https://developer.chrome.com/blog/test-web-bluetooth-with-puppeteer?hl=en</link>
-      <description>Use Puppeteer to test features that use the Web Bluetooth API in Chrome.</description>
-      <pubDate>Wed, 17 Jan 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Safely accessing the DOM with Angular SSR</title>
       <link>https://developer.chrome.com/blog/angular-dom-safety-ssr?hl=en</link>
       <description>Learn how to safely use the DOM together with SSR in Angular</description>
@@ -603,12 +609,6 @@ especially with</description>
       <title>Access to MIDI devices now requires user permission</title>
       <link>https://developer.chrome.com/blog/web-midi-permission-prompt?hl=en</link>
       <description>Chrome now gates the entire Web MIDI API behind a permission prompt.</description>
-      <pubDate>Tue, 16 Apr 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What's happening in Chrome Extensions?</title>
-      <link>https://developer.chrome.com/blog/extension-news-april-2024?hl=en</link>
-      <description>An overview of the recent changes in Chrome Extensions, plus exciting upcoming extension features developers can look forward to.</description>
       <pubDate>Tue, 16 Apr 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
