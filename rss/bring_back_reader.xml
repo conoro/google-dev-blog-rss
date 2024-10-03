@@ -6,8 +6,20 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Oct 2024 22:16:13 +0000</lastBuildDate>
-    <pubDate>Thu, 03 Oct 2024 22:16:13 +0000</pubDate>
+    <lastBuildDate>Thu, 03 Oct 2024 23:16:26 +0000</lastBuildDate>
+    <pubDate>Thu, 03 Oct 2024 23:16:26 +0000</pubDate>
+    <item>
+      <title>What's New in WebGPU (Chrome 117)</title>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-117?hl=en</link>
+      <description>Unset vertex buffer and bind group, make lost devices appear to function, and more.</description>
+      <pubDate>Tue, 05 Sep 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New in Chrome 117</title>
+      <link>https://developer.chrome.com/blog/new-in-chrome-117?hl=en</link>
+      <description>Chrome 117 is rolling out now! With three new CSS features that make it easy to add smooth entry and exit animations, array grouping to compute higher order datasets, devtools makes local overrides easier and there’s plenty more.</description>
+      <pubDate>Tue, 12 Sep 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Chrome 118 beta</title>
       <link>https://developer.chrome.com/blog/chrome-118-beta?hl=en</link>
@@ -315,12 +327,6 @@
       <pubDate>Tue, 16 Jan 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Test Web Bluetooth with Puppeteer</title>
-      <link>https://developer.chrome.com/blog/test-web-bluetooth-with-puppeteer?hl=en</link>
-      <description>Use Puppeteer to test features that use the Web Bluetooth API in Chrome.</description>
-      <pubDate>Wed, 17 Jan 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Safely accessing the DOM with Angular SSR</title>
       <link>https://developer.chrome.com/blog/angular-dom-safety-ssr?hl=en</link>
       <description>Learn how to safely use the DOM together with SSR in Angular</description>
@@ -585,12 +591,6 @@ especially with</description>
       <title>Access to MIDI devices now requires user permission</title>
       <link>https://developer.chrome.com/blog/web-midi-permission-prompt?hl=en</link>
       <description>Chrome now gates the entire Web MIDI API behind a permission prompt.</description>
-      <pubDate>Tue, 16 Apr 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What's happening in Chrome Extensions?</title>
-      <link>https://developer.chrome.com/blog/extension-news-april-2024?hl=en</link>
-      <description>An overview of the recent changes in Chrome Extensions, plus exciting upcoming extension features developers can look forward to.</description>
       <pubDate>Tue, 16 Apr 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
