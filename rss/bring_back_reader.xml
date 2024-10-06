@@ -6,8 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Oct 2024 05:15:59 +0000</lastBuildDate>
-    <pubDate>Sun, 06 Oct 2024 05:15:59 +0000</pubDate>
+    <lastBuildDate>Sun, 06 Oct 2024 06:17:01 +0000</lastBuildDate>
+    <pubDate>Sun, 06 Oct 2024 06:17:01 +0000</pubDate>
     <item>
       <title>Chrome 118 beta</title>
       <link>https://developer.chrome.com/blog/chrome-118-beta?hl=en</link>
