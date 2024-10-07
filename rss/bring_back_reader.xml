@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Oct 2024 15:16:29 +0000</lastBuildDate>
-    <pubDate>Mon, 07 Oct 2024 15:16:29 +0000</pubDate>
-    <item>
-      <title>Chrome 118 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-118-beta?hl=en</link>
-      <description>Scoped styles for CSS, additional media features, keyboard-focusable scroll containers, and more.</description>
-      <pubDate>Wed, 13 Sep 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 07 Oct 2024 16:16:52 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Oct 2024 16:16:52 +0000</pubDate>
     <item>
       <title>What's New in DevTools (Chrome 118)</title>
       <link>https://developer.chrome.com/blog/new-in-devtools-118?hl=en</link>
@@ -1074,6 +1068,12 @@ machine learning promotion feature. This post gives an</description>
       <link>https://developer.chrome.com/blog/devtools-tips-36?hl=en</link>
       <description>Inspect and troubleshoot cache with DevTools.</description>
       <pubDate>Wed, 25 Sep 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improving the Chrome Web Store Developer Dashboard mobile experience</title>
+      <link>https://developer.chrome.com/blog/cws-developer-dashboard-on-mobile?hl=en</link>
+      <description>We're excited to launch a set of UI changes making the Chrome Web Store Developer Dashboard more responsive and mobile-friendly. We hope this gives you a more convenient and accessible experience when monitoring store listing performance, making</description>
+      <pubDate>Mon, 30 Sep 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's new in DevTools, Chrome 130</title>
