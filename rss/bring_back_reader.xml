@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Oct 2024 14:16:29 +0000</lastBuildDate>
-    <pubDate>Tue, 08 Oct 2024 14:16:29 +0000</pubDate>
-    <item>
-      <title>From WebGL to WebGPU</title>
-      <link>https://developer.chrome.com/blog/from-webgl-to-webgpu?hl=en</link>
-      <description>Learn some tips for WebGL developers who are migrating to WebGPU.</description>
-      <pubDate>Tue, 19 Sep 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Oct 2024 15:16:35 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Oct 2024 15:16:35 +0000</pubDate>
     <item>
       <title>We are Chrome for Developers</title>
       <link>https://developer.chrome.com/blog/we-are-chrome-for-developers?hl=en</link>
@@ -1086,6 +1080,12 @@ machine learning promotion feature. This post gives an</description>
       <link>https://developer.chrome.com/blog/devtools-catch-prediction?hl=en</link>
       <description>Learn how the DevTools debugger predicts whether an exception is caught.</description>
       <pubDate>Wed, 02 Oct 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Translation API available for early preview</title>
+      <link>https://developer.chrome.com/blog/translation-api-available-for-early-preview?hl=en</link>
+      <description>The Translation API is now available for built-in AI early preview program participants.</description>
+      <pubDate>Tue, 08 Oct 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Inheritance changes for CSS selection styling</title>
