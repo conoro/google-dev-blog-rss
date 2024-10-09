@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Oct 2024 11:15:54 +0000</lastBuildDate>
-    <pubDate>Wed, 09 Oct 2024 11:15:54 +0000</pubDate>
-    <item>
-      <title>We are Chrome for Developers</title>
-      <link>https://developer.chrome.com/blog/we-are-chrome-for-developers?hl=en</link>
-      <description>Celebrating Chrome's 15th anniversary and our role as a trusted, helpful partner to developers.</description>
-      <pubDate>Wed, 20 Sep 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 09 Oct 2024 12:18:03 +0000</lastBuildDate>
+    <pubDate>Wed, 09 Oct 2024 12:18:03 +0000</pubDate>
     <item>
       <title>Seamless navigation made possible with view transitions</title>
       <link>https://developer.chrome.com/blog/view-transitions-case-studies?hl=en</link>
@@ -1092,6 +1086,12 @@ machine learning promotion feature. This post gives an</description>
       <link>https://developer.chrome.com/blog/selection-styling?hl=en</link>
       <description>A change to CSS highlight inheritance is coming in Chrome 131.</description>
       <pubDate>Tue, 08 Oct 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Private Network Access on hold</title>
+      <link>https://developer.chrome.com/blog/pna-on-hold?hl=en</link>
+      <description>The Private Network Access (PNA) rollout is on hold.</description>
+      <pubDate>Wed, 09 Oct 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
