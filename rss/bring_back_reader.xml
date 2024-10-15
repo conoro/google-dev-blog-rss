@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Oct 2024 07:16:25 +0000</lastBuildDate>
-    <pubDate>Tue, 15 Oct 2024 07:16:25 +0000</pubDate>
-    <item>
-      <title>What's New in WebGPU (Chrome 118)</title>
-      <link>https://developer.chrome.com/blog/new-in-webgpu-118?hl=en</link>
-      <description>Extended source support for copyExternalImageToTexture, experimental support for read-write and read-only storage texture, and more.</description>
-      <pubDate>Tue, 03 Oct 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Oct 2024 08:17:10 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Oct 2024 08:17:10 +0000</pubDate>
     <item>
       <title>Chrome now supports passkeys on iCloud Keychain on macOS</title>
       <link>https://developer.chrome.com/blog/passkeys-on-icloud-keychain?hl=en</link>
@@ -1092,6 +1086,12 @@ machine learning promotion feature. This post gives an</description>
       <link>https://developer.chrome.com/blog/extension-news-october-2024?hl=en</link>
       <description>An overview of the recent changes in Chrome Extensions, plus exciting upcoming extensions features developers can look forward to.</description>
       <pubDate>Fri, 11 Oct 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's New in WebGPU (Chrome 130)</title>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-130?hl=en</link>
+      <description>Dual source blending, shader compilation time improvements on Metal, deprecation of GPUAdapter requestAdapterInfo(), and more.</description>
+      <pubDate>Tue, 15 Oct 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
