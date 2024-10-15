@@ -6,8 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Oct 2024 10:16:42 +0000</lastBuildDate>
-    <pubDate>Tue, 15 Oct 2024 10:16:42 +0000</pubDate>
+    <lastBuildDate>Tue, 15 Oct 2024 11:15:43 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Oct 2024 11:15:43 +0000</pubDate>
     <item>
       <title>Chrome now supports passkeys on iCloud Keychain on macOS</title>
       <link>https://developer.chrome.com/blog/passkeys-on-icloud-keychain?hl=en</link>
