@@ -6,20 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Oct 2024 19:15:31 +0000</lastBuildDate>
-    <pubDate>Wed, 16 Oct 2024 19:15:31 +0000</pubDate>
-    <item>
-      <title>Chrome now supports passkeys on iCloud Keychain on macOS</title>
-      <link>https://developer.chrome.com/blog/passkeys-on-icloud-keychain?hl=en</link>
-      <description>Chrome on macOS starts supporting passkeys on iCloud Keychain. This lets users create passkeys on iCloud Keychain and synchronize them across Apple devices.</description>
-      <pubDate>Tue, 03 Oct 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chrome 119 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-119-beta?hl=en</link>
-      <description>Chrome 119 beta brings you CSS relative color syntax, new pseudo-classes, and much more.</description>
-      <pubDate>Fri, 06 Oct 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Oct 2024 20:16:31 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Oct 2024 20:16:31 +0000</pubDate>
     <item>
       <title>New origin trial for fullscreen popup windows</title>
       <link>https://developer.chrome.com/blog/fullscreen-popups-origin-trial?hl=en</link>
@@ -117,6 +105,12 @@
       <pubDate>Wed, 01 Nov 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>What's new in Chrome 120 for Extensions</title>
+      <link>https://developer.chrome.com/blog/chrome-120-beta-whats-new-for-extensions?hl=en</link>
+      <description>A summary of important changes in Chrome 120 for Chrome Extension developers.</description>
+      <pubDate>Thu, 02 Nov 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>A change to the default durability mode in IndexedDB</title>
       <link>https://developer.chrome.com/blog/indexeddb-durability-mode-now-defaults-to-relaxed?hl=en</link>
       <description>The durability mode in IndexedDB is changing from strict to relaxed from Chrome 121.</description>
@@ -157,6 +151,12 @@
       <link>https://developer.chrome.com/blog/resuming-the-transition-to-mv3?hl=en</link>
       <description>In December of last year, we paused the planned deprecation of Manifest V2 in order to address developer feedback and deliver better solutions to migration issues. As a result of this feedback, we’ve made a number of changes to Manifest V3 to close</description>
       <pubDate>Thu, 16 Nov 2023 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing four new international features in CSS</title>
+      <link>https://developer.chrome.com/blog/css-i18n-features?hl=en</link>
+      <description>Chrome is adding four new international CSS features.</description>
+      <pubDate>Mon, 04 Dec 2023 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New in Chrome 120</title>
