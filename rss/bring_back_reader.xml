@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Oct 2024 15:16:18 +0000</lastBuildDate>
-    <pubDate>Sun, 20 Oct 2024 15:16:18 +0000</pubDate>
-    <item>
-      <title>Chrome 119 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-119-beta?hl=en</link>
-      <description>Chrome 119 beta brings you CSS relative color syntax, new pseudo-classes, and much more.</description>
-      <pubDate>Fri, 06 Oct 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 20 Oct 2024 16:16:44 +0000</lastBuildDate>
+    <pubDate>Sun, 20 Oct 2024 16:16:44 +0000</pubDate>
     <item>
       <title>New origin trial for fullscreen popup windows</title>
       <link>https://developer.chrome.com/blog/fullscreen-popups-origin-trial?hl=en</link>
@@ -965,6 +959,12 @@ machine learning promotion feature. This post gives an</description>
       <title>What's New in WebGPU (Chrome 129)</title>
       <link>https://developer.chrome.com/blog/new-in-webgpu-129?hl=en</link>
       <description>HDR support with canvas tone mapping mode, expanded subgroups support, and more.</description>
+      <pubDate>Tue, 17 Sep 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New in Chrome 129</title>
+      <link>https://developer.chrome.com/blog/new-in-chrome-129?hl=en</link>
+      <description>Chrome 129 is rolling out now! You can yield in long tasks - to improve performance, you can animate elements with intrinsic sizes, there are some changes to anchor positioning syntax, and there's plenty more. Pete LePage has all the details about what's new for developers in Chrome 129.</description>
       <pubDate>Tue, 17 Sep 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
