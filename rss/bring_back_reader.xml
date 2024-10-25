@@ -6,8 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Oct 2024 22:16:05 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Oct 2024 22:16:05 +0000</pubDate>
+    <lastBuildDate>Fri, 25 Oct 2024 23:16:18 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Oct 2024 23:16:18 +0000</pubDate>
     <item>
       <title>New in Chrome 118</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-118?hl=en</link>
@@ -77,7 +77,7 @@
     <item>
       <title>WebAssembly Garbage Collection (WasmGC) now enabled by default in Chrome</title>
       <link>https://developer.chrome.com/blog/wasmgc?hl=en</link>
-      <description>There are two types of programming languages: garbage-collected programming languages and programming languages that require manual memory management. This article explains how thanks to WebAssembly Garbage Collection, short WasmGC, garbage-collected languages can be ported to WebAssembly.</description>
+      <description>There are two types of programming languages: garbage-collected programming languages and programming languages that require manual memory management. With to WebAssembly Garbage Collection, garbage-collected languages can be ported to WebAssembly.</description>
       <pubDate>Tue, 31 Oct 2023 07:00:00 +0000</pubDate>
     </item>
     <item>
