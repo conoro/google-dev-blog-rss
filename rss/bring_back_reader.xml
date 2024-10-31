@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Oct 2024 15:16:35 +0000</lastBuildDate>
-    <pubDate>Thu, 31 Oct 2024 15:16:35 +0000</pubDate>
-    <item>
-      <title>Serial over Bluetooth on the web</title>
-      <link>https://developer.chrome.com/blog/serial-over-bluetooth?hl=en</link>
-      <description>The Web Serial API added support for Bluetooth RFCOMM services.</description>
-      <pubDate>Fri, 13 Oct 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 31 Oct 2024 16:16:56 +0000</lastBuildDate>
+    <pubDate>Thu, 31 Oct 2024 16:16:56 +0000</pubDate>
     <item>
       <title>Sanitizer API deprecation</title>
       <link>https://developer.chrome.com/blog/sanitizer-api-deprecation?hl=en</link>
@@ -1085,6 +1079,12 @@ machine learning promotion feature. This post gives an</description>
       <title>Help your users sign-in smoothly with seamless credential sharing</title>
       <link>https://developer.chrome.com/blog/seamless-credential-sharing?hl=en</link>
       <description>Seamless credential sharing lets you securely signal to password managers that your users can sign in using the same credentials across your Android app and website.</description>
+      <pubDate>Wed, 30 Oct 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's new in DevTools, Chrome 131</title>
+      <link>https://developer.chrome.com/blog/new-in-devtools-131?hl=en</link>
+      <description>Debug CSS with Gemini, annotate findings and get insights in the Performance panel, spot excessive layout shifts and non-composited animations, and more.</description>
       <pubDate>Wed, 30 Oct 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
