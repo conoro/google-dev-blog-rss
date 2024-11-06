@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Nov 2024 08:17:08 +0000</lastBuildDate>
-    <pubDate>Wed, 06 Nov 2024 08:17:08 +0000</pubDate>
-    <item>
-      <title>Chromium issue tracker migration</title>
-      <link>https://developer.chrome.com/blog/chromium-issue-tracker-migration?hl=en</link>
-      <description>Chromium issue tracking is migrating to a tool powered by the Google Issue tracker in January 2024.</description>
-      <pubDate>Mon, 16 Oct 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 Nov 2024 09:16:45 +0000</lastBuildDate>
+    <pubDate>Wed, 06 Nov 2024 09:16:45 +0000</pubDate>
     <item>
       <title>What's happening in Chrome Extensions?</title>
       <link>https://developer.chrome.com/blog/extension-news-october-2023?hl=en</link>
@@ -1092,6 +1086,12 @@ machine learning promotion feature. This post gives an</description>
       <link>https://developer.chrome.com/blog/seamless-credential-sharing?hl=en</link>
       <description>Seamless credential sharing lets you securely signal to password managers that your users can sign in using the same credentials across your Android app and website.</description>
       <pubDate>Mon, 04 Nov 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's New in WebGPU (Chrome 131)</title>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-131?hl=en</link>
+      <description>Clip distances in WGSL, GPUCanvasContext getConfiguration(), point and line primitives must not have depth bias, inclusive scan built-in functions for subgroups, experimental support for multi-draw indirect, shader module compilation option strict math, remove GPUAdapter requestAdapterInfo(), and more.</description>
+      <pubDate>Wed, 06 Nov 2024 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
