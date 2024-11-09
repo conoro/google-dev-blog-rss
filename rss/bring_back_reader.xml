@@ -6,8 +6,20 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 Nov 2024 14:15:46 +0000</lastBuildDate>
-    <pubDate>Sat, 09 Nov 2024 14:15:46 +0000</pubDate>
+    <lastBuildDate>Sat, 09 Nov 2024 15:16:23 +0000</lastBuildDate>
+    <pubDate>Sat, 09 Nov 2024 15:16:23 +0000</pubDate>
+    <item>
+      <title>Chromium issue tracker migration</title>
+      <link>https://developer.chrome.com/blog/chromium-issue-tracker-migration?hl=en</link>
+      <description>Chromium issue tracking is migrating to a tool powered by the Google Issue tracker in January 2024.</description>
+      <pubDate>Mon, 16 Oct 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's happening in Chrome Extensions?</title>
+      <link>https://developer.chrome.com/blog/extension-news-october-2023?hl=en</link>
+      <description>An overview of the recent changes in Chrome Extensions, plus exciting upcoming extension features developers can look forward to.</description>
+      <pubDate>Tue, 17 Oct 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>CSS text-wrap: pretty</title>
       <link>https://developer.chrome.com/blog/css-text-wrap-pretty?hl=en</link>
@@ -213,12 +225,6 @@
       <pubDate>Wed, 17 Jan 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Safely accessing the DOM with Angular SSR</title>
-      <link>https://developer.chrome.com/blog/angular-dom-safety-ssr?hl=en</link>
-      <description>Learn how to safely use the DOM together with SSR in Angular</description>
-      <pubDate>Wed, 17 Jan 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>What's New in WebGPU (Chrome 121)</title>
       <link>https://developer.chrome.com/blog/new-in-webgpu-121?hl=en</link>
       <description>Support WebGPU on Android, use of DXC for shader compilation, timestamp queries in compute and render passes, default entry points to shader modules, support display-p3 as GPUExternalTexture color space, memory heaps info, and more.</description>
@@ -270,12 +276,6 @@
       <title>What's new in DevTools (Chrome 122)</title>
       <link>https://developer.chrome.com/blog/new-in-devtools-122?hl=en</link>
       <description>Third-party cookies phaseout warnings in the Network and Application panels, enhanced debugging in the Network panel, breadcrumbs in the Performance panel, and more.</description>
-      <pubDate>Fri, 02 Feb 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chromium Issue Tracker migration beginning Feb 2, 2024 at 5pm PST</title>
-      <link>https://developer.chrome.com/blog/chromium-issue-tracker-migration-2024?hl=en</link>
-      <description>The Chromium Issue Tracker migration begins today.</description>
       <pubDate>Fri, 02 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
