@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Nov 2024 15:16:35 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Nov 2024 15:16:35 +0000</pubDate>
-    <item>
-      <title>CSS prefers-reduced-transparency</title>
-      <link>https://developer.chrome.com/blog/css-prefers-reduced-transparency?hl=en</link>
-      <description>Optimize and adjust for users who prefer an opaque UI.</description>
-      <pubDate>Wed, 25 Oct 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 Nov 2024 16:17:07 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Nov 2024 16:17:07 +0000</pubDate>
     <item>
       <title>New in Chrome 119</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-119?hl=en</link>
@@ -1091,6 +1085,12 @@ machine learning promotion feature. This post gives an</description>
       <title>Join the Translator API origin trial</title>
       <link>https://developer.chrome.com/blog/ai-translator-origin-trial?hl=en</link>
       <description>Live translate text in the browser using local AI models. Now, users can contribute in their first language.</description>
+      <pubDate>Tue, 12 Nov 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New in Chrome 131</title>
+      <link>https://developer.chrome.com/blog/new-in-chrome-131?hl=en</link>
+      <description>Chrome 131 is rolling out now! CSS Highlight Inheritance is changing, more CSS styling for the details element, easier print layout with page margin boxes, and there is plenty more.</description>
       <pubDate>Tue, 12 Nov 2024 08:00:00 +0000</pubDate>
     </item>
   </channel>
