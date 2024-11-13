@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Nov 2024 08:17:15 +0000</lastBuildDate>
-    <pubDate>Wed, 13 Nov 2024 08:17:15 +0000</pubDate>
-    <item>
-      <title>New in Chrome 119</title>
-      <link>https://developer.chrome.com/blog/new-in-chrome-119?hl=en</link>
-      <description>Chrome 119 is rolling out now! With an update to the expiration date upper limit for cookies already in storage. CSS has new pseudo classes, relative color syntax, Fenced Frames improvements like ad size macros, and there’s plenty more.</description>
-      <pubDate>Tue, 31 Oct 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Nov 2024 09:16:20 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Nov 2024 09:16:20 +0000</pubDate>
     <item>
       <title>WebAssembly Garbage Collection (WasmGC) now enabled by default in Chrome</title>
       <link>https://developer.chrome.com/blog/wasmgc?hl=en</link>
@@ -1068,6 +1062,12 @@ machine learning promotion feature. This post gives an</description>
       <link>https://developer.chrome.com/blog/styling-details?hl=en</link>
       <description>You can now set the display type and also style the container for the part that expands and collapses using the new ::details-content pseudo-element.</description>
       <pubDate>Wed, 06 Nov 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Signal API for passkeys on Chrome desktop</title>
+      <link>https://developer.chrome.com/blog/passkeys-signal-api?hl=en</link>
+      <description>Introducing Signal API for passkeys on Chrome desktop</description>
+      <pubDate>Tue, 12 Nov 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Join the Prompt API for Chrome Extensions origin trial</title>
