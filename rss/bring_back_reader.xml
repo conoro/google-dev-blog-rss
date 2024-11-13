@@ -6,8 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Nov 2024 15:16:28 +0000</lastBuildDate>
-    <pubDate>Wed, 13 Nov 2024 15:16:28 +0000</pubDate>
+    <lastBuildDate>Wed, 13 Nov 2024 16:17:34 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Nov 2024 16:17:34 +0000</pubDate>
     <item>
       <title>WebAssembly Garbage Collection (WasmGC) now enabled by default in Chrome</title>
       <link>https://developer.chrome.com/blog/wasmgc?hl=en</link>
@@ -1076,12 +1076,6 @@ machine learning promotion feature. This post gives an</description>
       <pubDate>Tue, 12 Nov 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Join the Translator API origin trial</title>
-      <link>https://developer.chrome.com/blog/ai-translator-origin-trial?hl=en</link>
-      <description>Live translate text in the browser using local AI models. Now, users can contribute in their first language.</description>
-      <pubDate>Tue, 12 Nov 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>New in Chrome 131</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-131?hl=en</link>
       <description>Chrome 131 is rolling out now! CSS Highlight Inheritance is changing, more CSS styling for the details element, easier print layout with page margin boxes, and there is plenty more.</description>
@@ -1091,6 +1085,12 @@ machine learning promotion feature. This post gives an</description>
       <title>Signal API for passkeys on Chrome desktop</title>
       <link>https://developer.chrome.com/blog/passkeys-signal-api?hl=en</link>
       <description>Introducing Signal API for passkeys on Chrome desktop</description>
+      <pubDate>Wed, 13 Nov 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Join the Translator API origin trial</title>
+      <link>https://developer.chrome.com/blog/ai-translator-origin-trial?hl=en</link>
+      <description>Live translate text in the browser using local AI models. Now, users can contribute in their first language.</description>
       <pubDate>Wed, 13 Nov 2024 08:00:00 +0000</pubDate>
     </item>
   </channel>
