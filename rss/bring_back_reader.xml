@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Nov 2024 19:15:55 +0000</lastBuildDate>
-    <pubDate>Wed, 13 Nov 2024 19:15:55 +0000</pubDate>
-    <item>
-      <title>WebAssembly Garbage Collection (WasmGC) now enabled by default in Chrome</title>
-      <link>https://developer.chrome.com/blog/wasmgc?hl=en</link>
-      <description>There are two types of programming languages: garbage-collected programming languages and programming languages that require manual memory management. With to WebAssembly Garbage Collection, garbage-collected languages can be ported to WebAssembly.</description>
-      <pubDate>Tue, 31 Oct 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Nov 2024 20:16:38 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Nov 2024 20:16:38 +0000</pubDate>
     <item>
       <title>Chrome 120 beta</title>
       <link>https://developer.chrome.com/blog/chrome-120-beta?hl=en</link>
@@ -1085,6 +1079,12 @@ machine learning promotion feature. This post gives an</description>
       <title>Signal API for passkeys on Chrome desktop</title>
       <link>https://developer.chrome.com/blog/passkeys-signal-api?hl=en</link>
       <description>Introducing Signal API for passkeys on Chrome desktop</description>
+      <pubDate>Wed, 13 Nov 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chrome 132 beta</title>
+      <link>https://developer.chrome.com/blog/chrome-132-beta?hl=en</link>
+      <description>Learn about the latest features shipping in Chrome.</description>
       <pubDate>Wed, 13 Nov 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
