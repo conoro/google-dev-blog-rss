@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Nov 2024 14:16:13 +0000</lastBuildDate>
-    <pubDate>Thu, 14 Nov 2024 14:16:13 +0000</pubDate>
-    <item>
-      <title>Chrome 120 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-120-beta?hl=en</link>
-      <description>CSS masking, relaxed rules for CSS nesting, create accordion patterns with the element, the enterpictureinpicture action for the Media Session API.</description>
-      <pubDate>Wed, 01 Nov 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 Nov 2024 15:16:42 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Nov 2024 15:16:42 +0000</pubDate>
     <item>
       <title>What's new in Chrome 120 for Extensions</title>
       <link>https://developer.chrome.com/blog/chrome-120-beta-whats-new-for-extensions?hl=en</link>
@@ -1079,6 +1073,12 @@ machine learning promotion feature. This post gives an</description>
       <title>Signal API for passkeys on Chrome desktop</title>
       <link>https://developer.chrome.com/blog/passkeys-signal-api?hl=en</link>
       <description>Introducing Signal API for passkeys on Chrome desktop</description>
+      <pubDate>Wed, 13 Nov 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Annotate traces directly in the Performance panel</title>
+      <link>https://developer.chrome.com/blog/devtools-annotations?hl=en</link>
+      <description>Learn how to make performance traces more understandable with the new annotations features in DevTools</description>
       <pubDate>Wed, 13 Nov 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
