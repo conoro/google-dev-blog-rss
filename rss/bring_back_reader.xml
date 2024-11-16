@@ -6,8 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 16 Nov 2024 21:15:58 +0000</lastBuildDate>
-    <pubDate>Sat, 16 Nov 2024 21:15:58 +0000</pubDate>
+    <lastBuildDate>Sat, 16 Nov 2024 22:15:51 +0000</lastBuildDate>
+    <pubDate>Sat, 16 Nov 2024 22:15:51 +0000</pubDate>
     <item>
       <title>What's new in Chrome 120 for Extensions</title>
       <link>https://developer.chrome.com/blog/chrome-120-beta-whats-new-for-extensions?hl=en</link>
