@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Nov 2024 15:16:43 +0000</lastBuildDate>
-    <pubDate>Tue, 19 Nov 2024 15:16:43 +0000</pubDate>
-    <item>
-      <title>What's new in Chrome 120 for Extensions</title>
-      <link>https://developer.chrome.com/blog/chrome-120-beta-whats-new-for-extensions?hl=en</link>
-      <description>A summary of important changes in Chrome 120 for Chrome Extension developers.</description>
-      <pubDate>Thu, 02 Nov 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Nov 2024 16:17:10 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Nov 2024 16:17:10 +0000</pubDate>
     <item>
       <title>A change to the default durability mode in IndexedDB</title>
       <link>https://developer.chrome.com/blog/indexeddb-durability-mode-now-defaults-to-relaxed?hl=en</link>
@@ -1092,6 +1086,12 @@ machine learning promotion feature. This post gives an</description>
       <link>https://developer.chrome.com/blog/ai-translator-origin-trial?hl=en</link>
       <description>Live translate text in the browser using local AI models. Now, users can contribute in their first language.</description>
       <pubDate>Wed, 13 Nov 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prepare your extension as we begin testing a new extensions menu</title>
+      <link>https://developer.chrome.com/blog/new-extensions-menu-testing?hl=en</link>
+      <description>How to prepare your extension for the new extensions menu.</description>
+      <pubDate>Tue, 19 Nov 2024 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
