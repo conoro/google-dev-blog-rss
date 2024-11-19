@@ -6,8 +6,20 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Nov 2024 06:17:26 +0000</lastBuildDate>
-    <pubDate>Tue, 19 Nov 2024 06:17:26 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Nov 2024 07:16:25 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Nov 2024 07:16:25 +0000</pubDate>
+    <item>
+      <title>WebAssembly Garbage Collection (WasmGC) now enabled by default in Chrome</title>
+      <link>https://developer.chrome.com/blog/wasmgc?hl=en</link>
+      <description>There are two types of programming languages: garbage-collected programming languages and programming languages that require manual memory management. With to WebAssembly Garbage Collection, garbage-collected languages can be ported to WebAssembly.</description>
+      <pubDate>Tue, 31 Oct 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chrome 120 beta</title>
+      <link>https://developer.chrome.com/blog/chrome-120-beta?hl=en</link>
+      <description>CSS masking, relaxed rules for CSS nesting, create accordion patterns with the element, the enterpictureinpicture action for the Media Session API.</description>
+      <pubDate>Wed, 01 Nov 2023 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>What's new in Chrome 120 for Extensions</title>
       <link>https://developer.chrome.com/blog/chrome-120-beta-whats-new-for-extensions?hl=en</link>
@@ -241,12 +253,6 @@
       <link>https://developer.chrome.com/blog/chromium-issue-tracker-migration-complete?hl=en</link>
       <description>Chromium issue tracking is now migrated.</description>
       <pubDate>Mon, 05 Feb 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What's New in WebGPU (Chrome 122)</title>
-      <link>https://developer.chrome.com/blog/new-in-webgpu-122?hl=en</link>
-      <description>Compatibility mode in development, increase maxVertexAttributes limit, and Dawn updates.</description>
-      <pubDate>Tue, 13 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A 400% faster Performance panel through perf-ception</title>
@@ -840,12 +846,6 @@ machine learning promotion feature. This post gives an</description>
       <link>https://developer.chrome.com/blog/keyboard-lock-pointer-lock-permission?hl=en</link>
       <description>The Keyboard Lock API lets developers provide an immersive, full screen experience for a variety of use cases, including interactive websites, games, and remote desktop or application streaming. It does so by enabling websites to use all available</description>
       <pubDate>Tue, 10 Sep 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Freeze screen &amp; inspect disappearing elements</title>
-      <link>https://developer.chrome.com/blog/devtools-tips-35?hl=en</link>
-      <description>Freeze elements in the DOM so that you can inspect them with DevTools.</description>
-      <pubDate>Thu, 12 Sep 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Request for developer feedback: customizable select</title>
