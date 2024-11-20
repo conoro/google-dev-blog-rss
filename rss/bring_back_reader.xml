@@ -6,20 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Nov 2024 05:16:17 +0000</lastBuildDate>
-    <pubDate>Wed, 20 Nov 2024 05:16:17 +0000</pubDate>
-    <item>
-      <title>Chrome 120 beta</title>
-      <link>https://developer.chrome.com/blog/chrome-120-beta?hl=en</link>
-      <description>CSS masking, relaxed rules for CSS nesting, create accordion patterns with the element, the enterpictureinpicture action for the Media Session API.</description>
-      <pubDate>Wed, 01 Nov 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What's new in Chrome 120 for Extensions</title>
-      <link>https://developer.chrome.com/blog/chrome-120-beta-whats-new-for-extensions?hl=en</link>
-      <description>A summary of important changes in Chrome 120 for Chrome Extension developers.</description>
-      <pubDate>Thu, 02 Nov 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Nov 2024 06:17:26 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Nov 2024 06:17:26 +0000</pubDate>
     <item>
       <title>A change to the default durability mode in IndexedDB</title>
       <link>https://developer.chrome.com/blog/indexeddb-durability-mode-now-defaults-to-relaxed?hl=en</link>
@@ -319,6 +307,12 @@
       <link>https://developer.chrome.com/blog/speculation-rules-improvements?hl=en</link>
       <description>Details of the latest updates to the Speculation Rules API including document rules, eagerness setting, limits, and speculation rules support on platforms.</description>
       <pubDate>Thu, 29 Feb 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Download old Headless Chrome as chrome-headless-shell</title>
+      <link>https://developer.chrome.com/blog/chrome-headless-shell?hl=en</link>
+      <description>You can now download the old Headless Chrome as a standalone binary for every user-facing Chrome release.</description>
+      <pubDate>Wed, 06 Mar 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Supercharge compression efficiency with shared dictionaries</title>
@@ -869,6 +863,12 @@ machine learning promotion feature. This post gives an</description>
       <title>New in Chrome 129</title>
       <link>https://developer.chrome.com/blog/new-in-chrome-129?hl=en</link>
       <description>Chrome 129 is rolling out now! You can yield in long tasks - to improve performance, you can animate elements with intrinsic sizes, there are some changes to anchor positioning syntax, and there's plenty more. Pete LePage has all the details about what's new for developers in Chrome 129.</description>
+      <pubDate>Tue, 17 Sep 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Monitor your local and real-user Core Web Vitals performance in DevTools</title>
+      <link>https://developer.chrome.com/blog/devtools-realtime-cwv?hl=en</link>
+      <description>The Performance panel in Chrome DevTools features a new way to monitor your local Core Web Vitals performance and compare it against real-user data from the field.</description>
       <pubDate>Tue, 17 Sep 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
