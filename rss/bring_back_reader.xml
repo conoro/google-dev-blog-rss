@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Nov 2024 06:17:22 +0000</lastBuildDate>
-    <pubDate>Thu, 21 Nov 2024 06:17:22 +0000</pubDate>
-    <item>
-      <title>A change to the default durability mode in IndexedDB</title>
-      <link>https://developer.chrome.com/blog/indexeddb-durability-mode-now-defaults-to-relaxed?hl=en</link>
-      <description>The durability mode in IndexedDB is changing from strict to relaxed from Chrome 121.</description>
-      <pubDate>Fri, 03 Nov 2023 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 Nov 2024 07:16:16 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Nov 2024 07:16:16 +0000</pubDate>
     <item>
       <title>What's new in DevTools (Chrome 120)</title>
       <link>https://developer.chrome.com/blog/new-in-devtools-120?hl=en</link>
@@ -1092,6 +1086,12 @@ machine learning promotion feature. This post gives an</description>
       <link>https://developer.chrome.com/blog/new-extensions-menu-testing?hl=en</link>
       <description>How to prepare your extension for the new extensions menu.</description>
       <pubDate>Tue, 19 Nov 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's next for WebGPU</title>
+      <link>https://developer.chrome.com/blog/next-for-webgpu?hl=en</link>
+      <description>Learn about new AI and rendering features discussed at the latest GPU for the Web working group meeting.</description>
+      <pubDate>Thu, 21 Nov 2024 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
