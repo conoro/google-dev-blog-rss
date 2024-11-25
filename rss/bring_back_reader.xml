@@ -6,8 +6,20 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 24 Nov 2024 23:16:14 +0000</lastBuildDate>
-    <pubDate>Sun, 24 Nov 2024 23:16:14 +0000</pubDate>
+    <lastBuildDate>Mon, 25 Nov 2024 00:34:56 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Nov 2024 00:34:56 +0000</pubDate>
+    <item>
+      <title>A change to the default durability mode in IndexedDB</title>
+      <link>https://developer.chrome.com/blog/indexeddb-durability-mode-now-defaults-to-relaxed?hl=en</link>
+      <description>The durability mode in IndexedDB is changing from strict to relaxed from Chrome 121.</description>
+      <pubDate>Fri, 03 Nov 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's new in DevTools (Chrome 120)</title>
+      <link>https://developer.chrome.com/blog/new-in-devtools-120?hl=en</link>
+      <description>Third-party cookie phaseout issues reported in the Issues panel, Privacy Sandbox Analysis Tool for cookies, effective Content Security Policy in the Applications panel, improved animations debugging, enhanced ignore listing, and more.</description>
+      <pubDate>Thu, 09 Nov 2023 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Capturing the WebGPU ecosystem</title>
       <link>https://developer.chrome.com/blog/webgpu-ecosystem?hl=en</link>
@@ -986,12 +998,6 @@ machine learning promotion feature. This post gives an</description>
       <pubDate>Mon, 21 Oct 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>New scroll badge in DevTools: Find scrollable elements faster</title>
-      <link>https://developer.chrome.com/blog/swe-devtools-scroll-badge?hl=en</link>
-      <description>Learn how DevTools' new scroll badge simplifies debugging scrollable elements (and how we built it!).</description>
-      <pubDate>Tue, 22 Oct 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Removing --headless=old from Chrome</title>
       <link>https://developer.chrome.com/blog/removing-headless-old-from-chrome?hl=en</link>
       <description>Chrome 132 no longer includes the old Headless mode. Migrate to chrome-headless-shell or the new Headless mode.</description>
@@ -1074,12 +1080,6 @@ machine learning promotion feature. This post gives an</description>
       <link>https://developer.chrome.com/blog/ai-translator-origin-trial?hl=en</link>
       <description>Live translate text in the browser using local AI models. Now, users can contribute in their first language.</description>
       <pubDate>Wed, 13 Nov 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prepare your extension as we begin testing a new extensions menu</title>
-      <link>https://developer.chrome.com/blog/new-extensions-menu-testing?hl=en</link>
-      <description>How to prepare your extension for the new extensions menu.</description>
-      <pubDate>Tue, 19 Nov 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Video accessibility wins the Gemini API Developer Competition web award</title>
