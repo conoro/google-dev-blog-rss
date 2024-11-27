@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 Nov 2024 17:16:03 +0000</lastBuildDate>
-    <pubDate>Wed, 27 Nov 2024 17:16:03 +0000</pubDate>
-    <item>
-      <title>Capturing the WebGPU ecosystem</title>
-      <link>https://developer.chrome.com/blog/webgpu-ecosystem?hl=en</link>
-      <description>Learn about how the WebGPU ecosystem extends beyond the JavaScript, C++, and Rust realms.</description>
-      <pubDate>Thu, 09 Nov 2023 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 27 Nov 2024 18:17:18 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Nov 2024 18:17:18 +0000</pubDate>
     <item>
       <title>What’s new in the Angular NgOptimizedImage directive</title>
       <link>https://developer.chrome.com/blog/angular_ngoptimizedimage?hl=en</link>
@@ -1092,6 +1086,12 @@ machine learning promotion feature. This post gives an</description>
       <link>https://developer.chrome.com/blog/next-for-webgpu?hl=en</link>
       <description>Learn about new AI and rendering features discussed at the latest GPU for the Web working group meeting.</description>
       <pubDate>Thu, 21 Nov 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deprecation of the Performance Insights panel</title>
+      <link>https://developer.chrome.com/blog/insights-panel-deprecation?hl=en</link>
+      <description>The experimental Performance Insights Panel will be removed in January 2025, replaced by new insights within the Performance panel itself.</description>
+      <pubDate>Tue, 26 Nov 2024 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
