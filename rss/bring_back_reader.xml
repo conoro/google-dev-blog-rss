@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Dec 2024 18:17:37 +0000</lastBuildDate>
-    <pubDate>Thu, 05 Dec 2024 18:17:37 +0000</pubDate>
-    <item>
-      <title>What’s new in the Angular NgOptimizedImage directive</title>
-      <link>https://developer.chrome.com/blog/angular_ngoptimizedimage?hl=en</link>
-      <description>Learn about the new features included in the Angular NgOptimizedImage directive that further improve image performance in Angular apps.</description>
-      <pubDate>Wed, 15 Nov 2023 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Dec 2024 19:15:56 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Dec 2024 19:15:56 +0000</pubDate>
     <item>
       <title>Improving content filtering in Manifest V3</title>
       <link>https://developer.chrome.com/blog/improvements-to-content-filtering-in-manifest-v3?hl=en</link>
@@ -1092,6 +1086,12 @@ machine learning promotion feature. This post gives an</description>
       <link>https://developer.chrome.com/blog/insights-panel-deprecation?hl=en</link>
       <description>The experimental Performance Insights Panel will be removed in January 2025, replaced by new insights within the Performance panel itself.</description>
       <pubDate>Tue, 26 Nov 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CSS Wrapped 2024</title>
+      <link>https://developer.chrome.com/blog/css-wrapped-2024?hl=en</link>
+      <description>Join the Chrome DevRel team and a skateboarding Chrome Dino on a journey through the latest CSS launched for Chrome and the web platform in 2024.</description>
+      <pubDate>Thu, 05 Dec 2024 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
