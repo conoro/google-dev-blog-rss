@@ -6,20 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Dec 2024 05:16:35 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Dec 2024 05:16:35 +0000</pubDate>
-    <item>
-      <title>Improving content filtering in Manifest V3</title>
-      <link>https://developer.chrome.com/blog/improvements-to-content-filtering-in-manifest-v3?hl=en</link>
-      <description>Over the past year, we have been actively involved in discussions with the vendors behind several content blocking extensions around ways to improve the MV3 extensions platform. Based on these discussions, many of which took place in the</description>
-      <pubDate>Wed, 15 Nov 2023 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Automatic picture-in-picture for web apps</title>
-      <link>https://developer.chrome.com/blog/automatic-picture-in-picture?hl=en</link>
-      <description>Chrome allows video conferencing web apps to automatically enter picture-in-picture.</description>
-      <pubDate>Thu, 16 Nov 2023 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Dec 2024 06:17:45 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Dec 2024 06:17:45 +0000</pubDate>
     <item>
       <title>Resuming the transition to Manifest V3</title>
       <link>https://developer.chrome.com/blog/resuming-the-transition-to-mv3?hl=en</link>
@@ -211,6 +199,12 @@
       <link>https://developer.chrome.com/blog/chromium-issue-tracker-migration-complete?hl=en</link>
       <description>Chromium issue tracking is now migrated.</description>
       <pubDate>Mon, 05 Feb 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's New in WebGPU (Chrome 122)</title>
+      <link>https://developer.chrome.com/blog/new-in-webgpu-122?hl=en</link>
+      <description>Compatibility mode in development, increase maxVertexAttributes limit, and Dawn updates.</description>
+      <pubDate>Tue, 13 Feb 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A 400% faster Performance panel through perf-ception</title>
@@ -804,6 +798,12 @@ machine learning promotion feature. This post gives an</description>
       <link>https://developer.chrome.com/blog/keyboard-lock-pointer-lock-permission?hl=en</link>
       <description>The Keyboard Lock API lets developers provide an immersive, full screen experience for a variety of use cases, including interactive websites, games, and remote desktop or application streaming. It does so by enabling websites to use all available</description>
       <pubDate>Tue, 10 Sep 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Freeze screen &amp; inspect disappearing elements</title>
+      <link>https://developer.chrome.com/blog/devtools-tips-35?hl=en</link>
+      <description>Freeze elements in the DOM so that you can inspect them with DevTools.</description>
+      <pubDate>Thu, 12 Sep 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Request for developer feedback: customizable select</title>
