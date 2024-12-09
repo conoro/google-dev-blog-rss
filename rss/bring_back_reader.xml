@@ -6,14 +6,8 @@
     <description>Latest blog posts from the Google Developer Blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Dec 2024 02:42:47 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Dec 2024 02:42:47 +0000</pubDate>
-    <item>
-      <title>Automatic picture-in-picture for web apps</title>
-      <link>https://developer.chrome.com/blog/automatic-picture-in-picture?hl=en</link>
-      <description>Chrome allows video conferencing web apps to automatically enter picture-in-picture.</description>
-      <pubDate>Thu, 16 Nov 2023 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Dec 2024 03:26:50 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Dec 2024 03:26:50 +0000</pubDate>
     <item>
       <title>Resuming the transition to Manifest V3</title>
       <link>https://developer.chrome.com/blog/resuming-the-transition-to-mv3?hl=en</link>
@@ -762,6 +756,12 @@ machine learning promotion feature. This post gives an</description>
       <link>https://developer.chrome.com/blog/chrome-129-beta?hl=en</link>
       <description>Get a preview of the next Chrome release with this post detailing the features in the current beta.</description>
       <pubDate>Thu, 22 Aug 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Language detection API available for early preview</title>
+      <link>https://developer.chrome.com/blog/august2024-language-detection?hl=en</link>
+      <description>EPP participants can now prototype with a language detection API in Chrome.</description>
+      <pubDate>Tue, 27 Aug 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's missing from HTML and CSS?</title>
