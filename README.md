@@ -1,5 +1,7 @@
 # An RSS feed for the Google Chrome Developer Blog because these things matter
 
+UPDATE DECEMBER 2024: Google brought back the RSS feed so there is no longer any need for this tool. See https://developer.chrome.com/static/blog/feed.xml
+
 Courtesy of ChatGPT and GitHub Copilot (and a tiny bit of Conor), here's a [basic RSS feed](https://conoro.github.io/google-dev-blog-rss/rss/bring_back_reader.xml) for the [Google Chrome Developer Blog](https://developer.chrome.com/blog).
 
 It runs on GitHub Actions and is generated once an hour.
